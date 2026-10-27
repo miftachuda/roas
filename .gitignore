@@ -27,3 +27,5 @@ lerna-debug.log*
 Thumbs.db
 .vscode/
 .idea/
+
+package-lock.json
