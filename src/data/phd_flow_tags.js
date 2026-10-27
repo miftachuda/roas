@@ -1,0 +1,8030 @@
+export const phdTagCatalog = [
+  {
+    "tagname": "002FI_035.PV",
+    "desc": "Fuel Oil Supply Header Flow"
+  },
+  {
+    "tagname": "021FFIC_712.PV",
+    "desc": "To TIC 267-270 Ratio"
+  },
+  {
+    "tagname": "021FFIC_712.SP",
+    "desc": "To TIC 267-270 Ratio"
+  },
+  {
+    "tagname": "021FIC_005.MODE",
+    "desc": "Tempered Water Circulatoin"
+  },
+  {
+    "tagname": "021FIC_005.OP",
+    "desc": "Tempered Water Circulatoin"
+  },
+  {
+    "tagname": "021FIC_005.PV",
+    "desc": "Tempered Water Circulatoin"
+  },
+  {
+    "tagname": "021FIC_005.SP",
+    "desc": "Tempered Water Circulatoin"
+  },
+  {
+    "tagname": "021FIC_006.OP",
+    "desc": "MMO Reflex to 021C102"
+  },
+  {
+    "tagname": "021FIC_006.PV",
+    "desc": "MMO Reflex to 021C102"
+  },
+  {
+    "tagname": "021FIC_006.SP",
+    "desc": "MMO Reflex to 021C102"
+  },
+  {
+    "tagname": "021FIC_011.OP",
+    "desc": "021P105 1St Fac Col BCR"
+  },
+  {
+    "tagname": "021FIC_011.PV",
+    "desc": "021P105 1St Fac Col BCR"
+  },
+  {
+    "tagname": "021FIC_011.SP",
+    "desc": "021P105 1St Fac Col BCR"
+  },
+  {
+    "tagname": "021FIC_022.OP",
+    "desc": "Combustion Air to021F101 Burner"
+  },
+  {
+    "tagname": "021FIC_022.PV",
+    "desc": "Combustion Air to021F101 Burner"
+  },
+  {
+    "tagname": "021FIC_022.SP",
+    "desc": "Combustion Air to021F101 Burner"
+  },
+  {
+    "tagname": "021FIC_025.OP",
+    "desc": "021F101 Long Residue  Coil 1"
+  },
+  {
+    "tagname": "021FIC_025.PV",
+    "desc": "021F101 Long Residue  Coil 1"
+  },
+  {
+    "tagname": "021FIC_025.SP",
+    "desc": "021F101 Long Residue  Coil 1"
+  },
+  {
+    "tagname": "021FIC_026.OP",
+    "desc": "021F101 Long Residue  Coil 2"
+  },
+  {
+    "tagname": "021FIC_026.PV",
+    "desc": "021F101 Long Residue  Coil 2"
+  },
+  {
+    "tagname": "021FIC_026.SP",
+    "desc": "021F101 Long Residue  Coil 2"
+  },
+  {
+    "tagname": "021FIC_027.OP",
+    "desc": "021F101 Long Residue  Coil 3"
+  },
+  {
+    "tagname": "021FIC_027.PV",
+    "desc": "021F101 Long Residue  Coil 3"
+  },
+  {
+    "tagname": "021FIC_027.SP",
+    "desc": "021F101 Long Residue  Coil 3"
+  },
+  {
+    "tagname": "021FIC_028.OP",
+    "desc": "021F101 Long Residue  Coil 4"
+  },
+  {
+    "tagname": "021FIC_028.PV",
+    "desc": "021F101 Long Residue  Coil 4"
+  },
+  {
+    "tagname": "021FIC_028.SP",
+    "desc": "021F101 Long Residue  Coil 4"
+  },
+  {
+    "tagname": "021FIC_047.OP",
+    "desc": "Lt Mach Oil Draw-Off Pot"
+  },
+  {
+    "tagname": "021FIC_047.PV",
+    "desc": "Lt Mach Oil Draw-Off Pot"
+  },
+  {
+    "tagname": "021FIC_047.SP",
+    "desc": "Lt Mach Oil Draw-Off Pot"
+  },
+  {
+    "tagname": "021FIC_048.OP",
+    "desc": "Spindle Oil to 021V101"
+  },
+  {
+    "tagname": "021FIC_048.PV",
+    "desc": "Spindle Oil to 021V101"
+  },
+  {
+    "tagname": "021FIC_048.SP",
+    "desc": "Spindle Oil to 021V101"
+  },
+  {
+    "tagname": "021FIC_050.OP",
+    "desc": "Intermediete Distilate Reflux to C101"
+  },
+  {
+    "tagname": "021FIC_050.PV",
+    "desc": "Intermediete Distilate Reflux to C101"
+  },
+  {
+    "tagname": "021FIC_050.SP",
+    "desc": "Intermediete Distilate Reflux to C101"
+  },
+  {
+    "tagname": "021FIC_051.OP",
+    "desc": "VGO Ret. to C101 Tray 41"
+  },
+  {
+    "tagname": "021FIC_051.PV",
+    "desc": "VGO Ret. to C101 Tray 41"
+  },
+  {
+    "tagname": "021FIC_051.SP",
+    "desc": "VGO Ret. to C101 Tray 41"
+  },
+  {
+    "tagname": "021FIC_054.OP",
+    "desc": "Hot VGO to 021C101"
+  },
+  {
+    "tagname": "021FIC_054.PV",
+    "desc": "Hot VGO to 021C101"
+  },
+  {
+    "tagname": "021FIC_054.SP",
+    "desc": "Hot VGO to 021C101"
+  },
+  {
+    "tagname": "021FIC_057.OP",
+    "desc": "LMO Rundown to 041T116"
+  },
+  {
+    "tagname": "021FIC_057.PV",
+    "desc": "LMO Rundown to 041T116"
+  },
+  {
+    "tagname": "021FIC_057.SP",
+    "desc": "LMO Rundown to 041T116"
+  },
+  {
+    "tagname": "021FIC_058.OP",
+    "desc": "Spindle Oil Rundown"
+  },
+  {
+    "tagname": "021FIC_058.PV",
+    "desc": "Spindle Oil Rundown"
+  },
+  {
+    "tagname": "021FIC_058.SP",
+    "desc": "Spindle Oil Rundown"
+  },
+  {
+    "tagname": "021FIC_060.OP",
+    "desc": "021F102 Intermediate  Residue Coil 1"
+  },
+  {
+    "tagname": "021FIC_060.PV",
+    "desc": "021F102 Intermediate  Residue Coil 1"
+  },
+  {
+    "tagname": "021FIC_060.SP",
+    "desc": "021F102 Intermediate  Residue Coil 1"
+  },
+  {
+    "tagname": "021FIC_061.OP",
+    "desc": "021F102 Intermediate  Residue Coil 2"
+  },
+  {
+    "tagname": "021FIC_061.PV",
+    "desc": "021F102 Intermediate  Residue Coil 2"
+  },
+  {
+    "tagname": "021FIC_061.SP",
+    "desc": "021F102 Intermediate  Residue Coil 2"
+  },
+  {
+    "tagname": "021FIC_062.OP",
+    "desc": "021F102 Intermediate  Residue Coil 3"
+  },
+  {
+    "tagname": "021FIC_062.PV",
+    "desc": "021F102 Intermediate  Residue Coil 3"
+  },
+  {
+    "tagname": "021FIC_062.SP",
+    "desc": "021F102 Intermediate  Residue Coil 3"
+  },
+  {
+    "tagname": "021FIC_063.OP",
+    "desc": "021F102 Intermediate  Residue Coil 4"
+  },
+  {
+    "tagname": "021FIC_063.PV",
+    "desc": "021F102 Intermediate  Residue Coil 4"
+  },
+  {
+    "tagname": "021FIC_063.SP",
+    "desc": "021F102 Intermediate  Residue Coil 4"
+  },
+  {
+    "tagname": "021FIC_064.OP",
+    "desc": "021F102 Intermediate  Residue Coil 5"
+  },
+  {
+    "tagname": "021FIC_064.PV",
+    "desc": "021F102 Intermediate  Residue Coil 5"
+  },
+  {
+    "tagname": "021FIC_064.SP",
+    "desc": "021F102 Intermediate  Residue Coil 5"
+  },
+  {
+    "tagname": "021FIC_092.OP",
+    "desc": "Air Supply to 021F102"
+  },
+  {
+    "tagname": "021FIC_092.PV",
+    "desc": "Air Supply to 021F102"
+  },
+  {
+    "tagname": "021FIC_092.SP",
+    "desc": "Air Supply to 021F102"
+  },
+  {
+    "tagname": "021FIC_101.OP",
+    "desc": "Black Oil Reflux C102"
+  },
+  {
+    "tagname": "021FIC_101.PV",
+    "desc": "Black Oil Reflux C102"
+  },
+  {
+    "tagname": "021FIC_101.SP",
+    "desc": "Black Oil Reflux C102"
+  },
+  {
+    "tagname": "021FIC_102.OP",
+    "desc": "Black Oil to Fuel"
+  },
+  {
+    "tagname": "021FIC_102.PV",
+    "desc": "Black Oil to Fuel"
+  },
+  {
+    "tagname": "021FIC_102.SP",
+    "desc": "Black Oil to Fuel"
+  },
+  {
+    "tagname": "021FIC_103.OP",
+    "desc": "MMO Return to 021C102"
+  },
+  {
+    "tagname": "021FIC_103.PV",
+    "desc": "MMO Return to 021C102"
+  },
+  {
+    "tagname": "021FIC_103.SP",
+    "desc": "MMO Return to 021C102"
+  },
+  {
+    "tagname": "021FIC_104.OP",
+    "desc": "021C102 LMMO Reflux"
+  },
+  {
+    "tagname": "021FIC_104.PV",
+    "desc": "021C102 LMMO Reflux"
+  },
+  {
+    "tagname": "021FIC_104.SP",
+    "desc": "021C102 LMMO Reflux"
+  },
+  {
+    "tagname": "021FIC_701.OP",
+    "desc": "Intermediete Residue to C101 Quench"
+  },
+  {
+    "tagname": "021FIC_701.PV",
+    "desc": "Intermediete Residue to C101 Quench"
+  },
+  {
+    "tagname": "021FIC_701.SP",
+    "desc": "Intermediete Residue to C101 Quench"
+  },
+  {
+    "tagname": "021FIC_703.OP",
+    "desc": "BCR to C101 BCR/Idis Bd"
+  },
+  {
+    "tagname": "021FIC_703.PV",
+    "desc": "BCR to C101 BCR/Idis Bd"
+  },
+  {
+    "tagname": "021FIC_703.SP",
+    "desc": "BCR to C101 BCR/Idis Bd"
+  },
+  {
+    "tagname": "021FIC_704.OP",
+    "desc": "Intermediete Dist to IFO V107/P11"
+  },
+  {
+    "tagname": "021FIC_704.PV",
+    "desc": "Intermediete Dist to IFO V107/P11"
+  },
+  {
+    "tagname": "021FIC_704.SP",
+    "desc": "Intermediete Dist to IFO V107/P11"
+  },
+  {
+    "tagname": "021FIC_705.OP",
+    "desc": "Black Oil From 1E115"
+  },
+  {
+    "tagname": "021FIC_705.PV",
+    "desc": "Black Oil From 1E115"
+  },
+  {
+    "tagname": "021FIC_705.SP",
+    "desc": "Black Oil From 1E115"
+  },
+  {
+    "tagname": "021FIC_706.OP",
+    "desc": "Pass Balancing 021F101"
+  },
+  {
+    "tagname": "021FIC_706.PV",
+    "desc": "Pass Balancing 021F101"
+  },
+  {
+    "tagname": "021FIC_706.SP",
+    "desc": "Pass Balancing 021F101"
+  },
+  {
+    "tagname": "021FIC_714.OP",
+    "desc": "Pass Balancing 021F102"
+  },
+  {
+    "tagname": "021FIC_714.PV",
+    "desc": "Pass Balancing 021F102"
+  },
+  {
+    "tagname": "021FIC_714.SP",
+    "desc": "Pass Balancing 021F102"
+  },
+  {
+    "tagname": "021FI_002.PV",
+    "desc": "Short Residue to Storage"
+  },
+  {
+    "tagname": "021FI_004.PV",
+    "desc": "Long Residue Charge to HVU-II"
+  },
+  {
+    "tagname": "021FI_008.PV",
+    "desc": "MMO Product to Storage"
+  },
+  {
+    "tagname": "021FI_009.PV",
+    "desc": "Light MMO to IFO Header"
+  },
+  {
+    "tagname": "021FI_012N.PV",
+    "desc": "Steam to 021F101 Coil #1"
+  },
+  {
+    "tagname": "021FI_013N.PV",
+    "desc": "Steam to 021F101 Coil #2"
+  },
+  {
+    "tagname": "021FI_014N.PV",
+    "desc": "Steam to 021F101 Coil #3"
+  },
+  {
+    "tagname": "021FI_015N.PV",
+    "desc": "Steam to 021F101 Coil #4"
+  },
+  {
+    "tagname": "021FI_019A.PV",
+    "desc": "HP Fuel Oil Supply to F101"
+  },
+  {
+    "tagname": "021FI_020.PV",
+    "desc": "Fuel Gas Supply to F101"
+  },
+  {
+    "tagname": "021FI_021.PV",
+    "desc": "Fuel Gas Supply to 021F101"
+  },
+  {
+    "tagname": "021FI_023.PV",
+    "desc": "Combustion Air to021F101 Burner"
+  },
+  {
+    "tagname": "021FI_024N.PV",
+    "desc": "Steam to Transfer F101"
+  },
+  {
+    "tagname": "021FI_029.PV",
+    "desc": "Long Residue Heater Convection Section Pass 1"
+  },
+  {
+    "tagname": "021FI_030.PV",
+    "desc": "Long Residue Heater Convection Section Pass 2"
+  },
+  {
+    "tagname": "021FI_031.PV",
+    "desc": "Long Residue Heater Convection Section Pass 3"
+  },
+  {
+    "tagname": "021FI_032.PV",
+    "desc": "Long Residue Heater Convection Section Pass 4"
+  },
+  {
+    "tagname": "021FI_041.PV",
+    "desc": "Superheated LP Steam to User"
+  },
+  {
+    "tagname": "021FI_042N.PV",
+    "desc": "Steam to 021C101"
+  },
+  {
+    "tagname": "021FI_049.PV",
+    "desc": "Intermediete Distilate to IFO Header"
+  },
+  {
+    "tagname": "021FI_050.PV",
+    "desc": "Intermediete Distilate Reflux to C101"
+  },
+  {
+    "tagname": "021FI_053.PV",
+    "desc": "VGO Rundown to IFO Header"
+  },
+  {
+    "tagname": "021FI_055N.PV",
+    "desc": "Steam to 021C104"
+  },
+  {
+    "tagname": "021FI_056N.PV",
+    "desc": "Steam to 021C103"
+  },
+  {
+    "tagname": "021FI_057.PV",
+    "desc": "LMO Rundown to 041T116"
+  },
+  {
+    "tagname": "021FI_058.PV",
+    "desc": "Spindle Oil Rundown"
+  },
+  {
+    "tagname": "021FI_059N.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "021FI_065.PV",
+    "desc": "Intermediate  Residue to 021F102 Pass-1"
+  },
+  {
+    "tagname": "021FI_066.PV",
+    "desc": "Intermediate  Residue to 021F102 Pass-2"
+  },
+  {
+    "tagname": "021FI_067.PV",
+    "desc": "Intermediate  Residue to 021F102 Pass-3"
+  },
+  {
+    "tagname": "021FI_068.PV",
+    "desc": "Intermediate  Residue to 021F102 Pass-4"
+  },
+  {
+    "tagname": "021FI_069.PV",
+    "desc": "Intermediate  Residue to 021F102 Pass-5"
+  },
+  {
+    "tagname": "021FI_080N.PV",
+    "desc": "Steam to 021F102 Coil #1"
+  },
+  {
+    "tagname": "021FI_081N.PV",
+    "desc": "Steam to 021F102 Coil #2"
+  },
+  {
+    "tagname": "021FI_082N.PV",
+    "desc": "Steam to 021F102 Coil #3"
+  },
+  {
+    "tagname": "021FI_083N.PV",
+    "desc": "Steam to 021F102 Coil #4"
+  },
+  {
+    "tagname": "021FI_084N.PV",
+    "desc": "Steam to 021F102 Coil #5"
+  },
+  {
+    "tagname": "021FI_090A.PV",
+    "desc": "HP Fuel Oil Supply to 021F102"
+  },
+  {
+    "tagname": "021FI_091A.PV",
+    "desc": "Fuel Gas Supply to 021F102"
+  },
+  {
+    "tagname": "021FI_093.PV",
+    "desc": "Combustion Air to 021F102 Burner"
+  },
+  {
+    "tagname": "021FI_094N.PV",
+    "desc": "Steam to Transfer F102"
+  },
+  {
+    "tagname": "021FI_096N.PV",
+    "desc": "Steam to 021C102"
+  },
+  {
+    "tagname": "021FI_102A.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "021FI_105.PV",
+    "desc": "Light Oil to Wet Slops Header"
+  },
+  {
+    "tagname": "021FI_702.PV",
+    "desc": "Dirty Wash Oil to Tray 8"
+  },
+  {
+    "tagname": "021FQI_002.PV",
+    "desc": "Short Residue to Storage"
+  },
+  {
+    "tagname": "021FQI_002A.PV",
+    "desc": "Short Residue to 041T121"
+  },
+  {
+    "tagname": "021FQI_002A.STATE",
+    "desc": "Short Residue to 041T121"
+  },
+  {
+    "tagname": "021FQI_002B.PV",
+    "desc": "Short Residue to 041T310"
+  },
+  {
+    "tagname": "021FQI_002B.STATE",
+    "desc": "Short Residue to 041T310"
+  },
+  {
+    "tagname": "021FQI_002C.PV",
+    "desc": "Short Residue to IFO"
+  },
+  {
+    "tagname": "021FQI_002C.STATE",
+    "desc": "Short Residue to IFO"
+  },
+  {
+    "tagname": "021FQI_002D.PV",
+    "desc": "Short Residue to 041T311"
+  },
+  {
+    "tagname": "021FQI_002D.STATE",
+    "desc": "Short Residue to 041T311"
+  },
+  {
+    "tagname": "021FQI_004.PV",
+    "desc": "Long Residue Charge to HVU-II"
+  },
+  {
+    "tagname": "021FQI_004A.PV",
+    "desc": "Long Residue From 35T102"
+  },
+  {
+    "tagname": "021FQI_008.PV",
+    "desc": "MMO Product to Storage"
+  },
+  {
+    "tagname": "021FQI_008A.PV",
+    "desc": "MMO to 041T117"
+  },
+  {
+    "tagname": "021FQI_008A.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "021FQI_008B.PV",
+    "desc": "MMO to 041T302"
+  },
+  {
+    "tagname": "021FQI_008B.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "021FQI_008C.PV",
+    "desc": "MMO to IFO"
+  },
+  {
+    "tagname": "021FQI_008C.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "021FQI_008D.PV",
+    "desc": "MMO to 041T122"
+  },
+  {
+    "tagname": "021FQI_008D.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "021FQI_008E.PV",
+    "desc": "MMO to 041T115"
+  },
+  {
+    "tagname": "021FQI_009.PV",
+    "desc": "Light MMO to IFO Header"
+  },
+  {
+    "tagname": "021FQI_009A.PV",
+    "desc": "LMMO to IFO"
+  },
+  {
+    "tagname": "021FQI_019.PV",
+    "desc": "HP Fuel Oil Supply to F101"
+  },
+  {
+    "tagname": "021FQI_020.PV",
+    "desc": "Fuel Gas Supply to F101"
+  },
+  {
+    "tagname": "021FQI_049.PV",
+    "desc": "Intermediete Distilateto IFO Header"
+  },
+  {
+    "tagname": "021FQI_049A.PV",
+    "desc": "Intermediete Distilateto IFO"
+  },
+  {
+    "tagname": "021FQI_049B.PV",
+    "desc": "Intermediete Distilateto LOC1"
+  },
+  {
+    "tagname": "021FQI_053.PV",
+    "desc": "VGO Rundown to IFO Header"
+  },
+  {
+    "tagname": "021FQI_053A.PV",
+    "desc": "VGO to 33T4"
+  },
+  {
+    "tagname": "021FQI_053B.PV",
+    "desc": "VGO to IFO"
+  },
+  {
+    "tagname": "021FQI_053C.PV",
+    "desc": "VGO to 34T101"
+  },
+  {
+    "tagname": "021FQI_057.PV",
+    "desc": "LMO Rundown to 041T116"
+  },
+  {
+    "tagname": "021FQI_057A.PV",
+    "desc": "LMO to 041T116"
+  },
+  {
+    "tagname": "021FQI_057A.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "021FQI_057B.PV",
+    "desc": "LMO to 041T301"
+  },
+  {
+    "tagname": "021FQI_057B.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "021FQI_057C.PV",
+    "desc": "LMO to IFO"
+  },
+  {
+    "tagname": "021FQI_057C.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "021FQI_057D.PV",
+    "desc": "LMO to 041T122"
+  },
+  {
+    "tagname": "021FQI_057D.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "021FQI_058.PV",
+    "desc": "SPO Rundown to 041T115"
+  },
+  {
+    "tagname": "021FQI_058A.PV",
+    "desc": "SPO to 41T16"
+  },
+  {
+    "tagname": "021FQI_058A.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "021FQI_058B.PV",
+    "desc": "SPO to IFO"
+  },
+  {
+    "tagname": "021FQI_058B.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "021FQI_058C.PV",
+    "desc": "SPO to 041T122"
+  },
+  {
+    "tagname": "021FQI_058C.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "021FQI_090.PV",
+    "desc": "HP Fuel Oil Supply to 021F102"
+  },
+  {
+    "tagname": "021FQI_091.PV",
+    "desc": "Fuel Gas Supply to 021F102"
+  },
+  {
+    "tagname": "021FQI_102.PV",
+    "desc": "Black Oil to Fuel"
+  },
+  {
+    "tagname": "021FQI_102A.PV",
+    "desc": "Black Oil to IFO"
+  },
+  {
+    "tagname": "021FQI_105.PV",
+    "desc": "Light Oil to Wet Slops Header"
+  },
+  {
+    "tagname": "021FQI_105A.PV",
+    "desc": "Light Oil to Foc-II"
+  },
+  {
+    "tagname": "021HFIC_066.OP",
+    "desc": "021F101 Fuel/Air Ratio"
+  },
+  {
+    "tagname": "021HFIC_066.PV",
+    "desc": "021F101 Fuel/Air Ratio"
+  },
+  {
+    "tagname": "021HFIC_067.OP",
+    "desc": "021F102 Fuel/Air Ratio"
+  },
+  {
+    "tagname": "021HFIC_067.PV",
+    "desc": "021F102 Fuel/Air Ratio"
+  },
+  {
+    "tagname": "021HFIC_067.SP",
+    "desc": "021F102 Fuel/Air Ratio"
+  },
+  {
+    "tagname": "021HFIC_718.OP",
+    "desc": "To FIC_025 Ratio"
+  },
+  {
+    "tagname": "021HFIC_719.OP",
+    "desc": "021F101 Long Residue Coil 2 Ratio"
+  },
+  {
+    "tagname": "021HFIC_720.OP",
+    "desc": "To FIC027 Ratio"
+  },
+  {
+    "tagname": "021HFIC_721.OP",
+    "desc": "To FIC028 Ratio"
+  },
+  {
+    "tagname": "021HFIC_726.OP",
+    "desc": "Pass Balancing 021F102"
+  },
+  {
+    "tagname": "021HFIC_727.OP",
+    "desc": "Pass Balancing 021F102"
+  },
+  {
+    "tagname": "021HFIC_728.OP",
+    "desc": "Pass Balancing 021F102"
+  },
+  {
+    "tagname": "021HFIC_729.OP",
+    "desc": "Pass Balancing 021F102"
+  },
+  {
+    "tagname": "021HFIC_730.OP",
+    "desc": "Pass Balancing 021F102"
+  },
+  {
+    "tagname": "021HIC_005.OP",
+    "desc": "FI_019A Adjust Min Flow"
+  },
+  {
+    "tagname": "021HIC_011.OP",
+    "desc": "FIC_022 Adjust Min Flow"
+  },
+  {
+    "tagname": "021HIC_039.OP",
+    "desc": "FI_091A Adjust Min Flow"
+  },
+  {
+    "tagname": "021HIC_040.OP",
+    "desc": "FI_091A Adjust Min Flow"
+  },
+  {
+    "tagname": "021HIC_096.OP",
+    "desc": "FIC_092 Adjust Min Flow"
+  },
+  {
+    "tagname": "022FIC_001.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022FIC_001.PV",
+    "desc": "Short Residue to RDC"
+  },
+  {
+    "tagname": "022FIC_001.SP",
+    "desc": "Short Residue to RDC"
+  },
+  {
+    "tagname": "022FIC_003.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022FIC_003.PV",
+    "desc": "Propane Ins to 022E103"
+  },
+  {
+    "tagname": "022FIC_003.SP",
+    "desc": "Propane Ins to 022E103"
+  },
+  {
+    "tagname": "022FIC_004.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022FIC_004.PV",
+    "desc": "Propane From 022P104"
+  },
+  {
+    "tagname": "022FIC_004.SP",
+    "desc": "Propane From 022P104"
+  },
+  {
+    "tagname": "022FIC_005.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022FIC_005.PV",
+    "desc": "Asphalt Mix From RDC"
+  },
+  {
+    "tagname": "022FIC_005.SP",
+    "desc": "Asphalt Mix From RDC"
+  },
+  {
+    "tagname": "022FIC_400.OP",
+    "desc": "1St DAO Evaporator Inlet"
+  },
+  {
+    "tagname": "022FIC_400.PV",
+    "desc": "1St DAO Evaporator Inlet"
+  },
+  {
+    "tagname": "022FIC_400.SP",
+    "desc": "1St DAO Evaporator Inlet"
+  },
+  {
+    "tagname": "022FI_001.PV",
+    "desc": "Short Residue to RDC"
+  },
+  {
+    "tagname": "022FI_002.PV",
+    "desc": "Short Residue to RDC"
+  },
+  {
+    "tagname": "022FI_004.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "022FI_006.PV",
+    "desc": "LP Steam to RDC"
+  },
+  {
+    "tagname": "022FI_007.PV",
+    "desc": "DAO to Storage"
+  },
+  {
+    "tagname": "022FI_011N.PV",
+    "desc": "Steam to 022C102"
+  },
+  {
+    "tagname": "022FI_012N.PV",
+    "desc": "Steam to 022C104"
+  },
+  {
+    "tagname": "022FI_013.PV",
+    "desc": "Asphalt to Storage"
+  },
+  {
+    "tagname": "022FI_018.PV",
+    "desc": "Vapour Out From 022E113"
+  },
+  {
+    "tagname": "022FI_041.PV",
+    "desc": "Asphalt to IFO Bypass"
+  },
+  {
+    "tagname": "022FI_125.PV",
+    "desc": "Slop Wax to 022E113"
+  },
+  {
+    "tagname": "022FI_401.PV",
+    "desc": "LP Steam to 1St DAO Evaporator"
+  },
+  {
+    "tagname": "022FQI_001.PV",
+    "desc": "Short Residue to RDC"
+  },
+  {
+    "tagname": "022FQI_001A.PV",
+    "desc": "Short Residue From 41T121"
+  },
+  {
+    "tagname": "022FQI_007.PV",
+    "desc": "Da.O to Storage"
+  },
+  {
+    "tagname": "022FQI_007A.PV",
+    "desc": "DAO to 041T118"
+  },
+  {
+    "tagname": "022FQI_007A.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "022FQI_007B.PV",
+    "desc": "DAO to 041T303"
+  },
+  {
+    "tagname": "022FQI_007B.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "022FQI_007C.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "022FQI_007D.PV",
+    "desc": "DAO to IFO"
+  },
+  {
+    "tagname": "022FQI_007D.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "022FQI_007E.PV",
+    "desc": "DAO to 041T115"
+  },
+  {
+    "tagname": "022FQI_013.PV",
+    "desc": "Asphalt to Storage"
+  },
+  {
+    "tagname": "022FQI_013A.PV",
+    "desc": "Asphalt to 041T312"
+  },
+  {
+    "tagname": "022FQI_013A.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "022FQI_013B.PV",
+    "desc": "Asphalt to IFO"
+  },
+  {
+    "tagname": "022FQI_013B.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "022FQI_013C.PV",
+    "desc": "Asphalt to 041T314"
+  },
+  {
+    "tagname": "022FQI_013C.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "022FQI_013D.PV",
+    "desc": "Asphalt to 42T1"
+  },
+  {
+    "tagname": "022FQI_013D.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "022FQI_013E.PV",
+    "desc": "Asphalt to 42T2"
+  },
+  {
+    "tagname": "022FQI_013E.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "022FQI_013F.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "022FQI_013FLASH POINTV",
+    "desc": "Asphalt to 42T3"
+  },
+  {
+    "tagname": "022FQI_013G.PV",
+    "desc": "Asphalt to 42T4"
+  },
+  {
+    "tagname": "022FQI_013G.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "022FQI_013H.PV",
+    "desc": "Asphalt to 42T5"
+  },
+  {
+    "tagname": "022FQI_013H.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "022FQI_013I.PV",
+    "desc": "Asphalt to 42T6"
+  },
+  {
+    "tagname": "022FQI_013I.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "022FQI_013J.PV",
+    "desc": "Asphalt to 42T7"
+  },
+  {
+    "tagname": "022FQI_013J.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "022FQI_013K.PV",
+    "desc": "Asphalt to 42T9"
+  },
+  {
+    "tagname": "022FQI_013K.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "022FQI_013L.PV",
+    "desc": "Asphalt to 42T10"
+  },
+  {
+    "tagname": "022FQI_013L.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "022FQI_013M.PV",
+    "desc": "Asphalt to 041T313"
+  },
+  {
+    "tagname": "022FQI_013M.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "022FSLL_002A.PV",
+    "desc": "Set Flow Of Short  Residue to RDC"
+  },
+  {
+    "tagname": "022FY_002.C1",
+    "desc": "Set Flow Of Short  Residue to RDC"
+  },
+  {
+    "tagname": "022FY_002.OP",
+    "desc": "Set Flow Of Short  Residue to RDC"
+  },
+  {
+    "tagname": "022FY_002.PV",
+    "desc": "Set Flow Of Short  Residue to RDC"
+  },
+  {
+    "tagname": "022FY_003.PV",
+    "desc": "Set Flow Of Short  Residue to RDC"
+  },
+  {
+    "tagname": "022FY_004.PV",
+    "desc": "Set Flow Of Short  Residue to RDC"
+  },
+  {
+    "tagname": "023FC_WD.NUMERICA",
+    "desc": ""
+  },
+  {
+    "tagname": "023FC_WD.PV",
+    "desc": "Furfural Content W.D"
+  },
+  {
+    "tagname": "023FIC_001.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FIC_001.PV",
+    "desc": "Furfural to 023C102"
+  },
+  {
+    "tagname": "023FIC_001.SP",
+    "desc": "Furfural to 023C102"
+  },
+  {
+    "tagname": "023FIC_004.OP",
+    "desc": "FEU Charge Oil to E102"
+  },
+  {
+    "tagname": "023FIC_004.PV",
+    "desc": "FEU Charge Oil to E102"
+  },
+  {
+    "tagname": "023FIC_004.SP",
+    "desc": "FEU Charge Oil to E102"
+  },
+  {
+    "tagname": "023FIC_009.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FIC_009.PV",
+    "desc": "Extract Mix to 023E105AB"
+  },
+  {
+    "tagname": "023FIC_009.SP",
+    "desc": "Extract Mix to 023E105AB"
+  },
+  {
+    "tagname": "023FIC_010.OP",
+    "desc": "Hot Oil to 023E105AB"
+  },
+  {
+    "tagname": "023FIC_010.PV",
+    "desc": "Hot Oil to 023E105AB"
+  },
+  {
+    "tagname": "023FIC_010.SP",
+    "desc": "Hot Oil to 023E105AB"
+  },
+  {
+    "tagname": "023FIC_011.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FIC_011.PV",
+    "desc": "Extract Mix to 023E105CD"
+  },
+  {
+    "tagname": "023FIC_011.SP",
+    "desc": "Extract Mix to 023E105CD"
+  },
+  {
+    "tagname": "023FIC_012.OP",
+    "desc": "Hot Oil to 023E105CD"
+  },
+  {
+    "tagname": "023FIC_012.PV",
+    "desc": "Hot Oil to 023E105CD"
+  },
+  {
+    "tagname": "023FIC_012.SP",
+    "desc": "Hot Oil to 023E105CD"
+  },
+  {
+    "tagname": "023FIC_013.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FIC_013.PV",
+    "desc": "Extract Mix to 023E105Ef"
+  },
+  {
+    "tagname": "023FIC_013.SP",
+    "desc": "Extract Mix to 023E105Ef"
+  },
+  {
+    "tagname": "023FIC_014.OP",
+    "desc": "Hot Oil to 023E105Ef"
+  },
+  {
+    "tagname": "023FIC_014.PV",
+    "desc": "Hot Oil to 023E105Ef"
+  },
+  {
+    "tagname": "023FIC_014.SP",
+    "desc": "Hot Oil to 023E105Ef"
+  },
+  {
+    "tagname": "023FIC_016.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FIC_016.PV",
+    "desc": "Reflux to 023C103A"
+  },
+  {
+    "tagname": "023FIC_016.SP",
+    "desc": "Reflux to 023C103A"
+  },
+  {
+    "tagname": "023FIC_020.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FIC_020.PV",
+    "desc": "Overhead 023C103B"
+  },
+  {
+    "tagname": "023FIC_020.SP",
+    "desc": "024S101D Drum Speed Control"
+  },
+  {
+    "tagname": "023FIC_022.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FIC_022.PV",
+    "desc": "Furfural/Water to 023C104"
+  },
+  {
+    "tagname": "023FIC_022.SP",
+    "desc": "024S101C Drum Speed Control"
+  },
+  {
+    "tagname": "023FIC_024.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FIC_024.PV",
+    "desc": "Furfural/Water to 023E118"
+  },
+  {
+    "tagname": "023FIC_024.SP",
+    "desc": "024S101B Drum Speed Control"
+  },
+  {
+    "tagname": "023FIC_026.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FIC_026.PV",
+    "desc": "Furfural/Water to 023C106"
+  },
+  {
+    "tagname": "023FIC_026.SP",
+    "desc": "Furfural/Water to 023C106"
+  },
+  {
+    "tagname": "023FIC_029.OP",
+    "desc": "Furfural/Water to 023C107"
+  },
+  {
+    "tagname": "023FIC_029.PV",
+    "desc": "Furfural/Water to 023C107"
+  },
+  {
+    "tagname": "023FIC_029.SP",
+    "desc": "Furfural/Water to 023C107"
+  },
+  {
+    "tagname": "023FIC_701.OP",
+    "desc": "Furfural/Water Rlx"
+  },
+  {
+    "tagname": "023FIC_701.PV",
+    "desc": "Furfural/Water Rlx"
+  },
+  {
+    "tagname": "023FIC_701.SP",
+    "desc": "Furfural/Water Rlx"
+  },
+  {
+    "tagname": "023FIC_704.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FIC_704.PV",
+    "desc": "Raffinate Mix to E114C"
+  },
+  {
+    "tagname": "023FIC_704.SP",
+    "desc": "Raffinate Mix to E114C"
+  },
+  {
+    "tagname": "023FIC_705.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FIC_705.PV",
+    "desc": "Raffinate Mix to E120A"
+  },
+  {
+    "tagname": "023FIC_705.SP",
+    "desc": "Raffinate Mix to E120A"
+  },
+  {
+    "tagname": "023FI_003.PV",
+    "desc": "Pseudo Raffinate  to 023C102"
+  },
+  {
+    "tagname": "023FI_004A.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "023FI_004BDX.C1",
+    "desc": ""
+  },
+  {
+    "tagname": "023FI_004CDX.C1",
+    "desc": ""
+  },
+  {
+    "tagname": "023FI_004DDX.C1",
+    "desc": ""
+  },
+  {
+    "tagname": "023FI_006.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "023FI_007.PV",
+    "desc": "Extract to 023E117"
+  },
+  {
+    "tagname": "023FI_017.PV",
+    "desc": "023C103A Draw Off"
+  },
+  {
+    "tagname": "023FI_025N.PV",
+    "desc": "LP Steam to 023C105"
+  },
+  {
+    "tagname": "023FI_027.PV",
+    "desc": "LP Steam to 023C106"
+  },
+  {
+    "tagname": "023FI_027N.PV",
+    "desc": "LP Steam to 023C106"
+  },
+  {
+    "tagname": "023FI_028.PV",
+    "desc": "Finished Extract to IFO"
+  },
+  {
+    "tagname": "023FI_030.PV",
+    "desc": "LP Steam to 023C107"
+  },
+  {
+    "tagname": "023FI_030N.PV",
+    "desc": "LP Steam to 023C107"
+  },
+  {
+    "tagname": "023FI_031.PV",
+    "desc": "Finished Raffinate  to Storage"
+  },
+  {
+    "tagname": "023FI_702N.PV",
+    "desc": "LP Steam to 023C108"
+  },
+  {
+    "tagname": "023FI_703.PV",
+    "desc": "Finished Raffinate  to Storage"
+  },
+  {
+    "tagname": "023FP_RAFFINATE NUMERICA",
+    "desc": ""
+  },
+  {
+    "tagname": "023FQI_004.PV",
+    "desc": "FEU Charge Oil to E102"
+  },
+  {
+    "tagname": "023FQI_004DA.PV",
+    "desc": "DAO From 041T118"
+  },
+  {
+    "tagname": "023FQI_004DB.PV",
+    "desc": "DAO From 041T303"
+  },
+  {
+    "tagname": "023FQI_004LA.PV",
+    "desc": "LMO Dist From 041T116"
+  },
+  {
+    "tagname": "023FQI_004LB.PV",
+    "desc": "LMO Dist From 041T301"
+  },
+  {
+    "tagname": "023FQI_004MA.PV",
+    "desc": "MMO Dist From 041T117"
+  },
+  {
+    "tagname": "023FQI_004MB.PV",
+    "desc": "MMO Dist From 041T302"
+  },
+  {
+    "tagname": "023FQI_028.PV",
+    "desc": "Finished Extract to Fuel"
+  },
+  {
+    "tagname": "023FQI_028DA.PV",
+    "desc": "DAO Extract to 041T122"
+  },
+  {
+    "tagname": "023FQI_028DA.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "023FQI_028DB.PV",
+    "desc": "DAO Extract to IFO"
+  },
+  {
+    "tagname": "023FQI_028DB.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "023FQI_028DC.PV",
+    "desc": "DAO Extract to 41T12"
+  },
+  {
+    "tagname": "023FQI_028DC.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "023FQI_028LA.PV",
+    "desc": "DAO Raffinate to 041T119"
+  },
+  {
+    "tagname": "023FQI_028LA.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "023FQI_028LB.PV",
+    "desc": "DAO Raffinate to 041T122"
+  },
+  {
+    "tagname": "023FQI_028LB.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "023FQI_028LC.PV",
+    "desc": "DAO Raffinate to IFO"
+  },
+  {
+    "tagname": "023FQI_028LC.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "023FQI_028LD.PV",
+    "desc": "DAO Raffinate to LOC-I"
+  },
+  {
+    "tagname": "023FQI_028MA.PV",
+    "desc": "MMO Extract to 041T122"
+  },
+  {
+    "tagname": "023FQI_028MA.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "023FQI_028MB.PV",
+    "desc": "MMO Extract to IFO"
+  },
+  {
+    "tagname": "023FQI_028MB.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "023FQI_031.PV",
+    "desc": "Finished Raffinate  to Storage"
+  },
+  {
+    "tagname": "023FQI_031DA.PV",
+    "desc": "DAO Raffinate to 041T114"
+  },
+  {
+    "tagname": "023FQI_031DB.PV",
+    "desc": "DAO Raffinate to 041T316"
+  },
+  {
+    "tagname": "023FQI_031DC.PV",
+    "desc": "DAO Raffinate to IFO"
+  },
+  {
+    "tagname": "023FQI_031LA.PV",
+    "desc": "LMO Raffinate to 041T111"
+  },
+  {
+    "tagname": "023FQI_031LB.PV",
+    "desc": "LMO Raffinate to 041T112"
+  },
+  {
+    "tagname": "023FQI_031LC.PV",
+    "desc": "LMO Raffinate to IFO"
+  },
+  {
+    "tagname": "023FQI_031MA.PV",
+    "desc": "MMO Raffinate to 041T113"
+  },
+  {
+    "tagname": "023FQI_031MB.PV",
+    "desc": "MMO Raffinate to 041T315"
+  },
+  {
+    "tagname": "023FQI_031MC.PV",
+    "desc": "MMO Raffinate to IFO"
+  },
+  {
+    "tagname": "023FQI_703.PV",
+    "desc": "Finished Raffinate  to Storage"
+  },
+  {
+    "tagname": "023FQI_703DA.PV",
+    "desc": "LMO Raffinate to 041T114"
+  },
+  {
+    "tagname": "023FQI_703DA.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "023FQI_703DB.PV",
+    "desc": "LMO Raffinate to 041T316"
+  },
+  {
+    "tagname": "023FQI_703DB.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "023FQI_703DC.PV",
+    "desc": "LMO Raffinate to IFO"
+  },
+  {
+    "tagname": "023FQI_703DC.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "023FQI_703LA.PV",
+    "desc": "LMO Raffinate to 041T111"
+  },
+  {
+    "tagname": "023FQI_703LA.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "023FQI_703LB.PV",
+    "desc": "LMO Raffinate to 041T112"
+  },
+  {
+    "tagname": "023FQI_703LB.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "023FQI_703LC.PV",
+    "desc": "LMO Raffinate to IFO"
+  },
+  {
+    "tagname": "023FQI_703LC.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "023FQI_703MA.PV",
+    "desc": "LMO Raffinate to 041T113"
+  },
+  {
+    "tagname": "023FQI_703MA.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "023FQI_703MB.PV",
+    "desc": "LMO Raffinate to 041T315"
+  },
+  {
+    "tagname": "023FQI_703MB.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "023FQI_703MC.PV",
+    "desc": "LMO Raffinate to IFO"
+  },
+  {
+    "tagname": "023FQI_703MC.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "023HFIC_010.OP",
+    "desc": "023E105A/B Ratio"
+  },
+  {
+    "tagname": "023HFIC_011.OP",
+    "desc": "023E105C/D Ratio"
+  },
+  {
+    "tagname": "023HFIC_012.OP",
+    "desc": "023E105E/F Ratio"
+  },
+  {
+    "tagname": "023HFIC_701.OP",
+    "desc": "E114C Level/Flow Ratio"
+  },
+  {
+    "tagname": "023HFIC_702.OP",
+    "desc": "E120A Level/Flow Ratio"
+  },
+  {
+    "tagname": "023VIS_RAFFINATE NUMERICA",
+    "desc": ""
+  },
+  {
+    "tagname": "024CUCI_FILTER.NUMERICA",
+    "desc": ""
+  },
+  {
+    "tagname": "024CUCI_FILTER.PV",
+    "desc": "Cuci Filter S_101"
+  },
+  {
+    "tagname": "024CW_101A.PV",
+    "desc": "Flow Cold Wash Filter A"
+  },
+  {
+    "tagname": "024CW_101B.PV",
+    "desc": "Flow Cold Wash Filter B"
+  },
+  {
+    "tagname": "024CW_101C.PV",
+    "desc": "Flow Cold Wash Filter C"
+  },
+  {
+    "tagname": "024CW_101D.PV",
+    "desc": "Flow Cold Wash Filter D"
+  },
+  {
+    "tagname": "024FIC_001.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024FIC_001.PV",
+    "desc": "Waxy Oil Feed"
+  },
+  {
+    "tagname": "024FIC_001.SP",
+    "desc": "Waxy Oil Feed"
+  },
+  {
+    "tagname": "024FIC_002A.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024FIC_002A.PV",
+    "desc": "Wet Solvent to Feed"
+  },
+  {
+    "tagname": "024FIC_002A.SP",
+    "desc": "Wet Solvent to Feed"
+  },
+  {
+    "tagname": "024FIC_002B.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024FIC_002B.PV",
+    "desc": "Wet Solvent to Feed"
+  },
+  {
+    "tagname": "024FIC_002B.SP",
+    "desc": "Wet Solvent to Feed"
+  },
+  {
+    "tagname": "024FIC_003.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024FIC_003.PV",
+    "desc": "Wet Solvent From 024P108"
+  },
+  {
+    "tagname": "024FIC_003.SP",
+    "desc": "BB Control Of Sr LOC-II"
+  },
+  {
+    "tagname": "024FIC_004.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024FIC_004.PV",
+    "desc": "3Rd Dilution to 024E102AB"
+  },
+  {
+    "tagname": "024FIC_004.SP",
+    "desc": "BB Control Of Sr Bitumen"
+  },
+  {
+    "tagname": "024FIC_005.OP",
+    "desc": "4Th Dilution to 024E102CD"
+  },
+  {
+    "tagname": "024FIC_005.PV",
+    "desc": "4Th Dilution to 024E102CD"
+  },
+  {
+    "tagname": "024FIC_005.SP",
+    "desc": "4Th Dilution to 024E102CD"
+  },
+  {
+    "tagname": "024FIC_006.OP",
+    "desc": "Do Mix to 024E106AB"
+  },
+  {
+    "tagname": "024FIC_006.PV",
+    "desc": "Do Mix to 024E106AB"
+  },
+  {
+    "tagname": "024FIC_006.SP",
+    "desc": "Do Mix to 024E106AB"
+  },
+  {
+    "tagname": "024FIC_011.NMODE",
+    "desc": "Do Filtrate"
+  },
+  {
+    "tagname": "024FIC_011.OP",
+    "desc": "Do Filtrate"
+  },
+  {
+    "tagname": "024FIC_011.PV",
+    "desc": "Do Filtrate"
+  },
+  {
+    "tagname": "024FIC_011.SP",
+    "desc": "Level Interface RDC"
+  },
+  {
+    "tagname": "024FIC_016.OP",
+    "desc": "Warm Wash Slops From 024V107"
+  },
+  {
+    "tagname": "024FIC_016.PV",
+    "desc": "Warm Wash Slops From 024V107"
+  },
+  {
+    "tagname": "024FIC_016.SP",
+    "desc": "Warm Wash Slops From 024V107"
+  },
+  {
+    "tagname": "024FIC_018.OP",
+    "desc": "Do Mix Charge"
+  },
+  {
+    "tagname": "024FIC_018.PV",
+    "desc": "Do Mix Charge"
+  },
+  {
+    "tagname": "024FIC_018.SP",
+    "desc": "Do Mix Charge"
+  },
+  {
+    "tagname": "024FIC_020.OP",
+    "desc": "Do Mix Charge to 024E127"
+  },
+  {
+    "tagname": "024FIC_020.PV",
+    "desc": "Do Mix Charge to 024E127"
+  },
+  {
+    "tagname": "024FIC_020.SP",
+    "desc": "Do Mix Charge to 024E127"
+  },
+  {
+    "tagname": "024FIC_021.OP",
+    "desc": "Dry Solvent to 024C101A"
+  },
+  {
+    "tagname": "024FIC_021.PV",
+    "desc": "Dry Solvent to 024C101A"
+  },
+  {
+    "tagname": "024FIC_021.SP",
+    "desc": "Dry Solvent to 024C101A"
+  },
+  {
+    "tagname": "024FIC_024.OP",
+    "desc": "Dry Solvent to 024C102"
+  },
+  {
+    "tagname": "024FIC_024.PV",
+    "desc": "Dry Solvent to 024C102"
+  },
+  {
+    "tagname": "024FIC_024.SP",
+    "desc": "Dry Solvent to 024C102"
+  },
+  {
+    "tagname": "024FIC_027.OP",
+    "desc": "Slack Wax Mix to 024E122"
+  },
+  {
+    "tagname": "024FIC_027.PV",
+    "desc": "Slack Wax Mix to 024E122"
+  },
+  {
+    "tagname": "024FIC_027.SP",
+    "desc": "Slack Wax Mix to 024E122"
+  },
+  {
+    "tagname": "024FIC_028.OP",
+    "desc": "Slack Wax Mix to 024E117"
+  },
+  {
+    "tagname": "024FIC_028.PV",
+    "desc": "Slack Wax Mix to 024E117"
+  },
+  {
+    "tagname": "024FIC_028.SP",
+    "desc": "Slack Wax Mix to 024E117"
+  },
+  {
+    "tagname": "024FIC_029.OP",
+    "desc": "Dry Solvent to 024C103A"
+  },
+  {
+    "tagname": "024FIC_029.PV",
+    "desc": "Dry Solvent to 024C103A"
+  },
+  {
+    "tagname": "024FIC_029.SP",
+    "desc": "Dry Solvent to 024C103A"
+  },
+  {
+    "tagname": "024FIC_033.OP",
+    "desc": "Dry Solvent Top to C104"
+  },
+  {
+    "tagname": "024FIC_033.PV",
+    "desc": "Dry Solvent Top to C104"
+  },
+  {
+    "tagname": "024FIC_033.SP",
+    "desc": "Dry Solvent Top to C104"
+  },
+  {
+    "tagname": "024FI_001A.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "024FI_001BRX.C1",
+    "desc": ""
+  },
+  {
+    "tagname": "024FI_001CRX.C1",
+    "desc": ""
+  },
+  {
+    "tagname": "024FI_001DRX.C1",
+    "desc": ""
+  },
+  {
+    "tagname": "024FI_007.PV",
+    "desc": "Solvent to Dilution"
+  },
+  {
+    "tagname": "024FI_008.PV",
+    "desc": "Cold Wash Solvent"
+  },
+  {
+    "tagname": "024FI_023.PV",
+    "desc": "Do to 024E113B"
+  },
+  {
+    "tagname": "024FI_025N.PV",
+    "desc": "Steam to 024C102"
+  },
+  {
+    "tagname": "024FI_031.PV",
+    "desc": "Slack Wax to Storage"
+  },
+  {
+    "tagname": "024FI_032N.PV",
+    "desc": "Steam to 024C104"
+  },
+  {
+    "tagname": "024FI_034.PV",
+    "desc": "Charge  to 024C105"
+  },
+  {
+    "tagname": "024FI_035N.PV",
+    "desc": "Steam to 024C105"
+  },
+  {
+    "tagname": "024FI_036.PV",
+    "desc": "024K102 Antisurge"
+  },
+  {
+    "tagname": "024FI_037.PV",
+    "desc": "024V113 to 024K102"
+  },
+  {
+    "tagname": "024FI_039B.PV",
+    "desc": "Propane From K102 to V112"
+  },
+  {
+    "tagname": "024FI_040.PV",
+    "desc": "024K102 Discharge"
+  },
+  {
+    "tagname": "024FI_042C.PV",
+    "desc": "Inert Gas to K101"
+  },
+  {
+    "tagname": "024FQI_001.PV",
+    "desc": "Waxy Oil Feed"
+  },
+  {
+    "tagname": "024FQI_001DA.PV",
+    "desc": "DAO Hdt From 041T308"
+  },
+  {
+    "tagname": "024FQI_001DB.PV",
+    "desc": "DAO Hdt From 041T309"
+  },
+  {
+    "tagname": "024FQI_001LA.PV",
+    "desc": "LMO Hdt From 041T304"
+  },
+  {
+    "tagname": "024FQI_001LB.PV",
+    "desc": "LMO Hdt From 041T305"
+  },
+  {
+    "tagname": "024FQI_001MA.PV",
+    "desc": "MMO Hdt From 041T306"
+  },
+  {
+    "tagname": "024FQI_001MB.PV",
+    "desc": "MMO Hdt From 041T307"
+  },
+  {
+    "tagname": "024FQI_023.PV",
+    "desc": "Do to 024E113B"
+  },
+  {
+    "tagname": "024FQI_023DA.PV",
+    "desc": "HVI-650 to 041T105"
+  },
+  {
+    "tagname": "024FQI_023DA.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "024FQI_023DB.PV",
+    "desc": "HVI-650 to 041T109"
+  },
+  {
+    "tagname": "024FQI_023DB.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "024FQI_023DC.PV",
+    "desc": "HVI-650 to 041T110"
+  },
+  {
+    "tagname": "024FQI_023DC.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "024FQI_023DD.PV",
+    "desc": "HVI-650 to 041T122"
+  },
+  {
+    "tagname": "024FQI_023DD.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "024FQI_023DE.PV",
+    "desc": "HVI-160S to IFO"
+  },
+  {
+    "tagname": "024FQI_023LA.PV",
+    "desc": "HVI-95 to 041T101"
+  },
+  {
+    "tagname": "024FQI_023LA.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "024FQI_023LB.PV",
+    "desc": "HVI-95 to 041T102"
+  },
+  {
+    "tagname": "024FQI_023LB.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "024FQI_023LC.PV",
+    "desc": "HVI-95 to 041T104"
+  },
+  {
+    "tagname": "024FQI_023LC.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "024FQI_023LD.PV",
+    "desc": "HVI-95 to 041T122"
+  },
+  {
+    "tagname": "024FQI_023LD.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "024FQI_023LE.PV",
+    "desc": "HVI-160S to IFO"
+  },
+  {
+    "tagname": "024FQI_023LFLASH POINTV",
+    "desc": "HVI-95 to 041T106"
+  },
+  {
+    "tagname": "024FQI_023MA.PV",
+    "desc": "HVI-160S to 041T107"
+  },
+  {
+    "tagname": "024FQI_023MA.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "024FQI_023MB.PV",
+    "desc": "HVI-160S to 041T107"
+  },
+  {
+    "tagname": "024FQI_023MB.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "024FQI_023MC.PV",
+    "desc": "HVI-160S to 041T108"
+  },
+  {
+    "tagname": "024FQI_023MC.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "024FQI_023MD.PV",
+    "desc": "HVI-160S to 041T122"
+  },
+  {
+    "tagname": "024FQI_023MD.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "024FQI_023ME.PV",
+    "desc": "HVI-160S to IFO"
+  },
+  {
+    "tagname": "024FQI_031.PV",
+    "desc": "Slack Wax to Storage"
+  },
+  {
+    "tagname": "024FQI_031.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "024FQI_031A.PV",
+    "desc": "Slax Wax to IFO"
+  },
+  {
+    "tagname": "024FQI_031B.PV",
+    "desc": "Slax Wax to 34T101"
+  },
+  {
+    "tagname": "024FQI_031C.PV",
+    "desc": "Slax Wax to 041T122"
+  },
+  {
+    "tagname": "024FQI_031DA.PV",
+    "desc": "Slack Wax DAO to IFO"
+  },
+  {
+    "tagname": "024FQI_031DA.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "024FQI_031DB.PV",
+    "desc": "Slack Wax DAO to OM"
+  },
+  {
+    "tagname": "024FQI_031DB.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "024FQI_031DC.PV",
+    "desc": "Slack Wax DAO to 041T122"
+  },
+  {
+    "tagname": "024FQI_031DC.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "024FQI_031LA.PV",
+    "desc": "Slack Wax LMO to IFO"
+  },
+  {
+    "tagname": "024FQI_031LA.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "024FQI_031LB.PV",
+    "desc": "Slack Wax LMO to OM"
+  },
+  {
+    "tagname": "024FQI_031LB.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "024FQI_031LC.PV",
+    "desc": "Slack Wax LMO to 041T122"
+  },
+  {
+    "tagname": "024FQI_031LC.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "024FQI_031MA.PV",
+    "desc": "Slack Wax MMO to IFO"
+  },
+  {
+    "tagname": "024FQI_031MA.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "024FQI_031MB.PV",
+    "desc": "Slack Wax MMO to OM"
+  },
+  {
+    "tagname": "024FQI_031MB.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "024FQI_031MC.PV",
+    "desc": "Slack Wax MMO to 041T122"
+  },
+  {
+    "tagname": "024FQI_031MC.STATE",
+    "desc": ""
+  },
+  {
+    "tagname": "024FQI_031MD.PV",
+    "desc": "Slack Wax MMO to LOC-I"
+  },
+  {
+    "tagname": "025FIC_004.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "025FIC_004.PV",
+    "desc": "Hot Oil Feed to 025F101"
+  },
+  {
+    "tagname": "025FIC_004.SP",
+    "desc": ""
+  },
+  {
+    "tagname": "025FI_005.PV",
+    "desc": "Hot Oil From 025P101A"
+  },
+  {
+    "tagname": "025FI_006.PV",
+    "desc": "025F101 Flow Pass 1"
+  },
+  {
+    "tagname": "025FI_007.PV",
+    "desc": "025F101 Flow Pass 2"
+  },
+  {
+    "tagname": "025FI_008.PV",
+    "desc": "025F101 Flow Pass 3"
+  },
+  {
+    "tagname": "025FI_009.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "025FI_010.PV",
+    "desc": "025F101 Flow Pass 5"
+  },
+  {
+    "tagname": "025FI_011.PV",
+    "desc": "025F101 Flow Pass 6"
+  },
+  {
+    "tagname": "025FI_012.PV",
+    "desc": "025F101 Flow Pass 7"
+  },
+  {
+    "tagname": "025FI_013.PV",
+    "desc": "025F101 Flow Pass 8"
+  },
+  {
+    "tagname": "025FI_014.PV",
+    "desc": "Fuel Gas Supply to 025F101"
+  },
+  {
+    "tagname": "025FI_015N.PV",
+    "desc": "Make Up to 025V101"
+  },
+  {
+    "tagname": "025FQI_014.PV",
+    "desc": "Fuel Gas Supply"
+  },
+  {
+    "tagname": "002FI_001.PV",
+    "desc": "MP Steam to 021, 022, 025"
+  },
+  {
+    "tagname": "002FI_002.PV",
+    "desc": "LP Steam to 021, 022"
+  },
+  {
+    "tagname": "002FI_011.PV",
+    "desc": "MP Steam to 023, 024"
+  },
+  {
+    "tagname": "002FI_012.PV",
+    "desc": "LP Steam to 023, 024"
+  },
+  {
+    "tagname": "002FI_013N.NUMERICA",
+    "desc": ""
+  },
+  {
+    "tagname": "002FI_031.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "002FI_032.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "002FI_033.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "002FI_034.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "002FI_036.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "002FI_037.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "002LI_051.PV",
+    "desc": "Level CPI | 002S-102"
+  },
+  {
+    "tagname": "021AI_002.PV",
+    "desc": "Long Residue Heater O\u00b2 Analyzer  | 021F-101"
+  },
+  {
+    "tagname": "021AI_005.PV",
+    "desc": "O\u00b2 Analyzer Intermediete Residue Heater  | 021F-102"
+  },
+  {
+    "tagname": "021AI_006.PV",
+    "desc": "Viscosity Short Residue"
+  },
+  {
+    "tagname": "021AI_007.PV",
+    "desc": "H2S Analyzer | 021V106"
+  },
+  {
+    "tagname": "021AI_008.PV",
+    "desc": "H2S Analyzer | 021P112A"
+  },
+  {
+    "tagname": "021AI_009.PV",
+    "desc": "H2S Analyzer | 021P112B"
+  },
+  {
+    "tagname": "021AIC_001.PV",
+    "desc": "Viscosity Analysis MMO Product"
+  },
+  {
+    "tagname": "021AIC_001.SP",
+    "desc": "Viscosity Analysis MMO Product"
+  },
+  {
+    "tagname": "021AIC_003.PV",
+    "desc": "LMO Viscosty"
+  },
+  {
+    "tagname": "021AIC_003.SP",
+    "desc": "LMO Viscosty"
+  },
+  {
+    "tagname": "021AIC_004.PV",
+    "desc": "Viscosity Spindle Oil"
+  },
+  {
+    "tagname": "021AIC_004.SP",
+    "desc": "Viscosity Spindle Oil"
+  },
+  {
+    "tagname": "021F1MW.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "021F1RD.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "021F1SGFG.PV",
+    "desc": "SG Fuel Gas 021F101"
+  },
+  {
+    "tagname": "021F1SGFO.PV",
+    "desc": "SG Fuel Oil 021F101"
+  },
+  {
+    "tagname": "021F1TSFG.PV",
+    "desc": "TSRF FG  021F101"
+  },
+  {
+    "tagname": "021F1TSFO.PV",
+    "desc": "TSRF FO 021F101"
+  },
+  {
+    "tagname": "021F2MW.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "021F2RD.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "021F2SGFG.PV",
+    "desc": "SG Fuel Gas 021F102"
+  },
+  {
+    "tagname": "021F2SGFO.PV",
+    "desc": "SG Fuel Oil 021F102"
+  },
+  {
+    "tagname": "021F2TSFG.PV",
+    "desc": "TSRF FG  021F102"
+  },
+  {
+    "tagname": "021F2TSFO.PV",
+    "desc": "TSRF FO 021F102"
+  },
+  {
+    "tagname": "021FALL_029A.PV",
+    "desc": "Long Residue Heater Convection Section Pass 1  | 021F101"
+  },
+  {
+    "tagname": "021FALL_030A.PV",
+    "desc": "Long Residue Heater Convection Section Pass 2  | 021F101"
+  },
+  {
+    "tagname": "021FALL_031A.PV",
+    "desc": "Long Residue Heater Convection Section Pass 3  | 021F101"
+  },
+  {
+    "tagname": "021FALL_032A.PV",
+    "desc": "Long Residue Heater Convection Section Pass 4  | 021F101"
+  },
+  {
+    "tagname": "021FALL_065A.PV",
+    "desc": "Intermediate  Residue to 021F102 Pass-1  | 021F102"
+  },
+  {
+    "tagname": "021FALL_066A.PV",
+    "desc": "Intermediate  Residue to 021F102 Pass-2  | 021F102"
+  },
+  {
+    "tagname": "021FALL_067A.PV",
+    "desc": "Intermediate  Residue to 021F102 Pass-3  | 021F102"
+  },
+  {
+    "tagname": "021FALL_068A.PV",
+    "desc": "Intermediate  Residue to 021F102 Pass-4  | 021F102"
+  },
+  {
+    "tagname": "021FALL_069A.PV",
+    "desc": "Intermediate  Residue to 021F102 Pass-5  | 021F102"
+  },
+  {
+    "tagname": "021FFY_019.PV",
+    "desc": "Combustion Air to 021F101 Burner"
+  },
+  {
+    "tagname": "021FFY_067.PV",
+    "desc": "Ratio Calculation For FIC_092"
+  },
+  {
+    "tagname": "021FFY_090A.PV",
+    "desc": "Air/Fuel Ratio"
+  },
+  {
+    "tagname": "021FFY_712.PV",
+    "desc": "Pass Balancing 021F101"
+  },
+  {
+    "tagname": "021FFY_713.PV",
+    "desc": "Pass Balancing 021F101"
+  },
+  {
+    "tagname": "021FFY_718.PV",
+    "desc": "Pass Balancing 021F101"
+  },
+  {
+    "tagname": "021FFY_719.PV",
+    "desc": "Pass Balancing 021F101"
+  },
+  {
+    "tagname": "021FFY_720.PV",
+    "desc": "Pass Balancing 021F101"
+  },
+  {
+    "tagname": "021FFY_721.PV",
+    "desc": "Pass Balancing 021F101"
+  },
+  {
+    "tagname": "021FFY_726.PV",
+    "desc": "Pass Balancing 021F102"
+  },
+  {
+    "tagname": "021FFY_727.PV",
+    "desc": "Pass Balancing 021F102"
+  },
+  {
+    "tagname": "021FFY_728.PV",
+    "desc": "Pass Balancing 021F102"
+  },
+  {
+    "tagname": "021FFY_729.PV",
+    "desc": "Pass Balancing 021F102"
+  },
+  {
+    "tagname": "021FFY_730.PV",
+    "desc": "Pass Balancing 021F102"
+  },
+  {
+    "tagname": "021FT_105A.PV",
+    "desc": "Light Oil to IFO Header"
+  },
+  {
+    "tagname": "021FV_005.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_006.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_011.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_022.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_025.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_026.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_027.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_028.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_047.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_048.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_050.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_051.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_054.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_057.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_058.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_060.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_061.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_062.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_063.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_064.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_092.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_101.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_102B.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_103B.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_104.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_701.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_703.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FV_705.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021FY_002X.C1",
+    "desc": ""
+  },
+  {
+    "tagname": "021FY_004X.C1",
+    "desc": "S.G Compensasi"
+  },
+  {
+    "tagname": "021FY_008X.C1",
+    "desc": ""
+  },
+  {
+    "tagname": "021FY_009X.C1",
+    "desc": ""
+  },
+  {
+    "tagname": "021FY_019D.PV",
+    "desc": "HP Fuel Oil Supply to F101"
+  },
+  {
+    "tagname": "021FY_049X.C1",
+    "desc": "S.G Compensasi"
+  },
+  {
+    "tagname": "021FY_050.PV",
+    "desc": "Intermediete Dstilate Reflux to C101"
+  },
+  {
+    "tagname": "021FY_053X.C1",
+    "desc": ""
+  },
+  {
+    "tagname": "021FY_057X.C1",
+    "desc": ""
+  },
+  {
+    "tagname": "021FY_058X.C1",
+    "desc": ""
+  },
+  {
+    "tagname": "021FY_090D.PV",
+    "desc": "HP Fuel Oil Supply to 021F102"
+  },
+  {
+    "tagname": "021FY_102X.C1",
+    "desc": ""
+  },
+  {
+    "tagname": "021FY_105X.C1",
+    "desc": ""
+  },
+  {
+    "tagname": "021FY_707.PV",
+    "desc": "Pass Balancing 021F101"
+  },
+  {
+    "tagname": "021FY_714.PV",
+    "desc": "Pass Balancing 021F102"
+  },
+  {
+    "tagname": "021HIC_001.OP",
+    "desc": "Bias to FIC_714"
+  },
+  {
+    "tagname": "021HIC_006.OP",
+    "desc": "Low Limit Fuel Gas to 021F101"
+  },
+  {
+    "tagname": "021HIC_056.OP",
+    "desc": "021E130 Bay 1 Fan"
+  },
+  {
+    "tagname": "021HIC_057.OP",
+    "desc": "021E130 Bay 2 Fan"
+  },
+  {
+    "tagname": "021HIC_058.OP",
+    "desc": "021E130 Bay 4 Fan"
+  },
+  {
+    "tagname": "021HIC_059.OP",
+    "desc": "021E130 Bay 3 Fan"
+  },
+  {
+    "tagname": "021HIC_061A.OP",
+    "desc": "From TIC288 to PIC012"
+  },
+  {
+    "tagname": "021HIC_061B.OP",
+    "desc": "From TIC_288 to PIC012"
+  },
+  {
+    "tagname": "021HIC_064A.OP",
+    "desc": "From TIC271 to PIC003 Bias"
+  },
+  {
+    "tagname": "021HIC_064B.OP",
+    "desc": "From TIC271 to PIC004 Bias"
+  },
+  {
+    "tagname": "021HS_003.PV",
+    "desc": "LI_701/LT_007 Selector"
+  },
+  {
+    "tagname": "021HS_014.PV",
+    "desc": "LI_003/LI_004 Selector"
+  },
+  {
+    "tagname": "021HS_049.PV",
+    "desc": "LI_009/LI_010 Selector"
+  },
+  {
+    "tagname": "021HS_104.PV",
+    "desc": "LI_702/LT_008 Selector"
+  },
+  {
+    "tagname": "021IS_LRES.PV",
+    "desc": "Viscosity Long Residue"
+  },
+  {
+    "tagname": "021LI_001.PV",
+    "desc": "Temprd Water Expansin Vssl"
+  },
+  {
+    "tagname": "021LI_003.PV",
+    "desc": "Superheated LP Steam to C101"
+  },
+  {
+    "tagname": "021LI_004.PV",
+    "desc": "021C101 1St Vacuum Col."
+  },
+  {
+    "tagname": "021LI_009.PV",
+    "desc": "021C102 2Nd Vacuum Column"
+  },
+  {
+    "tagname": "021LI_010.PV",
+    "desc": "021C102 2Nd Vacuum Column"
+  },
+  {
+    "tagname": "021LI_014.PV",
+    "desc": "021V106 Vacuum Column Jet Condensate"
+  },
+  {
+    "tagname": "021LI_015.PV",
+    "desc": "Vacuum Column / Wet Condonsate Drum"
+  },
+  {
+    "tagname": "021LI_701.PV",
+    "desc": "Superheated LP Steam to C103"
+  },
+  {
+    "tagname": "021LI_702.OP",
+    "desc": "Superheated LP Steam to C104"
+  },
+  {
+    "tagname": "021LI_702.PV",
+    "desc": "Superheated LP Steam to C104"
+  },
+  {
+    "tagname": "021LIC_002.OP",
+    "desc": "V101 1 Vacuum Column Bottom Circulating Reflux Run Down"
+  },
+  {
+    "tagname": "021LIC_002.PV",
+    "desc": "V101 1 Vacuum Column Bottom Circulating Reflux Run Down"
+  },
+  {
+    "tagname": "021LIC_002.SP",
+    "desc": "V101 1 Vacuum Column Bottom Circulating Reflux Run Down"
+  },
+  {
+    "tagname": "021LIC_004.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021LIC_004.PV",
+    "desc": "021C101 1St Vacuum Col."
+  },
+  {
+    "tagname": "021LIC_004.SP",
+    "desc": "021C101 1St Vacuum Col."
+  },
+  {
+    "tagname": "021LIC_005.OP",
+    "desc": "021V107 1 Vacuum Column Distilate Drum"
+  },
+  {
+    "tagname": "021LIC_005.PV",
+    "desc": "021V107 1 Vacuum Column Distilate Drum"
+  },
+  {
+    "tagname": "021LIC_005.SP",
+    "desc": "021V107 1 Vacuum Column Distilate Drum"
+  },
+  {
+    "tagname": "021LIC_006.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021LIC_006.PV",
+    "desc": "V102 1 Vacuum Column Top Circulating Run Down"
+  },
+  {
+    "tagname": "021LIC_006.SP",
+    "desc": "V102 1 Vacuum Column Top Circulating Run Down"
+  },
+  {
+    "tagname": "021LIC_007.OP",
+    "desc": "021C103 LMO Stripper"
+  },
+  {
+    "tagname": "021LIC_007.PV",
+    "desc": "021C103 LMO Stripper"
+  },
+  {
+    "tagname": "021LIC_007.SP",
+    "desc": "021C103 LMO Stripper"
+  },
+  {
+    "tagname": "021LIC_008.OP",
+    "desc": "C104 Spindle Oil Stripper"
+  },
+  {
+    "tagname": "021LIC_008.PV",
+    "desc": "C104 Spindle Oil Stripper"
+  },
+  {
+    "tagname": "021LIC_008.SP",
+    "desc": "C104 Spindle Oil Stripper"
+  },
+  {
+    "tagname": "021LIC_009.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021LIC_009.PV",
+    "desc": "021C102 2Nd Vacuum Column"
+  },
+  {
+    "tagname": "021LIC_009.SP",
+    "desc": "021C102 2Nd Vacuum Column"
+  },
+  {
+    "tagname": "021LIC_011.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021LIC_011.PV",
+    "desc": "021V105 Black Oil Vessel"
+  },
+  {
+    "tagname": "021LIC_011.SP",
+    "desc": "021V105 Black Oil Vessel"
+  },
+  {
+    "tagname": "021LIC_012.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021LIC_012.PV",
+    "desc": "V103 2 Vacuum Column Bot Reflux Drum"
+  },
+  {
+    "tagname": "021LIC_012.SP",
+    "desc": "V103 2 Vacuum Column Bot Reflux Drum"
+  },
+  {
+    "tagname": "021LIC_013.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021LIC_013.PV",
+    "desc": "V104 2 Vacuum Column Top Reflux Drum"
+  },
+  {
+    "tagname": "021LIC_013.SP",
+    "desc": "V104 2 Vacuum Column Top Reflux Drum"
+  },
+  {
+    "tagname": "021LIC_016.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021LIC_016.PV",
+    "desc": "V106 Vacuum Column Jet Condenser Drum"
+  },
+  {
+    "tagname": "021LIC_016.SP",
+    "desc": "V106 Vacuum Column Jet Condenser Drum"
+  },
+  {
+    "tagname": "021LSH_014.PV",
+    "desc": "Set 021V106 Hi Sp"
+  },
+  {
+    "tagname": "021LSHH_003.PV",
+    "desc": "Set Superheated LP Steam"
+  },
+  {
+    "tagname": "021LSHH_010A.PV",
+    "desc": "Set Superheated LP Steam to C102"
+  },
+  {
+    "tagname": "021LSHH_701.PV",
+    "desc": "Set Superheated LP Steam to C103"
+  },
+  {
+    "tagname": "021LSHH_702.PV",
+    "desc": "Set Superheated LP Steam to C103"
+  },
+  {
+    "tagname": "021LSL_014.PV",
+    "desc": "Set 021V106 Lo Sp"
+  },
+  {
+    "tagname": "021LT_007.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "021LT_008.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "021LV_005.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021LV_006.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021LV_009.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021LV_012.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021LV_013.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021LV_016.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021LY_003.OP",
+    "desc": "Superheated LP Steam to C101"
+  },
+  {
+    "tagname": "021LY_010A.OP",
+    "desc": "Superheated LP Steam Valve"
+  },
+  {
+    "tagname": "021LY_701.OP",
+    "desc": "Superheated LP Steam to C103"
+  },
+  {
+    "tagname": "021LY_702.OP",
+    "desc": "Superheated LP Steam to C103"
+  },
+  {
+    "tagname": "021PAH_016.PV",
+    "desc": "C102 to HVU ReliEF Header"
+  },
+  {
+    "tagname": "021PAH_018.PV",
+    "desc": "C101 to HVU ReliEF Header"
+  },
+  {
+    "tagname": "021PAH_134.PV",
+    "desc": "Short Residue Pump-B Run"
+  },
+  {
+    "tagname": "021PDI_704.PV",
+    "desc": "021S103A Washoil Filters"
+  },
+  {
+    "tagname": "021PDI_706.PV",
+    "desc": "021C101 1St Vacuum Col."
+  },
+  {
+    "tagname": "021PDI_707.PV",
+    "desc": "Hot VGO to 021C101"
+  },
+  {
+    "tagname": "021PDI_710.PV",
+    "desc": "C104 Spindle Oil Stripper"
+  },
+  {
+    "tagname": "021PDI_711.PV",
+    "desc": "021C102 2Nd Vacuum Col"
+  },
+  {
+    "tagname": "021PDIC_001.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021PDIC_001.PV",
+    "desc": "E105 Short Residue Cl'R Bp"
+  },
+  {
+    "tagname": "021PDIC_001.SP",
+    "desc": "E105 Short Residue Cl'R Bp"
+  },
+  {
+    "tagname": "021PDV_001.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021PI_002.PV",
+    "desc": "HP Fuel Oil Supply to 021F101"
+  },
+  {
+    "tagname": "021PI_005.PV",
+    "desc": "Fuel Gas Supply to 021F101"
+  },
+  {
+    "tagname": "021PI_006.PV",
+    "desc": "1St Vacuum Column"
+  },
+  {
+    "tagname": "021PI_010.PV",
+    "desc": "HP Fuel Oil Supply to 021F102"
+  },
+  {
+    "tagname": "021PI_011.PV",
+    "desc": "Fuel Gas Supply to 021F102"
+  },
+  {
+    "tagname": "021PI_014.PV",
+    "desc": "2Nd Vacuum Column"
+  },
+  {
+    "tagname": "021PI_015.PV",
+    "desc": "2Nd Vacuum Column"
+  },
+  {
+    "tagname": "021PI_701.PV",
+    "desc": "021C101 1St Vacuum Column"
+  },
+  {
+    "tagname": "021PIC_003.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021PIC_003.PV",
+    "desc": "021F101 Long Residue Heater Fuel Oil Shut Off"
+  },
+  {
+    "tagname": "021PIC_003.SP",
+    "desc": "021F101 Long Residue Heater Fuel Oil Shut Off"
+  },
+  {
+    "tagname": "021PIC_004.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021PIC_004.PV",
+    "desc": "021F101 Long Residue Heater Fuel Gas"
+  },
+  {
+    "tagname": "021PIC_004.SP",
+    "desc": "021F101 Long Residue Heater Fuel Gas"
+  },
+  {
+    "tagname": "021PIC_007.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021PIC_007.PV",
+    "desc": "1St Vacuum Column Pressure"
+  },
+  {
+    "tagname": "021PIC_007.SP",
+    "desc": "1St Vacuum Column Pressure"
+  },
+  {
+    "tagname": "021PIC_012.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021PIC_012.PV",
+    "desc": "021F102 Intermediete Residue Heater Fuel Oil"
+  },
+  {
+    "tagname": "021PIC_012.SP",
+    "desc": "021F102 Intermediete Residue Heater Fuel Oil"
+  },
+  {
+    "tagname": "021PIC_013.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021PIC_013.PV",
+    "desc": "021F102 Intermediete Residue Heater Fuel Gas"
+  },
+  {
+    "tagname": "021PIC_013.SP",
+    "desc": "021F102 Intermediete Residue Heater Fuel Gas"
+  },
+  {
+    "tagname": "021PIC_017.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021PIC_017.PV",
+    "desc": "Overhead Vaporizer to S101"
+  },
+  {
+    "tagname": "021PIC_017.SP",
+    "desc": "Overhead Vaporizer to S101"
+  },
+  {
+    "tagname": "021PV_003.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021PV_004.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021PV_007.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021PV_012.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021PV_013.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021PV_017.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021TAHH_271.PV",
+    "desc": "Long Residue to 021C101"
+  },
+  {
+    "tagname": "021TAHH_288.PV",
+    "desc": "Intermediete Residue to 021C102"
+  },
+  {
+    "tagname": "021TI_001.PV",
+    "desc": "TeMP Water From P113A/B"
+  },
+  {
+    "tagname": "021TI_002.PV",
+    "desc": "Tempered Water From 021E130"
+  },
+  {
+    "tagname": "021TI_003.PV",
+    "desc": "Tempered Water to 021E130"
+  },
+  {
+    "tagname": "021TI_004.PV",
+    "desc": "Short Residue  to Storage"
+  },
+  {
+    "tagname": "021TI_005.PV",
+    "desc": "TeMP Water to 021E105A/B/C"
+  },
+  {
+    "tagname": "021TI_006.PV",
+    "desc": "Long Residue  From Storage"
+  },
+  {
+    "tagname": "021TI_007.PV",
+    "desc": "Short Residue  to 021E105A/B/C"
+  },
+  {
+    "tagname": "021TI_008.PV",
+    "desc": "Long Residue  From 021E101A/B/C"
+  },
+  {
+    "tagname": "021TI_009.PV",
+    "desc": "MMO Reflux From 021E102A/B"
+  },
+  {
+    "tagname": "021TI_010.PV",
+    "desc": "Long Residue  From 021E102A/B"
+  },
+  {
+    "tagname": "021TI_011.PV",
+    "desc": "Tempered Water to Users"
+  },
+  {
+    "tagname": "021TI_012.PV",
+    "desc": "MMO Reflux From 021E106A/B"
+  },
+  {
+    "tagname": "021TI_013.PV",
+    "desc": "Long Residue  From 021E103A/B"
+  },
+  {
+    "tagname": "021TI_014.PV",
+    "desc": "Bottom Circulating Reflux to 021C101"
+  },
+  {
+    "tagname": "021TI_015.PV",
+    "desc": "Short Residue  From 021E104A/C/D"
+  },
+  {
+    "tagname": "021TI_016.PV",
+    "desc": "Long Residue  From 021E104C"
+  },
+  {
+    "tagname": "021TI_017.PV",
+    "desc": "MMO Product to Storage"
+  },
+  {
+    "tagname": "021TI_018.PV",
+    "desc": "LMMO to IFO Header"
+  },
+  {
+    "tagname": "021TI_019.PV",
+    "desc": "Bottom Circulating Reflux From 021P105"
+  },
+  {
+    "tagname": "021TI_020.PV",
+    "desc": "HP Fuel Oil Supply to 021F101"
+  },
+  {
+    "tagname": "021TI_021.PV",
+    "desc": "021F101 Pass 1 Inlet"
+  },
+  {
+    "tagname": "021TI_022.PV",
+    "desc": "021F101 Pass 2 Inlet"
+  },
+  {
+    "tagname": "021TI_023.PV",
+    "desc": "021F101 Pass 3 Inlet"
+  },
+  {
+    "tagname": "021TI_024.PV",
+    "desc": "021F101 Pass 4 Inlet"
+  },
+  {
+    "tagname": "021TI_025.PV",
+    "desc": "F101 Fluegas to Convection Section"
+  },
+  {
+    "tagname": "021TI_026.PV",
+    "desc": "F101 Coil 1 Outlet"
+  },
+  {
+    "tagname": "021TI_026.SP",
+    "desc": "F101 Coil 1 Outlet"
+  },
+  {
+    "tagname": "021TI_027.PV",
+    "desc": "F101 Coil 2 Outlet"
+  },
+  {
+    "tagname": "021TI_027.SP",
+    "desc": "F101 Coil 2 Outlet"
+  },
+  {
+    "tagname": "021TI_028.PV",
+    "desc": "F101 Coil 3 Outlet"
+  },
+  {
+    "tagname": "021TI_028.SP",
+    "desc": "F101 Coil 3 Outlet"
+  },
+  {
+    "tagname": "021TI_029.PV",
+    "desc": "F101 Coil 4 Outlet"
+  },
+  {
+    "tagname": "021TI_029.SP",
+    "desc": "F101 Coil 4 Outlet"
+  },
+  {
+    "tagname": "021TI_030.PV",
+    "desc": "Fuel Gas Supply to 021F101"
+  },
+  {
+    "tagname": "021TI_031.PV",
+    "desc": "Comb Air to 021F101"
+  },
+  {
+    "tagname": "021TI_032.PV",
+    "desc": "Long Residue to 021C101"
+  },
+  {
+    "tagname": "021TI_033.PV",
+    "desc": "Long Residue  to Convection Section Pass 1"
+  },
+  {
+    "tagname": "021TI_034.PV",
+    "desc": "Long Residue  to Convection Section Pass 2"
+  },
+  {
+    "tagname": "021TI_035.PV",
+    "desc": "Long Residue  to Convection Section Pass 3"
+  },
+  {
+    "tagname": "021TI_036.PV",
+    "desc": "Long Residue  to Convection Section Pass 4"
+  },
+  {
+    "tagname": "021TI_037.PV",
+    "desc": "Convection Section Flue Gas Outlet"
+  },
+  {
+    "tagname": "021TI_039.PV",
+    "desc": "Superheated LP Steam to Users"
+  },
+  {
+    "tagname": "021TI_041.PV",
+    "desc": "Intermediete Residue to 021F102"
+  },
+  {
+    "tagname": "021TI_042.PV",
+    "desc": "021C101 Overhead Vapour"
+  },
+  {
+    "tagname": "021TI_043.PV",
+    "desc": "021C101 Vacuum Coloumn"
+  },
+  {
+    "tagname": "021TI_044.PV",
+    "desc": "LMO From 021V110"
+  },
+  {
+    "tagname": "021TI_045.PV",
+    "desc": "SPO From 021V109"
+  },
+  {
+    "tagname": "021TI_046.PV",
+    "desc": "Spindlight Oil to 021V101"
+  },
+  {
+    "tagname": "021TI_047.PV",
+    "desc": "Intermediete Dist to Storage"
+  },
+  {
+    "tagname": "021TI_048.PV",
+    "desc": "VGO Reflux to C101 Tray 41"
+  },
+  {
+    "tagname": "021TI_049.PV",
+    "desc": "VGO to IFO Header"
+  },
+  {
+    "tagname": "021TI_050.PV",
+    "desc": "VGO From 021E110A/B"
+  },
+  {
+    "tagname": "021TI_051.PV",
+    "desc": "VGO Reflux to 021C101"
+  },
+  {
+    "tagname": "021TI_052.PV",
+    "desc": "SPO From 021P104"
+  },
+  {
+    "tagname": "021TI_053.PV",
+    "desc": "LMO to 021E108A/B Cooler"
+  },
+  {
+    "tagname": "021TI_054.PV",
+    "desc": "LMO From 021E108A/B"
+  },
+  {
+    "tagname": "021TI_055.PV",
+    "desc": "SPO Product to Storage"
+  },
+  {
+    "tagname": "021TI_056.PV",
+    "desc": "Intermediete Dist From 021P114A/B"
+  },
+  {
+    "tagname": "021TI_057.PV",
+    "desc": "Fuel Gas Supply to 021F102"
+  },
+  {
+    "tagname": "021TI_058.PV",
+    "desc": "HP Fuel Oil Suplly to 021F102"
+  },
+  {
+    "tagname": "021TI_059.PV",
+    "desc": "021F102 Flue Gas to Con Sec"
+  },
+  {
+    "tagname": "021TI_060.PV",
+    "desc": "021F102 Pass 1 Outlet"
+  },
+  {
+    "tagname": "021TI_060.SP",
+    "desc": "021F102 Pass 1 Outlet"
+  },
+  {
+    "tagname": "021TI_061.PV",
+    "desc": "021F102 Pass 2 Outlet"
+  },
+  {
+    "tagname": "021TI_061.SP",
+    "desc": "021F102 Pass 2 Outlet"
+  },
+  {
+    "tagname": "021TI_062.PV",
+    "desc": "021F102 Pass 3 Outlet"
+  },
+  {
+    "tagname": "021TI_062.SP",
+    "desc": "021F102 Pass 3 Outlet"
+  },
+  {
+    "tagname": "021TI_063.PV",
+    "desc": "021F102 Pass 4 Outlet"
+  },
+  {
+    "tagname": "021TI_063.SP",
+    "desc": "021F102 Pass 4 Outlet"
+  },
+  {
+    "tagname": "021TI_064.PV",
+    "desc": "021F102 Pass 5 Outlet"
+  },
+  {
+    "tagname": "021TI_064.SP",
+    "desc": "021F102 Pass 5 Outlet"
+  },
+  {
+    "tagname": "021TI_065.PV",
+    "desc": "Combustion Air to 021F102 Burner"
+  },
+  {
+    "tagname": "021TI_066.PV",
+    "desc": "Intermediete Residue to 021C102"
+  },
+  {
+    "tagname": "021TI_067.PV",
+    "desc": "021C102 Vacuum Coloumn"
+  },
+  {
+    "tagname": "021TI_068.PV",
+    "desc": "Short Residue  to 021E104A/B/C/D"
+  },
+  {
+    "tagname": "021TI_069.PV",
+    "desc": "021C102 Overhead"
+  },
+  {
+    "tagname": "021TI_070.PV",
+    "desc": "Black Oil to 021E109A/B"
+  },
+  {
+    "tagname": "021TI_071.PV",
+    "desc": "Black Oil to IFO Header"
+  },
+  {
+    "tagname": "021TI_073.PV",
+    "desc": "MMO Reflux to 021C102"
+  },
+  {
+    "tagname": "021TI_074.PV",
+    "desc": "LMMO Reflux to 021C102"
+  },
+  {
+    "tagname": "021TI_075.PV",
+    "desc": "LMMO to 021E111A/B"
+  },
+  {
+    "tagname": "021TI_076.PV",
+    "desc": "TeMP Water From 021E111A/B"
+  },
+  {
+    "tagname": "021TI_077.PV",
+    "desc": "Light Oil to Wet Slops Header"
+  },
+  {
+    "tagname": "021TI_261.PV",
+    "desc": "MMO Reflux to 021C102"
+  },
+  {
+    "tagname": "021TI_263.PV",
+    "desc": "Tube Skin Coil#1 021F101"
+  },
+  {
+    "tagname": "021TI_263.SP",
+    "desc": "Tube Skin Coil#1 021F101"
+  },
+  {
+    "tagname": "021TI_264.PV",
+    "desc": "Tube Skin Coil#2 021F101"
+  },
+  {
+    "tagname": "021TI_264.SP",
+    "desc": "Tube Skin Coil#2 021F101"
+  },
+  {
+    "tagname": "021TI_265.PV",
+    "desc": "Tube Skin Coil#3 021F101"
+  },
+  {
+    "tagname": "021TI_265.SP",
+    "desc": "Tube Skin Coil#3 021F101"
+  },
+  {
+    "tagname": "021TI_266.PV",
+    "desc": "Tube Skin Coil#4 021F101"
+  },
+  {
+    "tagname": "021TI_266.SP",
+    "desc": "Tube Skin Coil#4 021F101"
+  },
+  {
+    "tagname": "021TI_271A.PV",
+    "desc": "Long Residue to 021C101"
+  },
+  {
+    "tagname": "021TI_278.PV",
+    "desc": "Tube Skin Coil#1 021F102"
+  },
+  {
+    "tagname": "021TI_278.SP",
+    "desc": "Tube Skin Coil#1 021F102"
+  },
+  {
+    "tagname": "021TI_278A.PV",
+    "desc": "Tube Skin Temperature (New) 021F-102"
+  },
+  {
+    "tagname": "021TI_279.PV",
+    "desc": "Tube Skin Coil#2 021F102"
+  },
+  {
+    "tagname": "021TI_279.SP",
+    "desc": "Tube Skin Coil#2 021F102"
+  },
+  {
+    "tagname": "021TI_280.PV",
+    "desc": "Tube Skin Coil#3 021F102"
+  },
+  {
+    "tagname": "021TI_280.SP",
+    "desc": "Tube Skin Coil#3 021F102"
+  },
+  {
+    "tagname": "021TI_281.PV",
+    "desc": "Tube Skin Coil#4 021F102"
+  },
+  {
+    "tagname": "021TI_281.SP",
+    "desc": "Tube Skin Coil#4 021F102"
+  },
+  {
+    "tagname": "021TI_282.PV",
+    "desc": "Tube Skin Coil#6 021F102"
+  },
+  {
+    "tagname": "021TI_282.SP",
+    "desc": "Tube Skin Coil#6 021F102"
+  },
+  {
+    "tagname": "021TI_288A.PV",
+    "desc": "Combined Outlets 021F102"
+  },
+  {
+    "tagname": "021TI_289.PV",
+    "desc": "Off Gas to 021F101"
+  },
+  {
+    "tagname": "021TI_707A.PV",
+    "desc": "Long Residue to 021E114"
+  },
+  {
+    "tagname": "021TI_708.PV",
+    "desc": "Long Residue  From 021E114"
+  },
+  {
+    "tagname": "021TI_709.PV",
+    "desc": "Short Residue  From 021E104A/B/C/D"
+  },
+  {
+    "tagname": "021TI_711A.PV",
+    "desc": "Interm Residue to 021F102"
+  },
+  {
+    "tagname": "021TI_712A.PV",
+    "desc": "021C101 1St Vacuum Col"
+  },
+  {
+    "tagname": "021TI_716.PV",
+    "desc": "Intermediete Dis to 021V107"
+  },
+  {
+    "tagname": "021TI_720.PV",
+    "desc": "SPO Product From 021E117"
+  },
+  {
+    "tagname": "021TI_721A.PV",
+    "desc": "Black Oil From 021P108"
+  },
+  {
+    "tagname": "021TI_722.PV",
+    "desc": "Black Oil From 021E115"
+  },
+  {
+    "tagname": "021TI_726.PV",
+    "desc": "Bottom Circulating Reflux From E103A/B"
+  },
+  {
+    "tagname": "021TI_728.PV",
+    "desc": "Intermediete Residue Quench to C101"
+  },
+  {
+    "tagname": "021TI_729.PV",
+    "desc": "Long Residue  From 021E101A/B/C/D"
+  },
+  {
+    "tagname": "021TIC_260.OP",
+    "desc": "P113A/B Suction Water Temperature"
+  },
+  {
+    "tagname": "021TIC_260.PV",
+    "desc": "P113A/B Suction Water Temperature"
+  },
+  {
+    "tagname": "021TIC_260.SP",
+    "desc": "P113A/B Suction Water Temperature"
+  },
+  {
+    "tagname": "021TIC_267.OP",
+    "desc": "Pass Balance 021F101"
+  },
+  {
+    "tagname": "021TIC_267.PV",
+    "desc": "Pass Balance 021F101"
+  },
+  {
+    "tagname": "021TIC_267.SP",
+    "desc": "Pass Balance 021F101"
+  },
+  {
+    "tagname": "021TIC_268.OP",
+    "desc": "Pass Balance 021F101"
+  },
+  {
+    "tagname": "021TIC_268.PV",
+    "desc": "Pass Balance 021F101"
+  },
+  {
+    "tagname": "021TIC_268.SP",
+    "desc": "Pass Balance 021F101"
+  },
+  {
+    "tagname": "021TIC_269.OP",
+    "desc": "Pass Balance 021F101"
+  },
+  {
+    "tagname": "021TIC_269.PV",
+    "desc": "Pass Balance 021F101"
+  },
+  {
+    "tagname": "021TIC_269.SP",
+    "desc": "Pass Balance 021F101"
+  },
+  {
+    "tagname": "021TIC_270.OP",
+    "desc": "Pass Balance 021F101"
+  },
+  {
+    "tagname": "021TIC_270.PV",
+    "desc": "Pass Balance 021F101"
+  },
+  {
+    "tagname": "021TIC_270.SP",
+    "desc": "Pass Balance 021F101"
+  },
+  {
+    "tagname": "021TIC_271.OP",
+    "desc": "021F101 Long Residue  Heater Control"
+  },
+  {
+    "tagname": "021TIC_271.PV",
+    "desc": "021F101 Long Residue  Heater Control"
+  },
+  {
+    "tagname": "021TIC_271.SP",
+    "desc": "021F101 Long Residue  Heater Control"
+  },
+  {
+    "tagname": "021TIC_283.OP",
+    "desc": "Pass Balance 021F102"
+  },
+  {
+    "tagname": "021TIC_283.PV",
+    "desc": "Pass Balance 021F102"
+  },
+  {
+    "tagname": "021TIC_283.SP",
+    "desc": "Pass Balance 021F102"
+  },
+  {
+    "tagname": "021TIC_284.OP",
+    "desc": "Pass Balance 021F102"
+  },
+  {
+    "tagname": "021TIC_284.PV",
+    "desc": "Pass Balance 021F102"
+  },
+  {
+    "tagname": "021TIC_284.SP",
+    "desc": "Pass Balance 021F102"
+  },
+  {
+    "tagname": "021TIC_285.OP",
+    "desc": "Pass Balance 021F102"
+  },
+  {
+    "tagname": "021TIC_285.PV",
+    "desc": "Pass Balance 021F102"
+  },
+  {
+    "tagname": "021TIC_285.SP",
+    "desc": "Pass Balance 021F102"
+  },
+  {
+    "tagname": "021TIC_286.OP",
+    "desc": "Pass Balance 021F102"
+  },
+  {
+    "tagname": "021TIC_286.PV",
+    "desc": "Pass Balance 021F102"
+  },
+  {
+    "tagname": "021TIC_286.SP",
+    "desc": "Pass Balance 021F102"
+  },
+  {
+    "tagname": "021TIC_287.OP",
+    "desc": "Pass Balance 021F102"
+  },
+  {
+    "tagname": "021TIC_287.PV",
+    "desc": "Pass Balance 021F102"
+  },
+  {
+    "tagname": "021TIC_287.SP",
+    "desc": "Pass Balance 021F102"
+  },
+  {
+    "tagname": "021TIC_288.OP",
+    "desc": "Combined Outlets 021F102"
+  },
+  {
+    "tagname": "021TIC_288.PV",
+    "desc": "Combined Outlets 021F102"
+  },
+  {
+    "tagname": "021TIC_288.SP",
+    "desc": "Combined Outlets 021F102"
+  },
+  {
+    "tagname": "021TIC_711.OP",
+    "desc": "Interm Residue to 021F102"
+  },
+  {
+    "tagname": "021TIC_711.PV",
+    "desc": "Interm Residue to 021F102"
+  },
+  {
+    "tagname": "021TIC_711.SP",
+    "desc": "Interm Residue to 021F102"
+  },
+  {
+    "tagname": "021TIC_712.OP",
+    "desc": "021C101 1St Vacuum Col"
+  },
+  {
+    "tagname": "021TIC_712.PV",
+    "desc": "021C101 1St Vacuum Col"
+  },
+  {
+    "tagname": "021TIC_712.SP",
+    "desc": "021C101 1St Vacuum Col"
+  },
+  {
+    "tagname": "021TIC_721.OP",
+    "desc": "021P108 Black Oil Pmp"
+  },
+  {
+    "tagname": "021TIC_721.PV",
+    "desc": "021P108 Black Oil Pmp"
+  },
+  {
+    "tagname": "021TIC_721.SP",
+    "desc": "021P108 Black Oil Pmp"
+  },
+  {
+    "tagname": "021TSHH_271.PV",
+    "desc": "021F101 Outlet Hh Temperature"
+  },
+  {
+    "tagname": "021TSHH_288.PV",
+    "desc": "021F102 Outlet Hh Temperature"
+  },
+  {
+    "tagname": "021TT_265.PV",
+    "desc": "Tube Skin Coil#3 021F101"
+  },
+  {
+    "tagname": "021TV_260.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "021VIS_LMOM.NUMERICA",
+    "desc": "Viscosity LMO Shift Malam"
+  },
+  {
+    "tagname": "021VIS_LMOM.PV",
+    "desc": "Viscosity LMO Shift Malam"
+  },
+  {
+    "tagname": "021VIS_LMOP.NUMERICA",
+    "desc": "Viscosity LMO Shift Pagi"
+  },
+  {
+    "tagname": "021VIS_LMOP.PV",
+    "desc": "Viscosity LMO Shift Pagi"
+  },
+  {
+    "tagname": "021VIS_LMOS.NUMERICA",
+    "desc": "Viscosity LMO Shift Sore"
+  },
+  {
+    "tagname": "021VIS_LMOS.PV",
+    "desc": "Viscosity LMO Shift Sore"
+  },
+  {
+    "tagname": "021VIS_MMOM.NUMERICA",
+    "desc": "Viscosity MMO Shift Malam"
+  },
+  {
+    "tagname": "021VIS_MMOM.PV",
+    "desc": "Viscosity MMO Shift Malam"
+  },
+  {
+    "tagname": "021VIS_MMOP.NUMERICA",
+    "desc": "Viscosity MMO Shift Pagi"
+  },
+  {
+    "tagname": "021VIS_MMOP.PV",
+    "desc": "Viscosity MMO Shift Pagi"
+  },
+  {
+    "tagname": "021VIS_MMOS.NUMERICA",
+    "desc": "Viscosity MMO Shift Sore"
+  },
+  {
+    "tagname": "021VIS_MMOS.PV",
+    "desc": "Viscosity MMO Shift Sore"
+  },
+  {
+    "tagname": "021VIS_SPOM.NUMERICA",
+    "desc": "Viscosity SPO Shift Malam"
+  },
+  {
+    "tagname": "021VIS_SPOM.PV",
+    "desc": "Viscosity SPO Shift Malam"
+  },
+  {
+    "tagname": "021VIS_SPOP.NUMERICA",
+    "desc": "Viscosity SPO Shift Pagi"
+  },
+  {
+    "tagname": "021VIS_SPOP.PV",
+    "desc": "Viscosity SPO Shift Pagi"
+  },
+  {
+    "tagname": "021VIS_SPOS.NUMERICA",
+    "desc": "Viscosity SPO Shift Sore"
+  },
+  {
+    "tagname": "021VIS_SPOS.PV",
+    "desc": "Viscosity SPO Shift Sore"
+  },
+  {
+    "tagname": "021VIS_SRM.NUMERICA",
+    "desc": "Viscosity Short Residue Shift Malam"
+  },
+  {
+    "tagname": "021VIS_SRM.PV",
+    "desc": "Viscosity Short Residue Shift Malam"
+  },
+  {
+    "tagname": "021VIS_SRP.NUMERICA",
+    "desc": "Viscosity Short Residue Shift Pagi"
+  },
+  {
+    "tagname": "021VIS_SRP.PV",
+    "desc": "Viscosity Short Residue Shift Pagi"
+  },
+  {
+    "tagname": "021VIS_SRS.NUMERICA",
+    "desc": "Viscosity Short Residue Shift Sore"
+  },
+  {
+    "tagname": "021VIS_SRS.PV",
+    "desc": "Viscosity Short Residue Shift Sore"
+  },
+  {
+    "tagname": "021VIS_VGOP.NUMERICA",
+    "desc": "Viscosity VGO Shift Pagi"
+  },
+  {
+    "tagname": "021VIS_VGOP.PV",
+    "desc": "Viscosity VGO Shift Pagi"
+  },
+  {
+    "tagname": "021XAH_001.PV",
+    "desc": "021E130 Fan Common Alarm"
+  },
+  {
+    "tagname": "022AI_001.PV",
+    "desc": "Deasphalted Oil Viscosity"
+  },
+  {
+    "tagname": "022AI_010.PV",
+    "desc": "H2S Analyzer"
+  },
+  {
+    "tagname": "022AM_005A.OP",
+    "desc": "From PIC_005 to PV_005A"
+  },
+  {
+    "tagname": "022AM_005B.OP",
+    "desc": "From PIC_005 to PV_005B"
+  },
+  {
+    "tagname": "022FALL_401.PV",
+    "desc": "LP Steam to 1St DAO Evaporator"
+  },
+  {
+    "tagname": "022FP_DAOM.PV",
+    "desc": "Flash Point DAO Shift Malam"
+  },
+  {
+    "tagname": "022FP_DAOP.NUMERICA",
+    "desc": ""
+  },
+  {
+    "tagname": "022FP_DAOP.PV",
+    "desc": "Flash Point DAO Shift Pagi"
+  },
+  {
+    "tagname": "022FP_DAOS.NUMERICA",
+    "desc": ""
+  },
+  {
+    "tagname": "022FP_DAOS.PV",
+    "desc": "Flash Point DAO Shift Sore"
+  },
+  {
+    "tagname": "022FV_001.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022FV_003.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022FV_004.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022FY_001X.C1",
+    "desc": ""
+  },
+  {
+    "tagname": "022FY_002O.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "022FY_007X.C1",
+    "desc": ""
+  },
+  {
+    "tagname": "022FY_013X.C1",
+    "desc": ""
+  },
+  {
+    "tagname": "022HIC_004.OP",
+    "desc": "To PDU Heavy ReliEF Header"
+  },
+  {
+    "tagname": "022HIC_013.OP",
+    "desc": "Propane  Acumulator Depress"
+  },
+  {
+    "tagname": "022HIC_122.OP",
+    "desc": "DAO Evaporator Bias"
+  },
+  {
+    "tagname": "022HS_001.PV",
+    "desc": "022Fy-001 Test Override"
+  },
+  {
+    "tagname": "022HS_002.PV",
+    "desc": "LI-002/LI-001 Selector"
+  },
+  {
+    "tagname": "022HS_003.PV",
+    "desc": "FIC-005,LIC-002 Selector"
+  },
+  {
+    "tagname": "022HS_005.PV",
+    "desc": "LI-008/LI-009 Selector"
+  },
+  {
+    "tagname": "022HS_006.PV",
+    "desc": "LV-008A,LV-008B Selector"
+  },
+  {
+    "tagname": "022HS_007.OP",
+    "desc": "LI-010/LI-011 Selector"
+  },
+  {
+    "tagname": "022HS_007.PV",
+    "desc": "LI-010/LI-011 Selector"
+  },
+  {
+    "tagname": "022HS_401.PV",
+    "desc": "1St DAO Evaporator Valve Overrid"
+  },
+  {
+    "tagname": "022LAH_020A.PV",
+    "desc": "Compressor Interstage KO Dr"
+  },
+  {
+    "tagname": "022LI_001.PV",
+    "desc": "022C102 Bottom Interface"
+  },
+  {
+    "tagname": "022LI_002.PV",
+    "desc": "022C101 Bottom Interface"
+  },
+  {
+    "tagname": "022LI_005.PV",
+    "desc": "E107 2Nd DAO Evaporator LVl"
+  },
+  {
+    "tagname": "022LI_007.PV",
+    "desc": "Asphalt Stripper"
+  },
+  {
+    "tagname": "022LI_008.PV",
+    "desc": "Asphalt Stripper Mix"
+  },
+  {
+    "tagname": "022LI_009.PV",
+    "desc": "Asphalt Stripper Mix"
+  },
+  {
+    "tagname": "022LI_010.PV",
+    "desc": "Asphalt  Flash Tower Mix"
+  },
+  {
+    "tagname": "022LI_011.PV",
+    "desc": "Asphalt  Flash Tower Mix"
+  },
+  {
+    "tagname": "022LI_015.PV",
+    "desc": "Steam Drum Level"
+  },
+  {
+    "tagname": "022LI_017.PV",
+    "desc": "Compressor Suction KO Drum Upper"
+  },
+  {
+    "tagname": "022LI_018.PV",
+    "desc": "Compressor Suction KO Drum Bottom"
+  },
+  {
+    "tagname": "022LI_019.PV",
+    "desc": "Compressor Interstage KO Drum"
+  },
+  {
+    "tagname": "022LI_021.PV",
+    "desc": "Propane Accumulator"
+  },
+  {
+    "tagname": "022LI_022.PV",
+    "desc": "Propane Accumulator"
+  },
+  {
+    "tagname": "022LI_023.PV",
+    "desc": "ReliEF System Liquid Catcher"
+  },
+  {
+    "tagname": "022LI_024.PV",
+    "desc": "ReliEF System Liquid Catcher"
+  },
+  {
+    "tagname": "022LI_025.PV",
+    "desc": "Propane Acumulator Top LVl"
+  },
+  {
+    "tagname": "022LIC_002.OP",
+    "desc": "022C101 Bottom Interface"
+  },
+  {
+    "tagname": "022LIC_002.PV",
+    "desc": "022C101 Bottom Interface"
+  },
+  {
+    "tagname": "022LIC_002.SP",
+    "desc": "022C101 Bottom Interface"
+  },
+  {
+    "tagname": "022LIC_003.OP",
+    "desc": "022C102 DAO Stripper"
+  },
+  {
+    "tagname": "022LIC_003.PV",
+    "desc": "022C102 DAO Stripper"
+  },
+  {
+    "tagname": "022LIC_003.SP",
+    "desc": "022C102 DAO Stripper"
+  },
+  {
+    "tagname": "022LIC_004.OP",
+    "desc": "E106 1St DAO Evaporator Mix"
+  },
+  {
+    "tagname": "022LIC_004.PV",
+    "desc": "E106 1St DAO Evaporator Mix"
+  },
+  {
+    "tagname": "022LIC_004.SP",
+    "desc": "E106 1St DAO Evaporator Mix"
+  },
+  {
+    "tagname": "022LIC_006.OP",
+    "desc": "E107 2Nd DAO Evaporator Mix"
+  },
+  {
+    "tagname": "022LIC_006.PV",
+    "desc": "E107 2Nd DAO Evaporator Mix"
+  },
+  {
+    "tagname": "022LIC_006.SP",
+    "desc": "E107 2Nd DAO Evaporator Mix"
+  },
+  {
+    "tagname": "022LIC_008.PV",
+    "desc": "Asphalt Stripper Mix"
+  },
+  {
+    "tagname": "022LIC_008.SP",
+    "desc": "Asphalt Stripper Mix"
+  },
+  {
+    "tagname": "022LIC_010.PV",
+    "desc": "Asphalt  Flash Tower Mix"
+  },
+  {
+    "tagname": "022LIC_010.SP",
+    "desc": "Asphalt  Flash Tower Mix"
+  },
+  {
+    "tagname": "022LIC_014.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022LIC_014.PV",
+    "desc": "LP BFW to Steam Drum"
+  },
+  {
+    "tagname": "022LIC_014.SP",
+    "desc": "LP BFW to Steam Drum"
+  },
+  {
+    "tagname": "022LIC_016.OP",
+    "desc": "022V107 Condenser  Water"
+  },
+  {
+    "tagname": "022LIC_016.PV",
+    "desc": "022V107 Condenser  Water"
+  },
+  {
+    "tagname": "022LIC_016.SP",
+    "desc": "022V107 Condenser  Water"
+  },
+  {
+    "tagname": "022LIC_122.OP",
+    "desc": "DAO Evaporator"
+  },
+  {
+    "tagname": "022LIC_122.PV",
+    "desc": "DAO Evaporator"
+  },
+  {
+    "tagname": "022LIC_122.SP",
+    "desc": "DAO Evaporator"
+  },
+  {
+    "tagname": "022LSH_018B.PV",
+    "desc": "Compressor Suction KO Drum Bottom"
+  },
+  {
+    "tagname": "022LSH_024.PV",
+    "desc": "Set 022V108 Level to Start"
+  },
+  {
+    "tagname": "022LSHH_015A.PV",
+    "desc": "Set Level Of Steam Drum"
+  },
+  {
+    "tagname": "022LSL_005.PV",
+    "desc": "Set L to Close 022LY-005"
+  },
+  {
+    "tagname": "022LSL_024.PV",
+    "desc": "Set 022V108 Level to Stop"
+  },
+  {
+    "tagname": "022LSLL_005A.PV",
+    "desc": "Set to Close 022LY-005"
+  },
+  {
+    "tagname": "022LSLL_007A.PV",
+    "desc": "Set HP LF Flushing Supply"
+  },
+  {
+    "tagname": "022LV_002.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022LV_004.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022LV_006.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022LV_008A.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022LV_008B.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022LV_010.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022LV_014.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022LV_016.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022LV_122.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022LY_005.OP",
+    "desc": "2Nd DAO Evaporator Outlet Valve"
+  },
+  {
+    "tagname": "022LY_007.OP",
+    "desc": "HP LF Flushing Suply Valve"
+  },
+  {
+    "tagname": "022LY_015.OP",
+    "desc": "BFW Valve to Steam Drm"
+  },
+  {
+    "tagname": "022PAH_001.PV",
+    "desc": "Feed Precooler"
+  },
+  {
+    "tagname": "022PAH_008.PV",
+    "desc": "Propane Condensor Outlet"
+  },
+  {
+    "tagname": "022PAH_009.PV",
+    "desc": "Propane Condensor Outlet"
+  },
+  {
+    "tagname": "022PAH_010.PV",
+    "desc": "Propane Cooler"
+  },
+  {
+    "tagname": "022PAH_070A.PV",
+    "desc": "022P104A Seal Cavity"
+  },
+  {
+    "tagname": "022PAH_070B.PV",
+    "desc": "022P104B Seal Cavity"
+  },
+  {
+    "tagname": "022PAH_104.PV",
+    "desc": "022K101 2Nd Discharge Bottle"
+  },
+  {
+    "tagname": "022PAH_105.PV",
+    "desc": "022P103B Running"
+  },
+  {
+    "tagname": "022PAH_106.PV",
+    "desc": "022P103A Running"
+  },
+  {
+    "tagname": "022PDAL_401.PV",
+    "desc": "MP Steam to 1St DAO Evaporator"
+  },
+  {
+    "tagname": "022PDI_011.PV",
+    "desc": "022E105C Outlet"
+  },
+  {
+    "tagname": "022PDI_018.PV",
+    "desc": "Slop Wax to DAO Evaporator"
+  },
+  {
+    "tagname": "022PDI_401.PV",
+    "desc": "LP Steam to 1St DAO Evaporator"
+  },
+  {
+    "tagname": "022PDIC_123.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022PDIC_123.PV",
+    "desc": "DAO Evaporator"
+  },
+  {
+    "tagname": "022PDIC_123.SP",
+    "desc": "DAO Evaporator"
+  },
+  {
+    "tagname": "022PDSH_011A.PV",
+    "desc": "Set 105C Outlet Vent Valve"
+  },
+  {
+    "tagname": "022PDV_123.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022PDY_011.OP",
+    "desc": "E105C Outlet Vent Valve"
+  },
+  {
+    "tagname": "022PEN_ASPM.NUMERICA",
+    "desc": "Penetration Asphalt Shift Malam"
+  },
+  {
+    "tagname": "022PEN_ASPM.PV",
+    "desc": "Penetration Asphalt Shift Malam"
+  },
+  {
+    "tagname": "022PEN_ASPP.NUMERICA",
+    "desc": ""
+  },
+  {
+    "tagname": "022PEN_ASPP.PV",
+    "desc": "Penetration Asphalt Shift Pagi"
+  },
+  {
+    "tagname": "022PEN_ASPS.NUMERICA",
+    "desc": ""
+  },
+  {
+    "tagname": "022PEN_ASPS.PV",
+    "desc": "Penetration Asphalt Shift Sore"
+  },
+  {
+    "tagname": "022PI_004.PV",
+    "desc": "Asphalt Mix to C104"
+  },
+  {
+    "tagname": "022PI_071.PV",
+    "desc": "To PDU Heavy ReliEF Header"
+  },
+  {
+    "tagname": "022PIC_002.OP",
+    "desc": "LP Steam to 022C11 Coil"
+  },
+  {
+    "tagname": "022PIC_002.PV",
+    "desc": "LP Steam to 022C11 Coil"
+  },
+  {
+    "tagname": "022PIC_002.SP",
+    "desc": "LP Steam to 022C11 Coil"
+  },
+  {
+    "tagname": "022PIC_003.OP",
+    "desc": "DAO Mix From 022C101"
+  },
+  {
+    "tagname": "022PIC_003.PV",
+    "desc": "DAO Mix From 022C101"
+  },
+  {
+    "tagname": "022PIC_003.SP",
+    "desc": "DAO Mix From 022C101"
+  },
+  {
+    "tagname": "022PIC_005.OP",
+    "desc": "Wet Propane to 022E111"
+  },
+  {
+    "tagname": "022PIC_005.PV",
+    "desc": "Wet Propane to 022E111"
+  },
+  {
+    "tagname": "022PIC_005.SP",
+    "desc": "Wet Propane to 022E111"
+  },
+  {
+    "tagname": "022PIC_007.OP",
+    "desc": "022V103 Propane"
+  },
+  {
+    "tagname": "022PIC_007.PV",
+    "desc": "022V103 Propane"
+  },
+  {
+    "tagname": "022PIC_007.SP",
+    "desc": "022V103 Propane"
+  },
+  {
+    "tagname": "022PV_002.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022PV_003.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022RB_ASPP.NUMERICA",
+    "desc": ""
+  },
+  {
+    "tagname": "022RB_ASPP.PV",
+    "desc": "R&B Asphalt Shift Pagi"
+  },
+  {
+    "tagname": "022TI_001.PV",
+    "desc": "Short Residue From Tankage"
+  },
+  {
+    "tagname": "022TI_002.PV",
+    "desc": "Short Residue to E103"
+  },
+  {
+    "tagname": "022TI_003.PV",
+    "desc": "Short Residue to 022 C101"
+  },
+  {
+    "tagname": "022TI_004.PV",
+    "desc": "022C101 RDC Upper Section"
+  },
+  {
+    "tagname": "022TI_005.PV",
+    "desc": "022C101 RDC Tray 25"
+  },
+  {
+    "tagname": "022TI_006.PV",
+    "desc": "Asphalt Mix From RDC"
+  },
+  {
+    "tagname": "022TI_007.PV",
+    "desc": "DAO Mix From 022C101"
+  },
+  {
+    "tagname": "022TI_008.PV",
+    "desc": "DAO to Storage"
+  },
+  {
+    "tagname": "022TI_009.PV",
+    "desc": "DAO to 022E105 A/B/C"
+  },
+  {
+    "tagname": "022TI_010.PV",
+    "desc": "DAO Mix From 022E107"
+  },
+  {
+    "tagname": "022TI_011.PV",
+    "desc": "DAO Mix From 022E106"
+  },
+  {
+    "tagname": "022TI_012.PV",
+    "desc": "022C102 DAO Stripper Overhead"
+  },
+  {
+    "tagname": "022TI_013.PV",
+    "desc": "Asphalt From 022E109 A/B"
+  },
+  {
+    "tagname": "022TI_014.PV",
+    "desc": "022C104 Asphlat Stripper Overhead"
+  },
+  {
+    "tagname": "022TI_015.PV",
+    "desc": "022C103 Flash Tower Overhead"
+  },
+  {
+    "tagname": "022TI_016.PV",
+    "desc": "Asphalt Mix to 022C104"
+  },
+  {
+    "tagname": "022TI_017.PV",
+    "desc": "Asphalt Rundown From P103A/B"
+  },
+  {
+    "tagname": "022TI_018.PV",
+    "desc": "Asphalt Rundown to Storage"
+  },
+  {
+    "tagname": "022TI_019.PV",
+    "desc": "022V102 Steamdrum Outlet"
+  },
+  {
+    "tagname": "022TI_020.PV",
+    "desc": "022V107 KO Vessel Condst"
+  },
+  {
+    "tagname": "022TI_021.PV",
+    "desc": "Propane Vapour to 022K101"
+  },
+  {
+    "tagname": "022TI_022.PV",
+    "desc": "Liquid Propane to 022C101"
+  },
+  {
+    "tagname": "022TI_023.PV",
+    "desc": "Propane Vap. to 022E112A/B"
+  },
+  {
+    "tagname": "022TI_024.PV",
+    "desc": "Propane to 022V103 Accumltr"
+  },
+  {
+    "tagname": "022TI_025.PV",
+    "desc": "V108 ReliEF System Liquid Catcher"
+  },
+  {
+    "tagname": "022TI_026.PV",
+    "desc": "V104 Compressor Interstage KO Drum"
+  },
+  {
+    "tagname": "022TI_031.PV",
+    "desc": "022E113 Outlet Temperature"
+  },
+  {
+    "tagname": "022TI_057.PV",
+    "desc": "022K101 Stage 1 Discharge"
+  },
+  {
+    "tagname": "022TI_121.PV",
+    "desc": "022E113 Outlet DAO Mix"
+  },
+  {
+    "tagname": "022TI_123.PV",
+    "desc": "022V101 Chemicaly Clean"
+  },
+  {
+    "tagname": "022TI_124.PV",
+    "desc": "022V101 Chemicaly Clean"
+  },
+  {
+    "tagname": "022TI_126.PV",
+    "desc": "022K101 1St Stage"
+  },
+  {
+    "tagname": "022TI_128.PV",
+    "desc": "Propane Compressor 2Nd Stage"
+  },
+  {
+    "tagname": "022TI_129.PV",
+    "desc": "2Nd Stage Discharge Bottle"
+  },
+  {
+    "tagname": "022TI_133.PV",
+    "desc": "Slop Wax to RFO From E113"
+  },
+  {
+    "tagname": "022TI_134.PV",
+    "desc": "Slop Wax From DAO Evaporator"
+  },
+  {
+    "tagname": "022TIC_120.OP",
+    "desc": "Deasphalt  RDC C101 Top"
+  },
+  {
+    "tagname": "022TIC_120.PV",
+    "desc": "Deasphalt  RDC C101 Top"
+  },
+  {
+    "tagname": "022TIC_120.SP",
+    "desc": "Deasphalt  RDC C101 Top"
+  },
+  {
+    "tagname": "022TIC_121.OP",
+    "desc": "022E107 Outlet DAO Mix"
+  },
+  {
+    "tagname": "022TIC_121.PV",
+    "desc": "022E107 Outlet DAO Mix"
+  },
+  {
+    "tagname": "022TIC_121.SP",
+    "desc": "022E107 Outlet DAO Mix"
+  },
+  {
+    "tagname": "022TIC_122.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022TIC_122.PV",
+    "desc": "E109 Outlet Asphalt Mix"
+  },
+  {
+    "tagname": "022TIC_122.SP",
+    "desc": "E109 Outlet Asphalt Mix"
+  },
+  {
+    "tagname": "022TIC_130.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022TIC_130.PV",
+    "desc": "Propane Circulation PuMP P104 Discharge"
+  },
+  {
+    "tagname": "022TIC_130.SP",
+    "desc": "Propane Circulation PuMP P104 Discharge"
+  },
+  {
+    "tagname": "022TIC_131.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022TIC_131.PV",
+    "desc": "022V108 022E114 Temperature"
+  },
+  {
+    "tagname": "022TIC_131.SP",
+    "desc": "022V108 022E114 Temperature"
+  },
+  {
+    "tagname": "022TIC_133A.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022TIC_133A.PV",
+    "desc": "Slop Wax to RFO From E113"
+  },
+  {
+    "tagname": "022TIC_133A.SP",
+    "desc": "Slop Wax to RFO From E113"
+  },
+  {
+    "tagname": "022TSH_124B.PV",
+    "desc": "Set V101 Chemicaly Clean"
+  },
+  {
+    "tagname": "022TSH_126B.PV",
+    "desc": "022K101 1St Stage"
+  },
+  {
+    "tagname": "022TSH_129B.PV",
+    "desc": "2Nd Stage Discharge Bottle"
+  },
+  {
+    "tagname": "022TV_121.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022TV_122.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022TV_130.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022TV_131.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "022VIS_DAOM.NUMERICA",
+    "desc": ""
+  },
+  {
+    "tagname": "022VIS_DAOM.PV",
+    "desc": "Viscosity DAO Shift Malam"
+  },
+  {
+    "tagname": "022VIS_DAOP.NUMERICA",
+    "desc": ""
+  },
+  {
+    "tagname": "022VIS_DAOP.PV",
+    "desc": "Viscosity DAO Shift Pagi"
+  },
+  {
+    "tagname": "022VIS_DAOS.NUMERICA",
+    "desc": ""
+  },
+  {
+    "tagname": "022VIS_DAOS.PV",
+    "desc": "Viscosity DAO Shift Sore"
+  },
+  {
+    "tagname": "022ZSA_134.OP",
+    "desc": "Slop Wax E113 to RFO TV-134"
+  },
+  {
+    "tagname": "022ZSA_134.PV",
+    "desc": "Slop Wax E113 to RFO TV-134"
+  },
+  {
+    "tagname": "023FFY_010.PV",
+    "desc": "Ratio Calculation For HFIC_010"
+  },
+  {
+    "tagname": "023FFY_011.PV",
+    "desc": "Ratio Calculation For HFIC_011"
+  },
+  {
+    "tagname": "023FFY_012.PV",
+    "desc": "Ratio Calculation For HFIC_012"
+  },
+  {
+    "tagname": "023FFY_701.PV",
+    "desc": "Ratio Calculation For HFIC_701"
+  },
+  {
+    "tagname": "023FFY_702.PV",
+    "desc": "Ratio Calculation For HFIC_702"
+  },
+  {
+    "tagname": "023FP_RAFFLASH POINTV",
+    "desc": "Flash Point. Raffinate Product"
+  },
+  {
+    "tagname": "023FT_004.PV",
+    "desc": "FEU Charge Oil to E102"
+  },
+  {
+    "tagname": "023FT_702.PV",
+    "desc": "LP Steam to 023C108"
+  },
+  {
+    "tagname": "023FV_001.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FV_004.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FV_009.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FV_010.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FV_011.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FV_012.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FV_013.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FV_014.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FV_016.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FV_020.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FV_022.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FV_024.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FV_026.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FV_029.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FV_701.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FV_704.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FV_705.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023FY_004BX.C1",
+    "desc": "Sg Kompensasi Feed LMO"
+  },
+  {
+    "tagname": "023FY_004CX.C1",
+    "desc": "Sg Kompensasi Feed MMO"
+  },
+  {
+    "tagname": "023FY_004DX.C1",
+    "desc": "Sg Kompensasi Feed DAO"
+  },
+  {
+    "tagname": "023FY_028BX.C1",
+    "desc": "Sg Kompensasi Extract LMO"
+  },
+  {
+    "tagname": "023FY_028CX.C1",
+    "desc": "Sg Kompensasi Extract MMO"
+  },
+  {
+    "tagname": "023FY_028DX.C1",
+    "desc": "Sg Kompensasi Extract DAO"
+  },
+  {
+    "tagname": "023FY_031BX.C1",
+    "desc": "Sg Kompensasi Raffinate  LMO"
+  },
+  {
+    "tagname": "023FY_031CX.C1",
+    "desc": "Sg Kompensasi Raffinate  MMO"
+  },
+  {
+    "tagname": "023FY_031DX.C1",
+    "desc": "Sg Kompensasi Raffinate  DAO"
+  },
+  {
+    "tagname": "023HIC_003.OP",
+    "desc": "023C103B Tray Bypass"
+  },
+  {
+    "tagname": "023HIC_008.OP",
+    "desc": "Bay 1 023E108M2"
+  },
+  {
+    "tagname": "023HIC_009.OP",
+    "desc": "Bay 2 023E108M4"
+  },
+  {
+    "tagname": "023HS_001.PV",
+    "desc": "Select TV131A/B"
+  },
+  {
+    "tagname": "023HS_007.PV",
+    "desc": "Select 023P115A/B"
+  },
+  {
+    "tagname": "023HV_003.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023LI_005.PV",
+    "desc": "023C104 Furfural Fract."
+  },
+  {
+    "tagname": "023LI_007.PV",
+    "desc": "Decanter"
+  },
+  {
+    "tagname": "023LI_009.PV",
+    "desc": "Decanter"
+  },
+  {
+    "tagname": "023LI_011.PV",
+    "desc": "Extract V.Flash&Str.Twr."
+  },
+  {
+    "tagname": "023LI_013.PV",
+    "desc": "Raffinate  V.Flash&Str.Twr."
+  },
+  {
+    "tagname": "023LI_015.PV",
+    "desc": "SuMP Vessel"
+  },
+  {
+    "tagname": "023LI_016.PV",
+    "desc": "SuMP Vessel"
+  },
+  {
+    "tagname": "023LI_017.PV",
+    "desc": "023V105"
+  },
+  {
+    "tagname": "023LI_018.PV",
+    "desc": "023V102B"
+  },
+  {
+    "tagname": "023LI_019.PV",
+    "desc": "023V102A"
+  },
+  {
+    "tagname": "023LI_020.PV",
+    "desc": "Blow Down Vessel"
+  },
+  {
+    "tagname": "023LI_701.PV",
+    "desc": "Raffinate  Vacuum Flsh & Str Twr"
+  },
+  {
+    "tagname": "023LIC_001.PV",
+    "desc": "C102 RDC I/F"
+  },
+  {
+    "tagname": "023LIC_001.SP",
+    "desc": "C102 RDC I/F"
+  },
+  {
+    "tagname": "023LIC_002.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023LIC_002.PV",
+    "desc": "V101 RDC Sett.Vessel I/F"
+  },
+  {
+    "tagname": "023LIC_002.SP",
+    "desc": "V101 RDC Sett.Vessel I/F"
+  },
+  {
+    "tagname": "023LIC_003.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023LIC_003.PV",
+    "desc": "C103B Extract LP Flash  Column"
+  },
+  {
+    "tagname": "023LIC_003.SP",
+    "desc": "C103B Extract LP Flash  Column"
+  },
+  {
+    "tagname": "023LIC_004.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023LIC_004.PV",
+    "desc": "C103A Extract HP Flash  Column"
+  },
+  {
+    "tagname": "023LIC_004.SP",
+    "desc": "C103A Extract HP Flash  Column"
+  },
+  {
+    "tagname": "023LIC_006.OP",
+    "desc": "023V103 Decanter I/F"
+  },
+  {
+    "tagname": "023LIC_006.PV",
+    "desc": "023V103 Decanter I/F"
+  },
+  {
+    "tagname": "023LIC_006.SP",
+    "desc": "Slack Wax Mix  Recycle S101C"
+  },
+  {
+    "tagname": "023LIC_008.OP",
+    "desc": "023V103 Decanter"
+  },
+  {
+    "tagname": "023LIC_008.PV",
+    "desc": "023V103 Decanter"
+  },
+  {
+    "tagname": "023LIC_008.SP",
+    "desc": "024S101A Drum Speed Control"
+  },
+  {
+    "tagname": "023LIC_010.OP",
+    "desc": "C105 Furfural Stripper"
+  },
+  {
+    "tagname": "023LIC_010.PV",
+    "desc": "C105 Furfural Stripper"
+  },
+  {
+    "tagname": "023LIC_010.SP",
+    "desc": "Slack Wax Mix  Recycle S101D"
+  },
+  {
+    "tagname": "023LIC_012.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023LIC_012.PV",
+    "desc": "Extract Vacuum Flash & Stripping Tower"
+  },
+  {
+    "tagname": "023LIC_012.SP",
+    "desc": "Extract Vacuum Flash & Stripping Tower"
+  },
+  {
+    "tagname": "023LIC_014.OP",
+    "desc": "Finished Raffinate to Storage"
+  },
+  {
+    "tagname": "023LIC_014.PV",
+    "desc": "Finished Raffinate to Storage"
+  },
+  {
+    "tagname": "023LIC_014.SP",
+    "desc": "Finished Raffinate to Storage"
+  },
+  {
+    "tagname": "023LIC_702.OP",
+    "desc": "Raffinate  Vacuum Flash & Stripping Tower"
+  },
+  {
+    "tagname": "023LIC_702.PV",
+    "desc": "Raffinate  Vacuum Flash & Stripping Tower"
+  },
+  {
+    "tagname": "023LIC_702.SP",
+    "desc": "Raffinate  Vacuum Flash & Stripping Tower"
+  },
+  {
+    "tagname": "023LSH_016.PV",
+    "desc": "023P106 Start"
+  },
+  {
+    "tagname": "023LSH_020.PV",
+    "desc": "023V108 Start 023P115"
+  },
+  {
+    "tagname": "023LSL_016.PV",
+    "desc": "023P106 Stop"
+  },
+  {
+    "tagname": "023LSL_020.PV",
+    "desc": "023V108 Stop 023P115"
+  },
+  {
+    "tagname": "023LV_002.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023LV_004.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023LV_010.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023LV_012.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023LV_014.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023LV_702.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023LY_011A.OP",
+    "desc": "Striping Steam Valve"
+  },
+  {
+    "tagname": "023PH_WD.NUMERICA",
+    "desc": ""
+  },
+  {
+    "tagname": "023PH_WD.PV",
+    "desc": "Ph. Water to Drain"
+  },
+  {
+    "tagname": "023PI_005.PV",
+    "desc": "Wet Furfural Condensate Inlet"
+  },
+  {
+    "tagname": "023PI_027.PV",
+    "desc": "RDC Flushing Oil"
+  },
+  {
+    "tagname": "023PIC_001.OP",
+    "desc": "C102 to E114 Raffinate  Mix"
+  },
+  {
+    "tagname": "023PIC_001.PV",
+    "desc": "C102 to E114 Raffinate  Mix"
+  },
+  {
+    "tagname": "023PIC_001.SP",
+    "desc": "C102 to E114 Raffinate  Mix"
+  },
+  {
+    "tagname": "023PIC_003.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023PIC_003.PV",
+    "desc": "023C103A Overhead"
+  },
+  {
+    "tagname": "023PIC_003.SP",
+    "desc": "023C103A Overhead"
+  },
+  {
+    "tagname": "023PIC_004.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023PIC_004.PV",
+    "desc": "023C103B Overhead"
+  },
+  {
+    "tagname": "023PIC_004.SP",
+    "desc": "023C103B Overhead"
+  },
+  {
+    "tagname": "023PIC_006.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023PIC_006.PV",
+    "desc": "Inert Gas Supply"
+  },
+  {
+    "tagname": "023PIC_006.SP",
+    "desc": "Recycle Of 041P306A/B"
+  },
+  {
+    "tagname": "023PV_001.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023PV_003.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023PV_004.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023PV_006.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023TFY_134.PV",
+    "desc": "023E105A/B Ts Outlet"
+  },
+  {
+    "tagname": "023TFY_134.X1",
+    "desc": ""
+  },
+  {
+    "tagname": "023TFY_136.PV",
+    "desc": "Hot Oil to 023-E105C/D"
+  },
+  {
+    "tagname": "023TFY_136.X1",
+    "desc": ""
+  },
+  {
+    "tagname": "023TFY_138.PV",
+    "desc": "Hot Oil to 023-E105E/F"
+  },
+  {
+    "tagname": "023TFY_138.X1",
+    "desc": ""
+  },
+  {
+    "tagname": "023TI_001.PV",
+    "desc": "Furfural to E101 Cooler"
+  },
+  {
+    "tagname": "023TI_002.PV",
+    "desc": "Furfural From E101 Cooler"
+  },
+  {
+    "tagname": "023TI_003.PV",
+    "desc": "Middle RDC"
+  },
+  {
+    "tagname": "023TI_004.PV",
+    "desc": "Bottom RDC"
+  },
+  {
+    "tagname": "023TI_005.PV",
+    "desc": "Top RDC"
+  },
+  {
+    "tagname": "023TI_006.PV",
+    "desc": "Charge Oil to 023C102"
+  },
+  {
+    "tagname": "023TI_007.PV",
+    "desc": "Charge Oil to 023E102"
+  },
+  {
+    "tagname": "023TI_008.PV",
+    "desc": "Extract Mix to 023V101"
+  },
+  {
+    "tagname": "023TI_009.PV",
+    "desc": "Extract Mix From 023V101"
+  },
+  {
+    "tagname": "023TI_010.PV",
+    "desc": "Furfural to 023E117"
+  },
+  {
+    "tagname": "023TI_011.PV",
+    "desc": "Extract Mix From 023E117"
+  },
+  {
+    "tagname": "023TI_012.PV",
+    "desc": "Hot Oil From 023E105A/B"
+  },
+  {
+    "tagname": "023TI_013.PV",
+    "desc": "Extract Mix Out E105B"
+  },
+  {
+    "tagname": "023TI_014.PV",
+    "desc": "Extract  Mix Inlet E105A"
+  },
+  {
+    "tagname": "023TI_015.PV",
+    "desc": "Hot Oil to 023E105C/D"
+  },
+  {
+    "tagname": "023TI_016.PV",
+    "desc": "Extract  Mix Outlet E105D"
+  },
+  {
+    "tagname": "023TI_017.PV",
+    "desc": "Extract Mix Inlet E105C"
+  },
+  {
+    "tagname": "023TI_018.PV",
+    "desc": "Hot Oil From 023E105E/F"
+  },
+  {
+    "tagname": "023TI_019.PV",
+    "desc": "Extract Mix Outlet E105F"
+  },
+  {
+    "tagname": "023TI_020.PV",
+    "desc": "Extract Mix Inlet 105E"
+  },
+  {
+    "tagname": "023TI_021.PV",
+    "desc": "023C103A Extr'T Column"
+  },
+  {
+    "tagname": "023TI_022.PV",
+    "desc": "Top 023C103A"
+  },
+  {
+    "tagname": "023TI_023.PV",
+    "desc": "023C103B Overhead"
+  },
+  {
+    "tagname": "023TI_024.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "023TI_025.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "023TI_026.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "023TI_027.PV",
+    "desc": "Furf/Water to C104 Tray 4"
+  },
+  {
+    "tagname": "023TI_028.PV",
+    "desc": "023C104 Tray 1"
+  },
+  {
+    "tagname": "023TI_029.PV",
+    "desc": "Furf/Water to C104-Tray 8"
+  },
+  {
+    "tagname": "023TI_030.PV",
+    "desc": "Furf/Water to 023E108"
+  },
+  {
+    "tagname": "023TI_031.PV",
+    "desc": "Furf/Water From 023E108"
+  },
+  {
+    "tagname": "023TI_032.PV",
+    "desc": "023V103 Decanter"
+  },
+  {
+    "tagname": "023TI_033.PV",
+    "desc": "Condensate to 023V103"
+  },
+  {
+    "tagname": "023TI_034.PV",
+    "desc": "Furf/Water to 023E118"
+  },
+  {
+    "tagname": "023TI_035.PV",
+    "desc": "Furf/Water to 023E109A/B"
+  },
+  {
+    "tagname": "023TI_036.PV",
+    "desc": "Furf/Water From 023E109A/B"
+  },
+  {
+    "tagname": "023TI_037.PV",
+    "desc": "C105 Furf Stripper Overhead"
+  },
+  {
+    "tagname": "023TI_038.PV",
+    "desc": "C105 Furf Stripper Bottom"
+  },
+  {
+    "tagname": "023TI_039.PV",
+    "desc": "Top 023C106"
+  },
+  {
+    "tagname": "023TI_040.PV",
+    "desc": "Extract Mix to E111 Htr"
+  },
+  {
+    "tagname": "023TI_041.PV",
+    "desc": "Extract Mix From 023E111"
+  },
+  {
+    "tagname": "023TI_042.PV",
+    "desc": "Finished Extract to E112"
+  },
+  {
+    "tagname": "023TI_043.PV",
+    "desc": "Finished Extract to IFO"
+  },
+  {
+    "tagname": "023TI_044.PV",
+    "desc": "Top 023C107"
+  },
+  {
+    "tagname": "023TI_045.PV",
+    "desc": "Raffinate Mix Outlet 023E115"
+  },
+  {
+    "tagname": "023TI_046.PV",
+    "desc": "Raffinate Mix Outlet 023E114B"
+  },
+  {
+    "tagname": "023TI_047.PV",
+    "desc": "Raffinate Outlet 023E114A"
+  },
+  {
+    "tagname": "023TI_048.PV",
+    "desc": "Raffinate Inlet 023E114B"
+  },
+  {
+    "tagname": "023TI_049.PV",
+    "desc": "Finished Raffinate to Storage"
+  },
+  {
+    "tagname": "023TI_132.PV",
+    "desc": "Raffinate Mix From 023C102"
+  },
+  {
+    "tagname": "023TI_135.PV",
+    "desc": "Extract Mix Outlet E105A"
+  },
+  {
+    "tagname": "023TI_137.PV",
+    "desc": "Extract Mix Outlet E105C"
+  },
+  {
+    "tagname": "023TI_139.PV",
+    "desc": "Extract Mix Outlet E105E"
+  },
+  {
+    "tagname": "023TI_140.PV",
+    "desc": "Overhead Vapour From C104"
+  },
+  {
+    "tagname": "023TI_141.PV",
+    "desc": "Furfural Fractionator"
+  },
+  {
+    "tagname": "023TI_702.PV",
+    "desc": "Raffinate Mix From E121"
+  },
+  {
+    "tagname": "023TI_703.PV",
+    "desc": "Finished Raffinate to E120A/B"
+  },
+  {
+    "tagname": "023TI_704.PV",
+    "desc": "Finished Raffinate From E120A/B"
+  },
+  {
+    "tagname": "023TI_705.PV",
+    "desc": "Raffinate Mix From E120A/B"
+  },
+  {
+    "tagname": "023TI_708.PV",
+    "desc": "Finished Raffinate  to Strg."
+  },
+  {
+    "tagname": "023TI_714.PV",
+    "desc": "Top C108"
+  },
+  {
+    "tagname": "023TIC_130.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023TIC_130.PV",
+    "desc": "023E101 Bypass"
+  },
+  {
+    "tagname": "023TIC_130.SP",
+    "desc": "023E101 Bypass"
+  },
+  {
+    "tagname": "023TIC_131.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023TIC_131.PV",
+    "desc": "023C102 Feed Heater"
+  },
+  {
+    "tagname": "023TIC_131.SP",
+    "desc": "023C102 Feed Heater"
+  },
+  {
+    "tagname": "023TIC_133.OP",
+    "desc": "E104 Outlet to 023V101"
+  },
+  {
+    "tagname": "023TIC_133.PV",
+    "desc": "E104 Outlet to 023V101"
+  },
+  {
+    "tagname": "023TIC_133.SP",
+    "desc": "E104 Outlet to 023V101"
+  },
+  {
+    "tagname": "023TIC_134.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023TIC_134.PV",
+    "desc": "023E105A/B Ts Outlet"
+  },
+  {
+    "tagname": "023TIC_134.SP",
+    "desc": "023E105A/B Ts Outlet"
+  },
+  {
+    "tagname": "023TIC_136.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023TIC_136.PV",
+    "desc": "023E105C/D Ts. Outlet"
+  },
+  {
+    "tagname": "023TIC_136.SP",
+    "desc": "023E105C/D Ts. Outlet"
+  },
+  {
+    "tagname": "023TIC_138.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023TIC_138.PV",
+    "desc": "023E105E/F Ts. Outlet"
+  },
+  {
+    "tagname": "023TIC_138.SP",
+    "desc": "023E105E/F Ts. Outlet"
+  },
+  {
+    "tagname": "023TIC_142.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023TIC_142.PV",
+    "desc": "023E111 Ts. Outlet"
+  },
+  {
+    "tagname": "023TIC_142.SP",
+    "desc": "023E111 Ts. Outlet"
+  },
+  {
+    "tagname": "023TIC_143.OP",
+    "desc": "023E115 Ts. Outlet"
+  },
+  {
+    "tagname": "023TIC_143.PV",
+    "desc": "023E115 Ts. Outlet"
+  },
+  {
+    "tagname": "023TIC_143.SP",
+    "desc": "023E115 Ts. Outlet"
+  },
+  {
+    "tagname": "023TIC_701.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023TIC_701.PV",
+    "desc": "Raffinate Mix/Hot Oil Heater Overhead"
+  },
+  {
+    "tagname": "023TIC_701.SP",
+    "desc": "Raffinate Mix/Hot Oil Heater Overhead"
+  },
+  {
+    "tagname": "023TV_130.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023TV_131A.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023TV_131B.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023TV_142.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023TV_143.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023TV_701.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "023VIS_RAFFLASH POINTV",
+    "desc": "Viscosity Raffinate Product"
+  },
+  {
+    "tagname": "023XAH_001.PV",
+    "desc": "Furfural Trim Cooler"
+  },
+  {
+    "tagname": "024AI_001.PV",
+    "desc": "O2 Analyzer"
+  },
+  {
+    "tagname": "024AI_002.PV",
+    "desc": "Gas Analyzer S120-P2"
+  },
+  {
+    "tagname": "024CW_101A.NUMERICA",
+    "desc": ""
+  },
+  {
+    "tagname": "024CW_101B.NUMERICA",
+    "desc": ""
+  },
+  {
+    "tagname": "024CW_101C.NUMERICA",
+    "desc": ""
+  },
+  {
+    "tagname": "024CW_101D.NUMERICA",
+    "desc": ""
+  },
+  {
+    "tagname": "024FP_DODM.PV",
+    "desc": "Flash Point Do DAO Shift Malam"
+  },
+  {
+    "tagname": "024FP_DODP.PV",
+    "desc": "Flash Point Do DAO Shift Pagi"
+  },
+  {
+    "tagname": "024FP_DODS.PV",
+    "desc": "Flash Point Do DAO Shift Sore"
+  },
+  {
+    "tagname": "024FP_DOLM.PV",
+    "desc": "Flash Point Do LMO Shift Malam"
+  },
+  {
+    "tagname": "024FP_DOLP.PV",
+    "desc": "Flash Point Do LMO Shift Pagi"
+  },
+  {
+    "tagname": "024FP_DOLS.PV",
+    "desc": "Flash Point Do LMO Shift Sore"
+  },
+  {
+    "tagname": "024FP_DOMM.PV",
+    "desc": "Flash Point Do MMO Shift Malam"
+  },
+  {
+    "tagname": "024FP_DOMP.PV",
+    "desc": "Flash Point Do MMO Shift Pagi"
+  },
+  {
+    "tagname": "024FP_DOMS.PV",
+    "desc": "Flash Point Do MMO Shift Sore"
+  },
+  {
+    "tagname": "024FP_SW.NUMERICA",
+    "desc": "Flash Point Slack Wax"
+  },
+  {
+    "tagname": "024FP_SW.PV",
+    "desc": "Flash Point Slack Wax"
+  },
+  {
+    "tagname": "024FT_001.PV",
+    "desc": "Waxy Oil Feed"
+  },
+  {
+    "tagname": "024FV_001.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024FV_002A.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024FV_002B.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024FV_003.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024FV_004.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024FV_006.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024FV_016.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024FV_018.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024FV_020.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024FV_021.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024FV_024.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024FV_027.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024FV_028.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024FV_029.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024FV_033.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024FY_001BX.C1",
+    "desc": "Sg Kompensasi LMO Raff"
+  },
+  {
+    "tagname": "024FY_001CX.C1",
+    "desc": "Sg Kompensasi MMO Raff"
+  },
+  {
+    "tagname": "024FY_001DX.C1",
+    "desc": "Sg Kompensasi Bs Raff"
+  },
+  {
+    "tagname": "024FY_023BX.C1",
+    "desc": "Sg Kompensasi LMO D.O"
+  },
+  {
+    "tagname": "024FY_023CX.C1",
+    "desc": "Sg Kompensasi MMO D.O"
+  },
+  {
+    "tagname": "024FY_023DX.C1",
+    "desc": "Sg Kompensasi Bs D.O"
+  },
+  {
+    "tagname": "024FY_028.PV",
+    "desc": "Uji Coba Utk 024FIC_028"
+  },
+  {
+    "tagname": "024FY_031BX.C1",
+    "desc": "Sg Kompensasi LMO Slack Wax"
+  },
+  {
+    "tagname": "024FY_031CX.C1",
+    "desc": "Sg Kompensasi MMO Slack Wax"
+  },
+  {
+    "tagname": "024FY_031DX.C1",
+    "desc": "Sg Kompensasi Bs Slack Wax"
+  },
+  {
+    "tagname": "024FY_036.PV",
+    "desc": "024V113 Overhead"
+  },
+  {
+    "tagname": "024FY_037.PV",
+    "desc": "024V113 Overhead"
+  },
+  {
+    "tagname": "024FY_039.PV",
+    "desc": "024K102 Discharge"
+  },
+  {
+    "tagname": "024FY_040.PV",
+    "desc": "024K102 Discharge"
+  },
+  {
+    "tagname": "024FY_042A.PV",
+    "desc": "024K101 Divider"
+  },
+  {
+    "tagname": "024FY_042B.PV",
+    "desc": "024K101 Low Selector"
+  },
+  {
+    "tagname": "024FY_042D.PV",
+    "desc": "PV For 024FIC_042"
+  },
+  {
+    "tagname": "024FY_051.PV",
+    "desc": "024K101 Divider"
+  },
+  {
+    "tagname": "024HI_157.PV",
+    "desc": "LOCal Panl Sp to FIC-036"
+  },
+  {
+    "tagname": "024HI_163.PV",
+    "desc": "LOCal Pnl Sp to FIC-039"
+  },
+  {
+    "tagname": "024HIC_001A1.NMODE",
+    "desc": ""
+  },
+  {
+    "tagname": "024HIC_001A1.OP",
+    "desc": "024S101A Drum Speed Control"
+  },
+  {
+    "tagname": "024HIC_001A1.PV",
+    "desc": "024S101A Drum Speed Control"
+  },
+  {
+    "tagname": "024HIC_001A1.SP",
+    "desc": "Wax Boot Level 240S101B"
+  },
+  {
+    "tagname": "024HIC_001B1.NMODE",
+    "desc": ""
+  },
+  {
+    "tagname": "024HIC_001B1.OP",
+    "desc": "024S101B Drum Speed Control"
+  },
+  {
+    "tagname": "024HIC_001B1.PV",
+    "desc": "024S101B Drum Speed Control"
+  },
+  {
+    "tagname": "024HIC_001B1.SP",
+    "desc": "Rotary Drum Vacuum Filter S101C"
+  },
+  {
+    "tagname": "024HIC_001C1.NMODE",
+    "desc": ""
+  },
+  {
+    "tagname": "024HIC_001C1.OP",
+    "desc": "024S101C Drum Speed Control"
+  },
+  {
+    "tagname": "024HIC_001C1.PV",
+    "desc": "024S101C Drum Speed Control"
+  },
+  {
+    "tagname": "024HIC_001C1.SP",
+    "desc": "Wax Boot Level 240S101C"
+  },
+  {
+    "tagname": "024HIC_001D1.NMODE",
+    "desc": ""
+  },
+  {
+    "tagname": "024HIC_001D1.OP",
+    "desc": "024S101D Drum Speed Control"
+  },
+  {
+    "tagname": "024HIC_001D1.PV",
+    "desc": "024S101D Drum Speed Control"
+  },
+  {
+    "tagname": "024HIC_001D1.SP",
+    "desc": "Rotary Drum Vacuum Filter S101D"
+  },
+  {
+    "tagname": "024HIC_165.OP",
+    "desc": "024V112 Depressurising"
+  },
+  {
+    "tagname": "024HS_005.PV",
+    "desc": "024Lt019/024Lt021 Select"
+  },
+  {
+    "tagname": "024HS_006.PV",
+    "desc": "Select 024P107B/P108"
+  },
+  {
+    "tagname": "024HS_031.PV",
+    "desc": "024P108 Maint. Override"
+  },
+  {
+    "tagname": "024HS_168.PV",
+    "desc": "Select 024P121A/P121B"
+  },
+  {
+    "tagname": "024HV_162.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024HY_001A2.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024HY_001B2.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024HY_001C2.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024HY_001D2.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024KV_171A.PV",
+    "desc": "Feed Valve"
+  },
+  {
+    "tagname": "024KV_171B.PV",
+    "desc": "Feed Valve"
+  },
+  {
+    "tagname": "024KV_171C.PV",
+    "desc": "Feed Valve"
+  },
+  {
+    "tagname": "024KV_171E.PV",
+    "desc": "Feed Valve"
+  },
+  {
+    "tagname": "024KV_172A.PV",
+    "desc": "Top Filtrate Valve"
+  },
+  {
+    "tagname": "024KV_172B.PV",
+    "desc": "Top Filtrate Valve"
+  },
+  {
+    "tagname": "024KV_172C.PV",
+    "desc": "Top Filtrate Valve"
+  },
+  {
+    "tagname": "024KV_172E.PV",
+    "desc": "Top Filtrate Valve"
+  },
+  {
+    "tagname": "024KV_173A.PV",
+    "desc": "Bottom Filtrate Valve"
+  },
+  {
+    "tagname": "024KV_173B.PV",
+    "desc": "Bottom Filtrate Valve"
+  },
+  {
+    "tagname": "024KV_173C.PV",
+    "desc": "Bottom Filtrate Valve"
+  },
+  {
+    "tagname": "024KV_173E.PV",
+    "desc": "Bottom Filtrate Valve"
+  },
+  {
+    "tagname": "024KV_174A.PV",
+    "desc": "Middle Filtrate Valve"
+  },
+  {
+    "tagname": "024KV_174B.PV",
+    "desc": "Middle Filtrate Valve"
+  },
+  {
+    "tagname": "024KV_174C.PV",
+    "desc": "Middle Filtrate Valve"
+  },
+  {
+    "tagname": "024KV_174E.PV",
+    "desc": "Middle Filtrate Valve"
+  },
+  {
+    "tagname": "024KV_175A.PV",
+    "desc": "Cold Wash Valve"
+  },
+  {
+    "tagname": "024KV_175B.PV",
+    "desc": "Cold Wash Valve"
+  },
+  {
+    "tagname": "024KV_175C.PV",
+    "desc": "Cold Wash Valve"
+  },
+  {
+    "tagname": "024KV_175E.PV",
+    "desc": "Cold Wash Valve"
+  },
+  {
+    "tagname": "024KV_176A.PV",
+    "desc": "Drain Valve"
+  },
+  {
+    "tagname": "024KV_176B.PV",
+    "desc": "Drain Valve"
+  },
+  {
+    "tagname": "024KV_176C.PV",
+    "desc": "Drain Valve"
+  },
+  {
+    "tagname": "024KV_176E.PV",
+    "desc": "Drain Valve"
+  },
+  {
+    "tagname": "024KV_177A.PV",
+    "desc": "Warm Wash Valve"
+  },
+  {
+    "tagname": "024KV_177B.PV",
+    "desc": "Warm Wash Valve"
+  },
+  {
+    "tagname": "024KV_177C.PV",
+    "desc": "Warm Wash Valve"
+  },
+  {
+    "tagname": "024KV_177E.PV",
+    "desc": "Warm Wash Valve"
+  },
+  {
+    "tagname": "024KV_178A.PV",
+    "desc": "Warm Back Wash Valve"
+  },
+  {
+    "tagname": "024KV_178B.PV",
+    "desc": "Warm Back Wash Valve"
+  },
+  {
+    "tagname": "024KV_178C.PV",
+    "desc": "Warm Back Wash Valve"
+  },
+  {
+    "tagname": "024KV_178E.PV",
+    "desc": "Warm Back Wash Valve"
+  },
+  {
+    "tagname": "024LAL_072.PV",
+    "desc": "024P106 Seal Cavity"
+  },
+  {
+    "tagname": "024LDI_027.PV",
+    "desc": "Selisih Level V115-V116"
+  },
+  {
+    "tagname": "024LI_006.PV",
+    "desc": "Filtrate Reciver Vessel"
+  },
+  {
+    "tagname": "024LI_007A.PV",
+    "desc": "Rotary Drum Vacuum Filter"
+  },
+  {
+    "tagname": "024LI_007B.PV",
+    "desc": "Rotary Drum Vacuum Filter"
+  },
+  {
+    "tagname": "024LI_007C.PV",
+    "desc": "Rotary Drum Vacuum Filter"
+  },
+  {
+    "tagname": "024LI_007D.PV",
+    "desc": "Rotary Drum Vacuum Filter"
+  },
+  {
+    "tagname": "024LI_019.PV",
+    "desc": "024V107 Warm Wash Receiver"
+  },
+  {
+    "tagname": "024LI_020.PV",
+    "desc": "Warm Wash Receiver"
+  },
+  {
+    "tagname": "024LI_021.PV",
+    "desc": "024V110 Warm Wash Receiver"
+  },
+  {
+    "tagname": "024LI_022.PV",
+    "desc": "High Mek Solvent Vessel"
+  },
+  {
+    "tagname": "024LI_023.PV",
+    "desc": "High Mek Storage Vessel"
+  },
+  {
+    "tagname": "024LI_025.PV",
+    "desc": "Low Mek Solvent Vessel"
+  },
+  {
+    "tagname": "024LI_026.PV",
+    "desc": "Low Mek Storage Vessel"
+  },
+  {
+    "tagname": "024LI_028.PV",
+    "desc": "Dry Solvent Receiver"
+  },
+  {
+    "tagname": "024LI_029.PV",
+    "desc": "Dry Solvent Receiver"
+  },
+  {
+    "tagname": "024LI_030.PV",
+    "desc": "Wet Solvent Receiver"
+  },
+  {
+    "tagname": "024LI_031.PV",
+    "desc": "Wet Solvent Receiver"
+  },
+  {
+    "tagname": "024LI_032.PV",
+    "desc": "Do Mix Surge Vessel"
+  },
+  {
+    "tagname": "024LI_033.PV",
+    "desc": "D.O Mix Surge Vessel"
+  },
+  {
+    "tagname": "024LI_039.PV",
+    "desc": "024V117"
+  },
+  {
+    "tagname": "024LI_040.PV",
+    "desc": "S.W Mix Srg Vessel Interface"
+  },
+  {
+    "tagname": "024LI_041.PV",
+    "desc": "S.W Mix Srg Vessel Interface"
+  },
+  {
+    "tagname": "024LI_048.PV",
+    "desc": "Propane Compressor Suction KO Vessel"
+  },
+  {
+    "tagname": "024LI_050.PV",
+    "desc": "Propane Economizer"
+  },
+  {
+    "tagname": "024LI_052.PV",
+    "desc": "Propane Receiver"
+  },
+  {
+    "tagname": "024LI_053.PV",
+    "desc": "Propane Receiver"
+  },
+  {
+    "tagname": "024LI_054.PV",
+    "desc": "Inert Gas Compressor Suction Vessel & Drain"
+  },
+  {
+    "tagname": "024LI_055.PV",
+    "desc": "Inert Gas Compressor Suction Vessel & Drain"
+  },
+  {
+    "tagname": "024LI_056.PV",
+    "desc": "Solvent Inertt Gas KO Vessel"
+  },
+  {
+    "tagname": "024LI_058.PV",
+    "desc": "024T101 Inert Gas Holder"
+  },
+  {
+    "tagname": "024LI_061.PV",
+    "desc": "Surface Condenser"
+  },
+  {
+    "tagname": "024LI_063.PV",
+    "desc": "Filter Feed Vessel"
+  },
+  {
+    "tagname": "024LI_064.PV",
+    "desc": "Dewaxing Filter Feed Vessel"
+  },
+  {
+    "tagname": "024LI_065.PV",
+    "desc": "Filter Lube Oil Receiver"
+  },
+  {
+    "tagname": "024LI_066.PV",
+    "desc": "Propane Receiver"
+  },
+  {
+    "tagname": "024LIC_001.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024LIC_001.PV",
+    "desc": "Propane Acuumulator E102A"
+  },
+  {
+    "tagname": "024LIC_001.SP",
+    "desc": "Propane Acuumulator E102A"
+  },
+  {
+    "tagname": "024LIC_002.OP",
+    "desc": "Propane Acuumulator E102A"
+  },
+  {
+    "tagname": "024LIC_002.PV",
+    "desc": "Propane Acuumulator E102B"
+  },
+  {
+    "tagname": "024LIC_002.SP",
+    "desc": "Propane Acuumulator E102B"
+  },
+  {
+    "tagname": "024LIC_003.OP",
+    "desc": "Propane Acuumulator E102B"
+  },
+  {
+    "tagname": "024LIC_003.PV",
+    "desc": "Propane Acuumulator E102C"
+  },
+  {
+    "tagname": "024LIC_003.SP",
+    "desc": "Propane Acuumulator E102C"
+  },
+  {
+    "tagname": "024LIC_004.OP",
+    "desc": "Propane Acuumulator E102D"
+  },
+  {
+    "tagname": "024LIC_004.PV",
+    "desc": "Propane Acuumulator E102D"
+  },
+  {
+    "tagname": "024LIC_004.SP",
+    "desc": "Propane Acuumulator E102D"
+  },
+  {
+    "tagname": "024LIC_005.PV",
+    "desc": "Filtrate Reciver Vessel"
+  },
+  {
+    "tagname": "024LIC_005.SP",
+    "desc": "Filtrate Reciver Vessel"
+  },
+  {
+    "tagname": "024LIC_008A.NMODE",
+    "desc": "Wax Boot Vacuum Filter S101A"
+  },
+  {
+    "tagname": "024LIC_008A.OP",
+    "desc": "Wax Boot Vacuum Filter S101A"
+  },
+  {
+    "tagname": "024LIC_008A.PV",
+    "desc": "Wax Boot Vacuum Filter S101A"
+  },
+  {
+    "tagname": "024LIC_008A.SP",
+    "desc": "Wax Boot Vacuum Filter S101A"
+  },
+  {
+    "tagname": "024LIC_008B.NMODE",
+    "desc": "Wax Boot Vacuum Filter S101B"
+  },
+  {
+    "tagname": "024LIC_008B.OP",
+    "desc": "Wax Boot Vacuum Filter S101B"
+  },
+  {
+    "tagname": "024LIC_008B.PV",
+    "desc": "Wax Boot Vacuum Filter S101B"
+  },
+  {
+    "tagname": "024LIC_008B.SP",
+    "desc": "Wax Boot Vacuum Filter S101B"
+  },
+  {
+    "tagname": "024LIC_008C.NMODE",
+    "desc": "Wax Boot Vacuum Filter S101C"
+  },
+  {
+    "tagname": "024LIC_008C.OP",
+    "desc": "Wax Boot Vacuum Filter S101C"
+  },
+  {
+    "tagname": "024LIC_008C.PV",
+    "desc": "Wax Boot Vacuum Filter S101C"
+  },
+  {
+    "tagname": "024LIC_008C.SP",
+    "desc": "Wax Boot Vacuum Filter S101C"
+  },
+  {
+    "tagname": "024LIC_008D.NMODE",
+    "desc": "Wax Boot Vacuum Filter S101D"
+  },
+  {
+    "tagname": "024LIC_008D.OP",
+    "desc": "Wax Boot Vacuum Filter S101D"
+  },
+  {
+    "tagname": "024LIC_008D.PV",
+    "desc": "Wax Boot Vacuum Filter S101D"
+  },
+  {
+    "tagname": "024LIC_008D.SP",
+    "desc": "Wax Boot Vacuum Filter S101D"
+  },
+  {
+    "tagname": "024LIC_009A.NMODE",
+    "desc": "Rotary Drum Vacuum Filter S101A"
+  },
+  {
+    "tagname": "024LIC_009A.OP",
+    "desc": "Rotary Drum Vacuum Filter S101A"
+  },
+  {
+    "tagname": "024LIC_009A.PV",
+    "desc": "Rotary Drum Vacuum Filter S101A"
+  },
+  {
+    "tagname": "024LIC_009A.SP",
+    "desc": "Rotary Drum Vacuum Filter S101A"
+  },
+  {
+    "tagname": "024LIC_009B.NMODE",
+    "desc": "Rotary Drum Vacuum Filter S101B"
+  },
+  {
+    "tagname": "024LIC_009B.OP",
+    "desc": "Rotary Drum Vacuum Filter S101B"
+  },
+  {
+    "tagname": "024LIC_009B.PV",
+    "desc": "Rotary Drum Vacuum Filter S101B"
+  },
+  {
+    "tagname": "024LIC_009B.SP",
+    "desc": "Rotary Drum Vacuum Filter S101B"
+  },
+  {
+    "tagname": "024LIC_009C.NMODE",
+    "desc": "Rotary Drum Vacuum Filter S101C"
+  },
+  {
+    "tagname": "024LIC_009C.OP",
+    "desc": "Rotary Drum Vacuum Filter S101C"
+  },
+  {
+    "tagname": "024LIC_009C.PV",
+    "desc": "Rotary Drum Vacuum Filter S101C"
+  },
+  {
+    "tagname": "024LIC_009C.SP",
+    "desc": "Rotary Drum Vacuum Filter S101C"
+  },
+  {
+    "tagname": "024LIC_009D.NMODE",
+    "desc": "Rotary Drum Vacuum Filter S101D"
+  },
+  {
+    "tagname": "024LIC_009D.OP",
+    "desc": "Rotary Drum Vacuum Filter S101D"
+  },
+  {
+    "tagname": "024LIC_009D.PV",
+    "desc": "Rotary Drum Vacuum Filter S101D"
+  },
+  {
+    "tagname": "024LIC_009D.SP",
+    "desc": "Rotary Drum Vacuum Filter S101D"
+  },
+  {
+    "tagname": "024LIC_019.OP",
+    "desc": "024V107 Warm Wash Receiver"
+  },
+  {
+    "tagname": "024LIC_019.PV",
+    "desc": "024V107 Warm Wash Receiver"
+  },
+  {
+    "tagname": "024LIC_019.SP",
+    "desc": "024V107 Warm Wash Receiver"
+  },
+  {
+    "tagname": "024LIC_035.OP",
+    "desc": "Do Mix HP Flash 024C101A"
+  },
+  {
+    "tagname": "024LIC_035.PV",
+    "desc": "Do Mix HP Flash 024C101A"
+  },
+  {
+    "tagname": "024LIC_035.SP",
+    "desc": "Do Mix HP Flash 024C101A"
+  },
+  {
+    "tagname": "024LIC_036.OP",
+    "desc": "Do Mix HP Flash 024C101B"
+  },
+  {
+    "tagname": "024LIC_036.PV",
+    "desc": "Do Mix HP Flash 024C101B"
+  },
+  {
+    "tagname": "024LIC_036.SP",
+    "desc": "Do Mix HP Flash 024C101B"
+  },
+  {
+    "tagname": "024LIC_037.OP",
+    "desc": "Do Stripper 024C101"
+  },
+  {
+    "tagname": "024LIC_037.PV",
+    "desc": "Do Stripper 024C102"
+  },
+  {
+    "tagname": "024LIC_037.SP",
+    "desc": "Do Stripper 024C102"
+  },
+  {
+    "tagname": "024LIC_038.OP",
+    "desc": "Do Drier 024C106"
+  },
+  {
+    "tagname": "024LIC_038.PV",
+    "desc": "Do Drier 024C106"
+  },
+  {
+    "tagname": "024LIC_038.SP",
+    "desc": "Do Drier 024C106"
+  },
+  {
+    "tagname": "024LIC_040.OP",
+    "desc": "Slack Wax Mix Surge V116"
+  },
+  {
+    "tagname": "024LIC_040.PV",
+    "desc": "Slack Wax Mix Surge V117"
+  },
+  {
+    "tagname": "024LIC_040.SP",
+    "desc": "Slack Wax Mix Surge V117"
+  },
+  {
+    "tagname": "024LIC_042.OP",
+    "desc": "Slack Wax Mix LP Flash C103B"
+  },
+  {
+    "tagname": "024LIC_042.PV",
+    "desc": "Slack Wax Mix LP Flash C103B"
+  },
+  {
+    "tagname": "024LIC_042.SP",
+    "desc": "Slack Wax Mix LP Flash C103B"
+  },
+  {
+    "tagname": "024LIC_043.OP",
+    "desc": "Slack Wax M. Flash C103A"
+  },
+  {
+    "tagname": "024LIC_043.PV",
+    "desc": "Slack Wax M. Flash C103A"
+  },
+  {
+    "tagname": "024LIC_043.SP",
+    "desc": "Slack Wax M. Flash C103A"
+  },
+  {
+    "tagname": "024LIC_044.OP",
+    "desc": "Slack Wax Stripper C103"
+  },
+  {
+    "tagname": "024LIC_044.PV",
+    "desc": "Slack Wax Stripper C104"
+  },
+  {
+    "tagname": "024LIC_044.SP",
+    "desc": "Slack Wax Stripper C104"
+  },
+  {
+    "tagname": "024LIC_045.OP",
+    "desc": "Solvent Stripper 024C104"
+  },
+  {
+    "tagname": "024LIC_045.PV",
+    "desc": "Solvent Stripper 024C105"
+  },
+  {
+    "tagname": "024LIC_045.SP",
+    "desc": "Asphalt Flash Tower"
+  },
+  {
+    "tagname": "024LIC_046.OP",
+    "desc": "024V111 Interface"
+  },
+  {
+    "tagname": "024LIC_046.PV",
+    "desc": "024V111 Interface"
+  },
+  {
+    "tagname": "024LIC_046.SP",
+    "desc": "024V111 Interface"
+  },
+  {
+    "tagname": "024LIC_047.OP",
+    "desc": "Strip'R Overhead Receiver 024V111"
+  },
+  {
+    "tagname": "024LIC_047.PV",
+    "desc": "Strip'R Overhead Receiver 024V111"
+  },
+  {
+    "tagname": "024LIC_047.SP",
+    "desc": "Strip'R Overhead Receiver 024V111"
+  },
+  {
+    "tagname": "024LIC_049.PV",
+    "desc": "024V113 KO Vessel"
+  },
+  {
+    "tagname": "024LIC_049.SP",
+    "desc": "024V113 KO Vessel"
+  },
+  {
+    "tagname": "024LIC_051.PV",
+    "desc": "024V114 Propane Economizer"
+  },
+  {
+    "tagname": "024LIC_051.SP",
+    "desc": "024V114 Propane Economizer"
+  },
+  {
+    "tagname": "024LIC_062.OP",
+    "desc": "024E132 Surface Condensor"
+  },
+  {
+    "tagname": "024LIC_062.PV",
+    "desc": "024E132 Surface Condensor"
+  },
+  {
+    "tagname": "024LIC_062.SP",
+    "desc": "024E132 Surface Condensor"
+  },
+  {
+    "tagname": "024LV_001.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024LV_002.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024LV_003.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024LV_004.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024LV_008A.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024LV_008B.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024LV_008C.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024LV_008D.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024LV_009A.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024LV_009B.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024LV_009C.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024LV_009D.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024LV_019.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024LV_035.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024LV_037.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024LV_038.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024LV_043.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024LV_044.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024LV_045.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024LV_046.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024LV_047.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024LV_049.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024LV_051.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024LV_062.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024NN_MFLASH POINTV",
+    "desc": "Sp For Middle Filter  Timer"
+  },
+  {
+    "tagname": "024NN_TFLASH POINTV",
+    "desc": "Sp For Top Filter  Timer"
+  },
+  {
+    "tagname": "024NN_WD1.PV",
+    "desc": "Sp For Watch Dog Timer 1"
+  },
+  {
+    "tagname": "024NN_WD2.PV",
+    "desc": "Sp For Watch Dog Timer 2"
+  },
+  {
+    "tagname": "024NN_WD3.PV",
+    "desc": "Sp For Watch Dog Timer 3"
+  },
+  {
+    "tagname": "024NN_WD4.PV",
+    "desc": "Sp For Watch Dog Timer 4"
+  },
+  {
+    "tagname": "024NN_WD5.PV",
+    "desc": "Sp For Watch Dog Timer 5"
+  },
+  {
+    "tagname": "024NN_WD6.PV",
+    "desc": "Sp For Watch Dog Timer 6"
+  },
+  {
+    "tagname": "024PAH_015.PV",
+    "desc": "Cwr 024E_130"
+  },
+  {
+    "tagname": "024PAH_019.PV",
+    "desc": "Cwr 024E-129A"
+  },
+  {
+    "tagname": "024PAH_020.PV",
+    "desc": "Cwr 024E-129B"
+  },
+  {
+    "tagname": "024PAH_029.PV",
+    "desc": "024P106 Seal Cavity"
+  },
+  {
+    "tagname": "024PAH_030.PV",
+    "desc": "Cooling Water Return"
+  },
+  {
+    "tagname": "024PAH_046.PV",
+    "desc": "To Area 02 ReliEF System"
+  },
+  {
+    "tagname": "024PAL_028.PV",
+    "desc": "CondensatepuMP Stop"
+  },
+  {
+    "tagname": "024PAL_029.PV",
+    "desc": "P121A Outlet to E133A"
+  },
+  {
+    "tagname": "024PDI_002.PV",
+    "desc": "Do Mix Afterfilter"
+  },
+  {
+    "tagname": "024PDI_008.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "024PDI_009.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "024PDI_017.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "024PI_006.PV",
+    "desc": "Do From 024C106"
+  },
+  {
+    "tagname": "024PI_016.PV",
+    "desc": "024K102 2Nd Stage Pressure"
+  },
+  {
+    "tagname": "024PI_018.PV",
+    "desc": "024V112 Propane Receiver"
+  },
+  {
+    "tagname": "024PIC_001.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024PIC_001.PV",
+    "desc": "Cold Wash Solvent to Filter"
+  },
+  {
+    "tagname": "024PIC_001.SP",
+    "desc": "1St DAO Evaporator"
+  },
+  {
+    "tagname": "024PIC_003.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024PIC_003.PV",
+    "desc": "Slack Wax Mix to 024V117"
+  },
+  {
+    "tagname": "024PIC_003.SP",
+    "desc": "Slack Wax Mix  Recycle S101A"
+  },
+  {
+    "tagname": "024PIC_004.NMODE",
+    "desc": ""
+  },
+  {
+    "tagname": "024PIC_004.OP",
+    "desc": "Dry Solvent to 024E128"
+  },
+  {
+    "tagname": "024PIC_004.PV",
+    "desc": "Dry Solvent to 024E128"
+  },
+  {
+    "tagname": "024PIC_004.SP",
+    "desc": "DAO Mix From 220C101"
+  },
+  {
+    "tagname": "024PIC_005.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024PIC_005.PV",
+    "desc": "Dry Solvent to 024E112"
+  },
+  {
+    "tagname": "024PIC_005.SP",
+    "desc": "Dry Solvent to 024E112"
+  },
+  {
+    "tagname": "024PIC_007.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024PIC_007.PV",
+    "desc": "Dry Solvent to 024E118Ts"
+  },
+  {
+    "tagname": "024PIC_007.SP",
+    "desc": "Dry Solvent to 024E118Ts"
+  },
+  {
+    "tagname": "024PIC_011.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024PIC_011.PV",
+    "desc": "Propane to 024K102"
+  },
+  {
+    "tagname": "024PIC_011.SP",
+    "desc": "Wet Propane to 220E111"
+  },
+  {
+    "tagname": "024PIC_021.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024PIC_021.PV",
+    "desc": "024V103 Header Outlet"
+  },
+  {
+    "tagname": "024PIC_021.SP",
+    "desc": "V108/E114 Circulating Liquid Temperature"
+  },
+  {
+    "tagname": "024PIC_023.NMODE",
+    "desc": ""
+  },
+  {
+    "tagname": "024PIC_023.OP",
+    "desc": "Solvent Inert KO 024V106"
+  },
+  {
+    "tagname": "024PIC_023.PV",
+    "desc": "Solvent Inert KO 024V106"
+  },
+  {
+    "tagname": "024PIC_023.SP",
+    "desc": "LP Steam to 220C101"
+  },
+  {
+    "tagname": "024PP_DODM.PV",
+    "desc": "Pour Point Do DAO Shift Malam"
+  },
+  {
+    "tagname": "024PP_DODP.PV",
+    "desc": "Pour Point Do DAO Shift Pagi"
+  },
+  {
+    "tagname": "024PP_DODS.PV",
+    "desc": "Pour Point Do DAO Shift Sore"
+  },
+  {
+    "tagname": "024PP_DOLM.PV",
+    "desc": "Pour Point Do LMO Shift Malam"
+  },
+  {
+    "tagname": "024PP_DOLP.PV",
+    "desc": "Pour Point Do LMO Shift Pagi"
+  },
+  {
+    "tagname": "024PP_DOLS.PV",
+    "desc": "Pour Point Do LMO Shift Sore"
+  },
+  {
+    "tagname": "024PP_DOMM.PV",
+    "desc": "Pour Point Do MMO Shift Malam"
+  },
+  {
+    "tagname": "024PP_DOMP.PV",
+    "desc": "Pour Point Do MMO Shift Pagi"
+  },
+  {
+    "tagname": "024PP_DOMS.PV",
+    "desc": "Pour Point Do MMO Shift Sore"
+  },
+  {
+    "tagname": "024PV_001.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024PV_003.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024PV_004.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024PV_005.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024PV_007.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024PV_021.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024PV_023A.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024PV_023B.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024SC_WD.NUMERICA",
+    "desc": ""
+  },
+  {
+    "tagname": "024SC_WD.PV",
+    "desc": "Solvent Content W.D"
+  },
+  {
+    "tagname": "024SI_001.PV",
+    "desc": "Speed Indicator 024K102"
+  },
+  {
+    "tagname": "024SSH_002A.PV",
+    "desc": "024S101A Drum Speed Hi"
+  },
+  {
+    "tagname": "024SSH_002B.PV",
+    "desc": "024S101B Drum Speed Hi"
+  },
+  {
+    "tagname": "024SSH_002C.PV",
+    "desc": "024S101C Drum Speed Hi"
+  },
+  {
+    "tagname": "024SSH_002D.PV",
+    "desc": "024S101D Drum Speed Hi"
+  },
+  {
+    "tagname": "024SSH_002E.PV",
+    "desc": "024S101E Drum Speed Hi"
+  },
+  {
+    "tagname": "024TDI_001.PV",
+    "desc": "Tdi 2Nd Dillution"
+  },
+  {
+    "tagname": "024TDI_002.PV",
+    "desc": "Tdi 3Rd Dillution"
+  },
+  {
+    "tagname": "024TDI_003.PV",
+    "desc": "Tdi 4Th Dillution"
+  },
+  {
+    "tagname": "024TDI_004.PV",
+    "desc": "Tdi Cold Wash"
+  },
+  {
+    "tagname": "024TI_001.PV",
+    "desc": "Waxy Oil Chrg From Tnkg"
+  },
+  {
+    "tagname": "024TI_002.PV",
+    "desc": "Waxy Oil Feed to 024E104"
+  },
+  {
+    "tagname": "024TI_003.PV",
+    "desc": "Waxy Oil Feed to E101A"
+  },
+  {
+    "tagname": "024TI_004.PV",
+    "desc": "Dewaxed  Oil/Solvent From E101A/B"
+  },
+  {
+    "tagname": "024TI_005.PV",
+    "desc": "2Nd Dil Feedmix to E101B"
+  },
+  {
+    "tagname": "024TI_006.PV",
+    "desc": "Dewaxed  Oil/Solvent From \u00a0E101B"
+  },
+  {
+    "tagname": "024TI_007.PV",
+    "desc": "Waxy Oil Feed to E101B"
+  },
+  {
+    "tagname": "024TI_008.PV",
+    "desc": "2Nd Dilution Solvent Mix"
+  },
+  {
+    "tagname": "024TI_009.PV",
+    "desc": "Charge Mix to 024E102A"
+  },
+  {
+    "tagname": "024TI_010.PV",
+    "desc": "3Rd Dil Feedmix to E102A"
+  },
+  {
+    "tagname": "024TI_011.PV",
+    "desc": "3Rd Dilution Solvent Mix"
+  },
+  {
+    "tagname": "024TI_012.PV",
+    "desc": "Charge Mix From 024E102A"
+  },
+  {
+    "tagname": "024TI_013.PV",
+    "desc": "Charge Mix to 024E102B"
+  },
+  {
+    "tagname": "024TI_014.PV",
+    "desc": "Charge Mix From 024E102B"
+  },
+  {
+    "tagname": "024TI_015.PV",
+    "desc": "Charge Mix to 024E102C"
+  },
+  {
+    "tagname": "024TI_016.PV",
+    "desc": "4Th Dil Feedmix to E102C"
+  },
+  {
+    "tagname": "024TI_017.PV",
+    "desc": "4Th Dilution Solvent Mix"
+  },
+  {
+    "tagname": "024TI_018.PV",
+    "desc": "Charge Mix From 024E102C"
+  },
+  {
+    "tagname": "024TI_019.PV",
+    "desc": "Charge Mix to 024E102D"
+  },
+  {
+    "tagname": "024TI_020.PV",
+    "desc": "Charge Mix From 024E102D"
+  },
+  {
+    "tagname": "024TI_021.PV",
+    "desc": "Dry Solvent From E106A/B"
+  },
+  {
+    "tagname": "024TI_022.PV",
+    "desc": "Dry Solvent to E106A/B"
+  },
+  {
+    "tagname": "024TI_023.PV",
+    "desc": "Do/Solvent From 024E106A/B"
+  },
+  {
+    "tagname": "024TI_024.PV",
+    "desc": "Dry Solvent From Chillers"
+  },
+  {
+    "tagname": "024TI_025.PV",
+    "desc": "Charge Mix to 024V101"
+  },
+  {
+    "tagname": "024TI_026.PV",
+    "desc": "024V101 Filter Feed Vessel"
+  },
+  {
+    "tagname": "024TI_027.PV",
+    "desc": "024V102 Bottom"
+  },
+  {
+    "tagname": "024TI_028A.PV",
+    "desc": "Slack Wax Mix From S101A"
+  },
+  {
+    "tagname": "024TI_028B.PV",
+    "desc": "Slack Wax Mix From S101B"
+  },
+  {
+    "tagname": "024TI_028C.PV",
+    "desc": "Slack Wax Mix From S101C"
+  },
+  {
+    "tagname": "024TI_028D.PV",
+    "desc": "Slack Wax Mix From S101D"
+  },
+  {
+    "tagname": "024TI_032.PV",
+    "desc": "Sw Mix From 024E105"
+  },
+  {
+    "tagname": "024TI_033.PV",
+    "desc": "Warm Wash Solvent From E128"
+  },
+  {
+    "tagname": "024TI_034.PV",
+    "desc": "1St Dilution Solvent"
+  },
+  {
+    "tagname": "024TI_035.PV",
+    "desc": "Do Mix to 024C101A"
+  },
+  {
+    "tagname": "024TI_036.PV",
+    "desc": "Dewaxed  Oil Mix to 024E127"
+  },
+  {
+    "tagname": "024TI_037.PV",
+    "desc": "Solvent From 024C101A Overhead"
+  },
+  {
+    "tagname": "024TI_038.PV",
+    "desc": "Solvent From 024C101B Overhead"
+  },
+  {
+    "tagname": "024TI_039.PV",
+    "desc": "Dewaxed  Oil Mix to 024C101B"
+  },
+  {
+    "tagname": "024TI_040.PV",
+    "desc": "Solvent From 024E112 Cooler"
+  },
+  {
+    "tagname": "024TI_041.PV",
+    "desc": "Dewaxed Oil to Storage"
+  },
+  {
+    "tagname": "024TI_042.PV",
+    "desc": "Dewaxed  Oil to 024E113A/.B"
+  },
+  {
+    "tagname": "024TI_043.PV",
+    "desc": "Dewaxed Oil to O24C102"
+  },
+  {
+    "tagname": "024TI_044.PV",
+    "desc": "Do to 024C106 Drier"
+  },
+  {
+    "tagname": "024TI_045.PV",
+    "desc": "Slack Wax Mix to 024V117"
+  },
+  {
+    "tagname": "024TI_046.PV",
+    "desc": "Sw Mix From 024P113A/B"
+  },
+  {
+    "tagname": "024TI_047.PV",
+    "desc": "Slack Wax Mix to 024E117"
+  },
+  {
+    "tagname": "024TI_048.PV",
+    "desc": "S Wax Mix to 024C103A"
+  },
+  {
+    "tagname": "024TI_049.PV",
+    "desc": "Slack Wax Mix to 024C104"
+  },
+  {
+    "tagname": "024TI_050.PV",
+    "desc": "Solvent From 024C103A Overhead"
+  },
+  {
+    "tagname": "024TI_051.PV",
+    "desc": "Solvent From 024C103B Overhead"
+  },
+  {
+    "tagname": "024TI_052.PV",
+    "desc": "S Wax Mix to 024C103B"
+  },
+  {
+    "tagname": "024TI_053.PV",
+    "desc": "Solvent From 024E119"
+  },
+  {
+    "tagname": "024TI_054.PV",
+    "desc": "Slack Wax From 024E120A/B"
+  },
+  {
+    "tagname": "024TI_055.PV",
+    "desc": "Slack Wax to 024E120A/B"
+  },
+  {
+    "tagname": "024TI_056.PV",
+    "desc": "Wet Solvent From 024E123"
+  },
+  {
+    "tagname": "024TI_057.PV",
+    "desc": "Wet Solvent From 024C104 Overhead"
+  },
+  {
+    "tagname": "024TI_058.PV",
+    "desc": "Dry Solvent to 024C104 Overhead"
+  },
+  {
+    "tagname": "024TI_059.PV",
+    "desc": "Wet Solvent From 024C105 Overhead"
+  },
+  {
+    "tagname": "024TI_060.PV",
+    "desc": "Wet Solvent to 024V111"
+  },
+  {
+    "tagname": "024TI_061.PV",
+    "desc": "Liq Propane V113 Bottom"
+  },
+  {
+    "tagname": "024TI_062.PV",
+    "desc": "Liq Propane V114 Bottom"
+  },
+  {
+    "tagname": "024TI_063.PV",
+    "desc": "Propane to 024E129A/B"
+  },
+  {
+    "tagname": "024TI_064.PV",
+    "desc": "Propane From 024E129A/B"
+  },
+  {
+    "tagname": "024TI_065.PV",
+    "desc": "Inert Gas to V106 KO Vessel"
+  },
+  {
+    "tagname": "024TI_066.PV",
+    "desc": "Dry Solvent From 024E116"
+  },
+  {
+    "tagname": "024TI_067.PV",
+    "desc": "Wet Solvent From C102 Overhead"
+  },
+  {
+    "tagname": "024TI_215.PV",
+    "desc": "Solvent Vap From 024C101A Overhead"
+  },
+  {
+    "tagname": "024TI_217.PV",
+    "desc": "Solvent Vap From 024C103A Overhead"
+  },
+  {
+    "tagname": "024TI_222.PV",
+    "desc": "Vap Prop From 024K102 T0 024E129"
+  },
+  {
+    "tagname": "024TI_224.PV",
+    "desc": "Inert Gas Compressor Outlet"
+  },
+  {
+    "tagname": "024TI_225.PV",
+    "desc": "Inert Gas From 024K101 to 024E109"
+  },
+  {
+    "tagname": "024TIC_199.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024TIC_199.PV",
+    "desc": "Waxy Oil From 024E103Ss"
+  },
+  {
+    "tagname": "024TIC_199.SP",
+    "desc": "Waxy Oil From 024E103Ss"
+  },
+  {
+    "tagname": "024TIC_200.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024TIC_200.PV",
+    "desc": "2Nd Dilution 024E101B"
+  },
+  {
+    "tagname": "024TIC_200.SP",
+    "desc": "2Nd Dilution 024E101B"
+  },
+  {
+    "tagname": "024TIC_201.OP",
+    "desc": "3Rd Dilution 024E102A"
+  },
+  {
+    "tagname": "024TIC_201.PV",
+    "desc": "3Rd Dilution 024E102A"
+  },
+  {
+    "tagname": "024TIC_201.SP",
+    "desc": "3Rd Dilution 024E102A"
+  },
+  {
+    "tagname": "024TIC_202.OP",
+    "desc": "Charge Mix From 024E102A"
+  },
+  {
+    "tagname": "024TIC_202.PV",
+    "desc": "Charge Mix From 024E102A"
+  },
+  {
+    "tagname": "024TIC_202.SP",
+    "desc": "Charge Mix From 024E102A"
+  },
+  {
+    "tagname": "024TIC_203.OP",
+    "desc": "Charge Mix From 024E102B"
+  },
+  {
+    "tagname": "024TIC_203.PV",
+    "desc": "Charge Mix From 024E102B"
+  },
+  {
+    "tagname": "024TIC_203.SP",
+    "desc": "Charge Mix From 024E102B"
+  },
+  {
+    "tagname": "024TIC_204.OP",
+    "desc": "4Th Dilution 024E102C"
+  },
+  {
+    "tagname": "024TIC_204.PV",
+    "desc": "4Th Dilution 024E102C"
+  },
+  {
+    "tagname": "024TIC_204.SP",
+    "desc": "4Th Dilution 024E102C"
+  },
+  {
+    "tagname": "024TIC_205.OP",
+    "desc": "Charge Mix From 024E102C"
+  },
+  {
+    "tagname": "024TIC_205.PV",
+    "desc": "Charge Mix From 024E102C"
+  },
+  {
+    "tagname": "024TIC_205.SP",
+    "desc": "Charge Mix From 024E102C"
+  },
+  {
+    "tagname": "024TIC_206.OP",
+    "desc": "Chill. Solvent From E108"
+  },
+  {
+    "tagname": "024TIC_206.PV",
+    "desc": "Chill. Solvent From E108"
+  },
+  {
+    "tagname": "024TIC_206.SP",
+    "desc": "Chill. Solvent From E108"
+  },
+  {
+    "tagname": "024TIC_207.OP",
+    "desc": "Charge Mix From 024E102D"
+  },
+  {
+    "tagname": "024TIC_207.PV",
+    "desc": "Charge Mix From 024E102D"
+  },
+  {
+    "tagname": "024TIC_207.SP",
+    "desc": "Charge Mix From 024E102D"
+  },
+  {
+    "tagname": "024TIC_208A.NMODE",
+    "desc": "Slack Wax Mix  Recycle S101A"
+  },
+  {
+    "tagname": "024TIC_208A.OP",
+    "desc": "Slack Wax Mix  Recycle S101A"
+  },
+  {
+    "tagname": "024TIC_208A.PV",
+    "desc": "Slack Wax Mix  Recycle S101A"
+  },
+  {
+    "tagname": "024TIC_208A.SP",
+    "desc": "Slack Wax Mix  Recycle S101A"
+  },
+  {
+    "tagname": "024TIC_208B.NMODE",
+    "desc": "Slack Wax Mix  Recycle S101B"
+  },
+  {
+    "tagname": "024TIC_208B.OP",
+    "desc": "Slack Wax Mix  Recycle S101B"
+  },
+  {
+    "tagname": "024TIC_208B.PV",
+    "desc": "Slack Wax Mix  Recycle S101B"
+  },
+  {
+    "tagname": "024TIC_208B.SP",
+    "desc": "Slack Wax Mix  Recycle S101B"
+  },
+  {
+    "tagname": "024TIC_208C.NMODE",
+    "desc": "Slack Wax Mix  Recycle S101C"
+  },
+  {
+    "tagname": "024TIC_208C.OP",
+    "desc": "Slack Wax Mix  Recycle S101C"
+  },
+  {
+    "tagname": "024TIC_208C.PV",
+    "desc": "Slack Wax Mix  Recycle S101C"
+  },
+  {
+    "tagname": "024TIC_208C.SP",
+    "desc": "Slack Wax Mix  Recycle S101C"
+  },
+  {
+    "tagname": "024TIC_208D.NMODE",
+    "desc": "Slack Wax Mix  Recycle S101D"
+  },
+  {
+    "tagname": "024TIC_208D.OP",
+    "desc": "Slack Wax Mix  Recycle S101D"
+  },
+  {
+    "tagname": "024TIC_208D.PV",
+    "desc": "Slack Wax Mix  Recycle S101D"
+  },
+  {
+    "tagname": "024TIC_208D.SP",
+    "desc": "Slack Wax Mix  Recycle S101D"
+  },
+  {
+    "tagname": "024TIC_212.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024TIC_212.PV",
+    "desc": "Slack Wax Mix From E105Ss"
+  },
+  {
+    "tagname": "024TIC_212.SP",
+    "desc": "Slack Wax Mix  Recycle S101B"
+  },
+  {
+    "tagname": "024TIC_213.OP",
+    "desc": "Warm Wash Solventfm E128Ss"
+  },
+  {
+    "tagname": "024TIC_213.PV",
+    "desc": "Warm Wash Solventfm E128Ss"
+  },
+  {
+    "tagname": "024TIC_213.SP",
+    "desc": "Warm Wash Solventfm E128Ss"
+  },
+  {
+    "tagname": "024TIC_214.OP",
+    "desc": "Do Mix Charge to C101A"
+  },
+  {
+    "tagname": "024TIC_214.PV",
+    "desc": "Do Mix Charge to C101A"
+  },
+  {
+    "tagname": "024TIC_214.SP",
+    "desc": "Do Mix Charge to C101A"
+  },
+  {
+    "tagname": "024TIC_216.OP",
+    "desc": "Slack Wax Mix to C103A"
+  },
+  {
+    "tagname": "024TIC_216.PV",
+    "desc": "Slack Wax Mix to C103A"
+  },
+  {
+    "tagname": "024TIC_216.SP",
+    "desc": "Slack Wax Mix to C103A"
+  },
+  {
+    "tagname": "024TIC_218.OP",
+    "desc": "Solvent & Steam 024C105 Overhead"
+  },
+  {
+    "tagname": "024TIC_218.PV",
+    "desc": "Solvent & Steam 024C105 Overhead"
+  },
+  {
+    "tagname": "024TIC_218.SP",
+    "desc": "Solvent & Steam 024C105 Overhead"
+  },
+  {
+    "tagname": "024TT_199.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "024TV_199.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024TV_200.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024TV_201.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024TV_202.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024TV_203.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024TV_204.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024TV_205.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024TV_206.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024TV_207.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024TV_208A.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024TV_208B.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024TV_208C.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024TV_208D.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024TV_212.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024TV_213.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024TV_214.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024TV_216.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024TV_218.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "024VI_DODM.PV",
+    "desc": "Viscosity Index Do DAO Shift Malam"
+  },
+  {
+    "tagname": "024VI_DODP.PV",
+    "desc": "Viscosity Index Do DAO Shift Pagi"
+  },
+  {
+    "tagname": "024VI_DODS.PV",
+    "desc": "Viscosity Index Do DAO Shift Sore"
+  },
+  {
+    "tagname": "024VI_DOLM.PV",
+    "desc": "Viscosity Index Do LMO Shift Malam"
+  },
+  {
+    "tagname": "024VI_DOLP.PV",
+    "desc": "Viscosity Index Do LMO Shift Pagi"
+  },
+  {
+    "tagname": "024VI_DOLS.PV",
+    "desc": "Viscosity Index Do LMO Shift Sore"
+  },
+  {
+    "tagname": "024VI_DOMM.PV",
+    "desc": "Viscosity Index Do MMO Shift Malam"
+  },
+  {
+    "tagname": "024VI_DOMP.PV",
+    "desc": "Viscosity Index Do MMO Shift Pagi"
+  },
+  {
+    "tagname": "024VI_DOMS.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "024VI_DOMSORE.PV",
+    "desc": "Viscosity Index Do MMO Shift Sore"
+  },
+  {
+    "tagname": "024VIS_DODM.NUMERICA",
+    "desc": "Viscosity Do DAO Shift Malam"
+  },
+  {
+    "tagname": "024VIS_DODM.PV",
+    "desc": "Viscosity Do DAO Shift Malam"
+  },
+  {
+    "tagname": "024VIS_DODP.NUMERICA",
+    "desc": "Viscosity Do DAO Shift Pagi"
+  },
+  {
+    "tagname": "024VIS_DODP.PV",
+    "desc": "Viscosity Do DAO Shift Pagi"
+  },
+  {
+    "tagname": "024VIS_DODS.NUMERICA",
+    "desc": "Viscosity Do DAO Shift Sore"
+  },
+  {
+    "tagname": "024VIS_DODS.PV",
+    "desc": "Viscosity Do DAO Shift Sore"
+  },
+  {
+    "tagname": "024VIS_DOLM.NUMERICA",
+    "desc": "Viscosity Do LMO Shift Malam"
+  },
+  {
+    "tagname": "024VIS_DOLM.PV",
+    "desc": "Viscosity Do LMO Shift Malam"
+  },
+  {
+    "tagname": "024VIS_DOLP.NUMERICA",
+    "desc": "Viscosity Do LMO Shift Pagi"
+  },
+  {
+    "tagname": "024VIS_DOLP.PV",
+    "desc": "Viscosity Do LMO Shift Pagi"
+  },
+  {
+    "tagname": "024VIS_DOLS.NUMERICA",
+    "desc": "Viscosity Do LMO Shift Sore"
+  },
+  {
+    "tagname": "024VIS_DOLS.PV",
+    "desc": "Viscosity Do LMO Shift Sore"
+  },
+  {
+    "tagname": "024VIS_DOMM.NUMERICA",
+    "desc": "Viscosity Do MMO Shift Malam"
+  },
+  {
+    "tagname": "024VIS_DOMM.PV",
+    "desc": "Viscosity Do MMO Shift Malam"
+  },
+  {
+    "tagname": "024VIS_DOMP.NUMERICA",
+    "desc": "Viscosity Do MMO Shift Pagi"
+  },
+  {
+    "tagname": "024VIS_DOMP.PV",
+    "desc": "Viscosity Do MMO Shift Pagi"
+  },
+  {
+    "tagname": "024VIS_DOMS.NUMERICA",
+    "desc": "Viscosity Do MMO Shift Sore"
+  },
+  {
+    "tagname": "024VIS_DOMS.PV",
+    "desc": "Viscosity Do MMO Shift Sore"
+  },
+  {
+    "tagname": "024XAH_020.PV",
+    "desc": "024E116 Fan Common Alarm"
+  },
+  {
+    "tagname": "024XAH_021.PV",
+    "desc": "024E112 Fan Common Alarm"
+  },
+  {
+    "tagname": "024XAH_022.PV",
+    "desc": "024E123 Fan Common Alarm"
+  },
+  {
+    "tagname": "024XAH_023.PV",
+    "desc": "024E125 Fan Common Alarm"
+  },
+  {
+    "tagname": "024XL_163A.PV",
+    "desc": "Prob. With Wash Cycle-A"
+  },
+  {
+    "tagname": "024XL_163B.PV",
+    "desc": "Prob. With Wash Cycle-B"
+  },
+  {
+    "tagname": "024XL_163C.PV",
+    "desc": "Prob. With Wash Cycle-C"
+  },
+  {
+    "tagname": "024XL_163D.PV",
+    "desc": "Prob. With Wash Cycle-D"
+  },
+  {
+    "tagname": "024XL_163E.PV",
+    "desc": "Prob. With Wash Cycle-E"
+  },
+  {
+    "tagname": "025AI_001.PV",
+    "desc": "O2 Analyzer 025F101"
+  },
+  {
+    "tagname": "025AI_002.PV",
+    "desc": "O2 Analyzer 025F101"
+  },
+  {
+    "tagname": "025FV_004.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "025FY_004X.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "025FY_014X.PV",
+    "desc": ""
+  },
+  {
+    "tagname": "025HIC_011.OP",
+    "desc": "025F101 Reset 025PIC-007"
+  },
+  {
+    "tagname": "025HIC_012.OP",
+    "desc": "025F101 Reset 025PIC-008"
+  },
+  {
+    "tagname": "025LI_001.PV",
+    "desc": "V101 Hot Oil Surge Vessel"
+  },
+  {
+    "tagname": "025LI_002.PV",
+    "desc": "Hot Oil Surge Vessel"
+  },
+  {
+    "tagname": "025LI_003.PV",
+    "desc": "Hot Oil Surge Vessel"
+  },
+  {
+    "tagname": "025LIC_004.OP",
+    "desc": "V101 Hot Oil Surge Vessel"
+  },
+  {
+    "tagname": "025LIC_004.PV",
+    "desc": "V101 Hot Oil Surge Vessel"
+  },
+  {
+    "tagname": "025LIC_004.SP",
+    "desc": "V101 Hot Oil Surge Vessel"
+  },
+  {
+    "tagname": "025LV_004.OP",
+    "desc": "V101 Hot Oil Surge Vessel"
+  },
+  {
+    "tagname": "025PAL_009.PV",
+    "desc": "P101A Gear Lube Oil"
+  },
+  {
+    "tagname": "025PDI_003.PV",
+    "desc": "025F101 Steam / Fuel Oil"
+  },
+  {
+    "tagname": "025PDIC_004.OP",
+    "desc": "025F101 Steam / Fuel Oil"
+  },
+  {
+    "tagname": "025PDIC_004.PV",
+    "desc": "025F101 Steam / Fuel Oil"
+  },
+  {
+    "tagname": "025PDIC_004.SP",
+    "desc": "025F101 Steam / Fuel Oil"
+  },
+  {
+    "tagname": "025PDV_004.OP",
+    "desc": "025F101 Steam / Fuel Oil"
+  },
+  {
+    "tagname": "025PI_002.PV",
+    "desc": "LP Fuel Oil Supply"
+  },
+  {
+    "tagname": "025PI_003.PV",
+    "desc": "Preesure 025V-101"
+  },
+  {
+    "tagname": "025PI_005.PV",
+    "desc": "025F101 Fuel Gas Supply"
+  },
+  {
+    "tagname": "025PIC_007.OP",
+    "desc": "025F101 Fuel Oil"
+  },
+  {
+    "tagname": "025PIC_007.PV",
+    "desc": "025F101 Fuel Oil"
+  },
+  {
+    "tagname": "025PIC_007.SP",
+    "desc": "025F101 Fuel Oil"
+  },
+  {
+    "tagname": "025PIC_008.OP",
+    "desc": "025F101 Fuel Gas"
+  },
+  {
+    "tagname": "025PIC_008.PV",
+    "desc": "025F101 Fuel Gas"
+  },
+  {
+    "tagname": "025PIC_008.SP",
+    "desc": "025F101 Fuel Gas"
+  },
+  {
+    "tagname": "025PIC_701.OP",
+    "desc": "Fuel Gas Supply to 025F101"
+  },
+  {
+    "tagname": "025PIC_701.PV",
+    "desc": "Fuel Gas Supply to 025F101"
+  },
+  {
+    "tagname": "025PIC_701.SP",
+    "desc": "Fuel Gas Supply to 025F101"
+  },
+  {
+    "tagname": "025PV_007A.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "025PV_008.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "025PV_701.OP",
+    "desc": ""
+  },
+  {
+    "tagname": "025TAH_053.PV",
+    "desc": "Hot Oil Circulating PuMP B"
+  },
+  {
+    "tagname": "025TAH_054.PV",
+    "desc": "Hot Oil Circulating PuMP B"
+  },
+  {
+    "tagname": "025TI_001.PV",
+    "desc": "Hot Oil to 025V101"
+  },
+  {
+    "tagname": "025TI_002.PV",
+    "desc": "Fuel Gas to 025F101"
+  },
+  {
+    "tagname": "025TI_005.PV",
+    "desc": "F101 Cell 2 Pass 1 Skin"
+  },
+  {
+    "tagname": "025TI_006.PV",
+    "desc": "F101 Cell 2 Pass 2 Skin"
+  },
+  {
+    "tagname": "025TI_007.PV",
+    "desc": "F101 Cell 2 Pass 3 Skin"
+  },
+  {
+    "tagname": "025TI_008.PV",
+    "desc": "F101 Cell 2 Pass 4 Skin"
+  },
+  {
+    "tagname": "025TI_009.PV",
+    "desc": "F101 Cell 1 Pass 5 Skin"
+  },
+  {
+    "tagname": "025TI_010.PV",
+    "desc": "F101 Cell 1 Pass 6 Skin"
+  },
+  {
+    "tagname": "025TI_011.PV",
+    "desc": "F101 Cell 1 Pass 7 Skin"
+  },
+  {
+    "tagname": "025TI_012.PV",
+    "desc": "F101 Cell 1 Pass 8 Skin"
+  },
+  {
+    "tagname": "025TI_013.PV",
+    "desc": "Flue Gas to Stack/South"
+  },
+  {
+    "tagname": "025TI_014.PV",
+    "desc": "Flue Gas to Stack/Left"
+  },
+  {
+    "tagname": "025TI_015.PV",
+    "desc": "Cell 2 Pass 1 Crossover"
+  },
+  {
+    "tagname": "025TI_016.PV",
+    "desc": "Cell 2 Pass 2 Crossover"
+  },
+  {
+    "tagname": "025TI_017.PV",
+    "desc": "Cell 2 Pass 3 Crossover"
+  },
+  {
+    "tagname": "025TI_018.PV",
+    "desc": "Cell 2 Pass 4 Crossover"
+  },
+  {
+    "tagname": "025TI_019.PV",
+    "desc": "Cell 1 Pass 5 Crossover"
+  },
+  {
+    "tagname": "025TI_020.PV",
+    "desc": "Cell 1 Pass 6 Crossover"
+  },
+  {
+    "tagname": "025TI_021.PV",
+    "desc": "Cell 1 Pass 7 Crossover"
+  },
+  {
+    "tagname": "025TI_022.PV",
+    "desc": "Cell 1 Pass 8 Crossover"
+  },
+  {
+    "tagname": "025TI_023.PV",
+    "desc": "Cell 2 Pass 1 Outlet"
+  },
+  {
+    "tagname": "025TI_024.PV",
+    "desc": "Cell 2 Pass 2 Outlet"
+  },
+  {
+    "tagname": "025TI_025.PV",
+    "desc": "Cell 2 Pass 3 Outlet"
+  },
+  {
+    "tagname": "025TI_026.PV",
+    "desc": "Cell 2 Pass 4 Outlet"
+  },
+  {
+    "tagname": "025TI_027.PV",
+    "desc": "Cell 1 Pass 5 Outlet"
+  },
+  {
+    "tagname": "025TI_028.PV",
+    "desc": "Cell 1 Pass 6 Outlet"
+  },
+  {
+    "tagname": "025TI_029.PV",
+    "desc": "Cell 1 Pass 7 Outlet"
+  },
+  {
+    "tagname": "025TI_030.PV",
+    "desc": "Cell 1 Pass 8 Outlet"
+  },
+  {
+    "tagname": "025TI_031.PV",
+    "desc": "Hot Oil From 025F101"
+  },
+  {
+    "tagname": "025TI_090.PV",
+    "desc": "Hot Oil Surge Vessel"
+  },
+  {
+    "tagname": "025TI_091.PV",
+    "desc": "Hot Oil From 025F101"
+  },
+  {
+    "tagname": "025TI_093.PV",
+    "desc": "Flue Gas to Stack/Right"
+  },
+  {
+    "tagname": "025TI_094.PV",
+    "desc": "Flue Gas to Stack/North"
+  },
+  {
+    "tagname": "025TIC_092.OP",
+    "desc": "Hot Oil From 025F101 Heater"
+  },
+  {
+    "tagname": "025TIC_092.PV",
+    "desc": "Hot Oil From 025F101 Heater"
+  },
+  {
+    "tagname": "025TIC_092.SP",
+    "desc": "Hot Oil From 025F101 Heater"
+  },
+  {
+    "tagname": "041FP_DORT2.NUMERICA",
+    "desc": "Flash Point DORT"
+  },
+  {
+    "tagname": "041PP_DORT2.NUMERICA",
+    "desc": "Pour Point DORT"
+  },
+  {
+    "tagname": "041VI_DORT2.NUMERICA",
+    "desc": "Viscosity Index  DORT"
+  },
+  {
+    "tagname": "041VIS_DAO1.NUMERICA",
+    "desc": "Viscosity DAO I"
+  },
+  {
+    "tagname": "041VIS_DORT2.NUMERICA",
+    "desc": "Viscosity DORT"
+  },
+  {
+    "tagname": "041VIS_LMO1.NUMERICA",
+    "desc": "Viscosity LMO I"
+  },
+  {
+    "tagname": "041VIS_MMO1.NUMERICA",
+    "desc": "Viscosity MMO I"
+  },
+  {
+    "tagname": "35PI_301.PV",
+    "desc": "Long Residue to HVU II"
+  }
+];
