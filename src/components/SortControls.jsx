@@ -199,7 +199,7 @@ export default function SortControls({
           Filter:
         </span>
         {[
-          { id: 'all', label: 'All 67 Tanks' },
+          { id: 'all', label: 'All Tanks (41T-1xx)' },
           { id: 'active', label: 'Active Movements (|Δ| > 10T)' },
           { id: 'receipts', label: 'Receipts (+)' },
           { id: 'dispatches', label: 'Dispatches (-)' },

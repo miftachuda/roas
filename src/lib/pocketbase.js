@@ -14,13 +14,11 @@ export const defaultSettings = {
   sortDirection: 'desc',
   customOrder: [], // array of tank raw names
   flowMappings: {
-    // Sensible defaults for known LOC II tanks:
+    // Sensible defaults for LOC II 41T-1xx tanks:
     '41T116': { flowTag: '021FI_057.PV', flowUnit: 'm3/h', flowDirection: 'inflow', notes: 'LMO Rundown to 41T-116' },
     '41T115': { flowTag: '021FI_058.PV', flowUnit: 'm3/h', flowDirection: 'inflow', notes: 'SPO Rundown to 41T-115' },
     '41T117': { flowTag: '021FI_008.PV', flowUnit: 'm3/h', flowDirection: 'inflow', notes: 'MMO Product to Storage' },
     '41T121': { flowTag: '021FI_002.PV', flowUnit: 'm3/h', flowDirection: 'inflow', notes: 'Short Residue to Storage' },
-    '35T002': { flowTag: '021FI_004.PV', flowUnit: 'm3/h', flowDirection: 'outflow', notes: 'Long Residue Charge to HVU-II' },
-    '43T001': { flowTag: '021FI_004.PV', flowUnit: 'm3/h', flowDirection: 'outflow', notes: 'Long Residue Charge to HVU-II' },
   },
   customSg: {}, // tankId -> custom SG
 };

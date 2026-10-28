@@ -286,7 +286,7 @@ export default function SettingsModal({
                 <span>Deterministic Plant Simulation Mode</span>
               </div>
               <p className="text-[11px] text-slate-400">
-                Generates realistic DCS 00:00 to 24:00 strapping numbers and flow rates for all 67 LOC II tanks when off-site or disconnected from DCS network.
+                Generates realistic DCS 00:00 to 24:00 strapping numbers and flow rates for all LOC II 41T-1xx tanks when off-site or disconnected from DCS network.
               </p>
             </div>
             <label className="relative inline-flex items-center cursor-pointer shrink-0">

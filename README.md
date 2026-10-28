@@ -6,13 +6,13 @@ A modern Single Page Application (SPA) designed for **Pertamina Refinery Unit IV
 
 ## 🚀 Key Capabilities
 
-1. **LOC II Master Tank List (67 Tanks)**:
+1. **LOC II Master Tank List (22 Tanks: 41T-101 to 41T-122)**:
    - Extracted directly from official tank strapping data (`tank.xlsx`).
-   - Covers all LOC II product & intermediate tanks:
-     - **41T-1 to 41T-26**: Parafinic-60, HVI-60, HVI-95, EXDO-4, SPO Raffinate, Minarex, Slack Wax, etc.
-     - **41T-101 to 41T-122**: HVI-95, HVI-160S, HVI-650, LMO/MMO/DAO Raffinates, SPO/LMO/MMO/DAO Distillates, Minarex H, Slops, Short Residue, LSWR.
-     - **41T-301 to 41T-317**: LMO/MMO/DAO Distillates, LMO/MMO/DAO HDT, Short Residue, Asphalt 60/70, MMO/DAO Raffinates, Slops.
-     - **Feed & Component Tanks**: 43T-1 (Long Residue), 35T-2 (Long Residue), 35T-4 (LSWR).
+   - Focused strictly on LOC II main storage & rundown tanks:
+     - **41T-101 to 41T-110**: HVI-95, HVI-160S, HVI-650 products
+     - **41T-111 to 41T-114**: LMO, MMO, and DAO Raffinates
+     - **41T-115 to 41T-118**: SPO, LMO, MMO, and DAO Distillates
+     - **41T-119 to 41T-122**: Minarex H, Slops, Short Residue, LSWR
    - Built-in exact physical tank geometries: diameter ($D$), height ($H$), base area ($A = \pi \times (D/2)^2$), specific gravity (SG), low/high targets, and minimum/maximum safe level limits.
 
 2. **Daily 24-Hour Window Logic (00:00 to 24:00)**:
